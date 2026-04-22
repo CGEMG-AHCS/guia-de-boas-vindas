@@ -5,3 +5,7 @@
 - Publicação inicial do Guia de Boas‑Vindas.
 - Estruturação das informações institucionais básicas.
   
+---
+
+Controladoria‑Geral do Estado de Minas Gerais  
+Governo do Estado de Minas Gerais
