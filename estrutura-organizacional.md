@@ -1,4 +1,6 @@
 # Estrutura Organizacional
 
-A CGE-MG possui estrutura definida em normativos próprios,
-observando os princípios da legalidade e da eficiência.
+A CGE-MG possui estrutura organizacional definida em normativos próprios,
+observando os princípios da legalidade, da eficiência e da segregação
+de funções.
+
