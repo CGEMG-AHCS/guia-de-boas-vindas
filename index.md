@@ -11,3 +11,8 @@ institucionais essenciais aos novos controladores setoriais e seccionais.
 - [Estrutura Organizacional](estrutura-organizacional.html)
 - [Informações Úteis](informacoes-uteis.html)
 
+---
+
+**Versão:** 1.0  
+**Data de publicação:** abril de 2026  
+**Órgão responsável:** Controladoria‑Geral do Estado de Minas Gerais
