@@ -1,7 +1,6 @@
 # Guia de Boas-Vindas
 
 
-
 **Controladoria-Geral do Estado de Minas Gerais**
 
 **Assessoria de Harmonização das Controladorias Setoriais e Seccionais**
