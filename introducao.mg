@@ -1,6 +1,6 @@
 
 # Guia de Boas‑Vindas  
-**Controladoria‑Geral do Estado de Minas Gerais**
+**Controladoria‑Geral do Estado e suas macrofunções**
 
 # Introdução
 
