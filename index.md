@@ -28,6 +28,7 @@ A atuação das controladorias setoriais e seccionais é essencial para o fortal
 - [Trilhas do Desenvolvimento](trilhas.html)
 - [Principais Projetos/Entregas](principais-projetos-entregas.md)
 - [Denúncias](denuncias.html)
+- [Relatórios](relatorios.html)
 ---
 
 **Versão:** 1.0  
