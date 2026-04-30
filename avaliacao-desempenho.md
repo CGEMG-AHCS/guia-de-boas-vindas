@@ -2,7 +2,7 @@
 # AVALIAÇÃO DE DESEMPENHO  
 
 
-A avaliação de desempenho dos controladores setoriais e seccionais da Controladoria-Geral do Estado de Minas Gerais (CGE/MG) é realizada por meio de um modelo estruturado de avaliação por competências, que estabelece critérios objetivos para mensurar o desempenho dos servidores que exercem função de controle interno. Essa sistemática está regulamentada pela Resolução Conjunta SEPLAG/CGE nº 9.751/2017 e orienta-se pelo princípio de desenvolvimento contínuo e alinhamento institucional. 
+A avaliação de desempenho dos controladores setoriais e seccionais da Controladoria-Geral do Estado de Minas Gerais (CGE/MG) é realizada por meio de um modelo estruturado de avaliação por competências, que estabelece critérios objetivos para mensurar o desempenho dos servidores que exercem função de controle interno. Essa sistemática está regulamentada pela [Resolução Conjunta SEPLAG/CGE nº 9.751/2017](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=179912&marc) e orienta-se pelo princípio de desenvolvimento contínuo e alinhamento institucional. 
 
 
 # Quem está sujeito à avaliação 
