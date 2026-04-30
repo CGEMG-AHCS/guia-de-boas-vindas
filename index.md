@@ -21,14 +21,20 @@ A atuação das controladorias setoriais e seccionais é essencial para o fortal
 
 ## Conteúdo
 
-- [Controladoria-Geral do Estado (CGE/MG) e suas macrofunções](controladoria-geral.html)
+- [Controladoria-Geral do Estado (CGE/MG)](controladoria-geral.html)
+- [Auditoria-Geral](auditoria-geral.html)
+- [Corregedoria-Geral](corregedoria-geral.html)
+- [Subcontroladoria de Transparência, Integridade e Controle Social](transparencia.html)
 - [Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)](ahcs.html)
 - [Controladorias Setoriais e Seccionais](controladorias.html)
 - [Sistemas Corporativos da CGE/MG](sistemas.html)
 - [Trilhas do Desenvolvimento](trilhas.html)
-- [Principais Projetos/Entregas](principais-projetos-entregas.md)
 - [Denúncias](denuncias.html)
+- [Principais Projetos/Entregas](principais-projetos-entregas.html)
 - [Relatórios](relatorios.html)
+- [Tomada de Contas Especial (TCE)](tomada-de-contas.html)
+- [Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP)](cafimp.html)
+- [Avaliação de Desempenho dos Controladores Setoriais e Seccionais](avaliacao-desempenho.html)
 ---
 
 **Versão:** 1.0  
