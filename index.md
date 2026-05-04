@@ -26,7 +26,7 @@ A atuação das controladorias setoriais e seccionais é essencial para o fortal
 - [Corregedoria-Geral](corregedoria-geral.html)
 - [Subcontroladoria de Transparência, Integridade e Controle Social](transparencia.html)
 - [Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)](ahcs.html)
-- [Controladorias Setoriais e Seccionais](controladorias.html)
+- [Controladorias Setoriais e Seccionais](controladorias-setoriais-seccionais.html)
 - [Sistemas Corporativos da CGE/MG](sistemas.html)
 - [Trilhas do Desenvolvimento](trilhas.html)
 - [Denúncias](denuncias.html)
