@@ -1,3 +1,4 @@
+
 # Auditoria-Geral
 
 A Auditoria-Geral constitui uma das macrofunções da Controladoria-Geral do Estado, sendo responsável pela condução das atividades de Auditoria Interna Governamental.
@@ -38,4 +39,5 @@ O IA-CM (Internal Audit Capability Model for the Public Sector), desenvolvido em
 
 A CGE-MG destaca-se como o primeiro órgão do Poder Executivo brasileiro a alcançar o nível 3 desse modelo, evidenciando o grau de maturidade e a qualidade de suas práticas de auditoria.
 
-Para mais informações sobre a atuação da Auditoria-Geral, seus projetos e iniciativas, recomenda-se a consulta ao portal institucional da Controladoria-Geral do Estado de Minas Gerais.
+Para mais informações sobre a atuação da Auditoria-Geral, seus projetos e iniciativas, recomenda-se a consulta ao [portal institucional da Controladoria-Geral do Estado de Minas Gerais](https://cge.mg.gov.br/).
+
