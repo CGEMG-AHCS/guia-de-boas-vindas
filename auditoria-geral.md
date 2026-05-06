@@ -1,13 +1,12 @@
-
 # Auditoria-Geral
 
 A Auditoria-Geral constitui uma das macrofunções da Controladoria-Geral do Estado, sendo responsável pela condução das atividades de Auditoria Interna Governamental.
 
 A Auditoria Interna Governamental é uma atividade independente e objetiva, voltada à avaliação e à consultoria, estruturada com o propósito de aprimorar as operações dos órgãos e das entidades da Administração Pública direta, autárquica e fundacional do Poder Executivo. Sua atuação contribui para o alcance dos objetivos institucionais, mediante a aplicação de uma abordagem sistemática e disciplinada voltada à avaliação e ao aperfeiçoamento dos processos de gerenciamento de riscos, controle interno e governança.
 
-As unidades de auditoria interna têm como finalidade agregar e proteger valor às organizações públicas, contribuindo para a melhoria da gestão por meio da prestação de serviços de avaliação, consultoria e apuração. Essas atividades visam ao fortalecimento dos processos de governança, de gerenciamento de riscos e de controle interno, conforme disposto no art. 4º do Decreto nº 48.420/2022.
+As unidades de auditoria interna têm como finalidade agregar e proteger valor às organizações públicas, contribuindo para a melhoria da gestão por meio da prestação de serviços de avaliação, consultoria e apuração. Essas atividades visam ao fortalecimento dos processos de governança, de gerenciamento de riscos e de controle interno, conforme disposto no art. 4º do [Decreto nº 48.420, de 16 de maio de 2022](https://www.almg.gov.br/legislacao-mineira/DEC/48420/2022/).
 
-A atividade de Auditoria Interna Governamental é exercida pelos órgãos e entidades integrantes do Sistema de Controle Interno do Poder Executivo, conforme previsto no art. 61 da Lei nº 23.304, de 30 de maio de 2019, e no art. 2º do Decreto nº 48.420, de 16 de maio de 2022. Integram esse sistema: a Controladoria-Geral do Estado de Minas Gerais (CGE-MG), como órgão central, diretamente subordinado ao Governador do Estado, cuja função de auditoria interna é exercida pela Auditoria-Geral; as Controladorias Setoriais e Seccionais (CSET/CSEC), unidades executoras tecnicamente subordinadas à CGE; e as unidades de controle interno das empresas públicas e sociedades de economia mista.
+A atividade de Auditoria Interna Governamental é exercida pelos órgãos e entidades integrantes do Sistema de Controle Interno do Poder Executivo, conforme previsto no art. 61 da [Lei nº 23.304, de 30 de maio de 2019](https://www.almg.gov.br/legislacao-mineira/LEI/23304/2019/), e no art. 2º do [Decreto nº 48.420/2022](https://www.almg.gov.br/legislacao-mineira/DEC/48420/2022/). Integram esse sistema: a Controladoria-Geral do Estado de Minas Gerais (CGE-MG), como órgão central, diretamente subordinado ao Governador do Estado, cuja função de auditoria interna é exercida pela Auditoria-Geral; as Controladorias Setoriais e Seccionais (CSET/CSEC), unidades executoras tecnicamente subordinadas à CGE; e as unidades de controle interno das empresas públicas e sociedades de economia mista.
 
 # Serviços prestados
 
@@ -29,7 +28,7 @@ Refere-se à realização de procedimentos destinados a investigar atos e fatos 
 
 # Estatuto de Auditoria
 
-O Decreto nº 48.420, de 16 de maio de 2022, dispõe sobre a atividade de auditoria interna no âmbito da Administração Pública direta, autárquica e fundacional do Poder Executivo.
+O [Decreto nº 48.420, de 16 de maio de 2022](https://www.almg.gov.br/legislacao-mineira/DEC/48420/2022/), dispõe sobre a atividade de auditoria interna no âmbito da Administração Pública direta, autárquica e fundacional do Poder Executivo.
 
 A Auditoria-Geral estabeleceu como visão institucional tornar-se referência nacional em auditoria interna governamental, oferecendo serviços de avaliação e consultoria alinhados a padrões de excelência nacionais e internacionais. Nesse contexto, a Controladoria-Geral do Estado de Minas Gerais tem avançado de forma consistente em seus objetivos.
 
