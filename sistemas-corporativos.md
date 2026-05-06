@@ -7,7 +7,7 @@ Para apoiar suas atividades na CGE-MG, você contará com sistemas corporativos 
 
 # - [DTIC](https://atendimentoti.cge.mg.gov.br/)
 
-Finalidade: Prestar atendimento sobre assuntos de tecnologia da informação e Comunicação.
+O DTIC é o sistema de atendimento interno da CGE-MG voltado às demandas de tecnologia da informação e comunicação. Por meio dele, os servidores podem registrar solicitações, acompanhar chamados e obter suporte técnico de forma ágil e organizada. A utilização do DTIC contribui para a melhoria contínua dos serviços de TI, garantindo maior eficiência, transparência e qualidade no atendimento às necessidades institucionais.
 
 Suporte:
 
