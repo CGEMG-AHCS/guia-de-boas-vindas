@@ -21,7 +21,7 @@ A atuação das controladorias setoriais e seccionais é essencial para o fortal
 
 ## Conteúdo
 
-- [Controladoria-Geral do Estado (CGE/MG)](controladoria-geral.html)
+- [Controladoria-Geral do Estado (CGE/MG)](introducao.html)
 - [Auditoria-Geral](auditoria-geral.html)
 - [Corregedoria-Geral](corregedoria-geral.html)
 - [Subcontroladoria de Transparência, Integridade e Controle Social](transparencia.html)
