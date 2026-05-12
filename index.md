@@ -23,7 +23,7 @@ A atuação das controladorias setoriais e seccionais é essencial para o fortal
 
 - [Controladoria-Geral do Estado (CGE/MG)](introducao.html)
 - [Auditoria-Geral (AUGE)](auditoria-geral.html)
-- [Corregedoria-Geral(COGE)](corregedoria-geral.html)
+- [Corregedoria-Geral (COGE)](corregedoria-geral.html)
 - [Subcontroladoria de Transparência, Integridade e Controle Social (SUTI)](transparencia.html)
 - [Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)](ahcs.html)
 - [Controladorias Setoriais e Seccionais](controladorias-setoriais-seccionais.html)
