@@ -32,6 +32,7 @@ A atuação das controladorias setoriais e seccionais é essencial para o fortal
 - [Denúncias](denuncias.html)
 - [Principais Projetos/Entregas](principais-projetos-entregas.html)
 - [PACI e RACI](relatorios.html)
+- [Processo Administrativo de Responsabilização (PAR)](par.html) 
 - [Tomada de Contas Especial (TCE)](tomada-de-contas.html)
 - [Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP)](cafimp.html)
 - [Avaliação de Desempenho dos Controladores Setoriais e Seccionais](avaliacao-desempenho.html)
