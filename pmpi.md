@@ -1,4 +1,4 @@
-# Política Mineira de Promoção da Integridade – PMPI 
+# Política Mineira de Promoção da Integridade – PMPI
 
 A Política Mineira de Promoção da Integridade – PMPI foi estabelecida pelo Decreto Estadual n.º 48.419, de 16 de maio de 2022, em substituição ao Plano Mineiro de Promoção da Integridade, de que trata o Decreto Estadual nº 47.185, de 13 de maio de 2017.
 
@@ -24,7 +24,28 @@ A CGE é responsável pela coordenação da PMPI junto aos demais órgãos e ent
 
 Além de regulamentar programas e ações relativos à integridade, ao controle social, à transparência e ao acesso à informação, a CGE-MG desenvolve instrumentos, orientações e normas complementares que apoiam a implementação da PMPI, incentivam a adoção de práticas de prevenção e enfrentamento à corrupção, de mitigação de riscos relacionados à integridade e de fortalecimento da conduta ética no setor público e privado.
 
+Nesse contexto, a Controladoria-Geral do Estado lançou o  [Sistema Eletrônico de Gestão da Política Mineira de Promoção da Integridade (SisPMPI)](https://sispmpi.mg.gov.br/site/login), cuja utilização é obrigatória pelos órgãos e entidades do Poder Executivo do Estado de Minas Gerais, nos termos do Decreto nº 48.419/2022. A plataforma foi estruturada em quatro módulos integrados — Elaboração, Execução, Monitoramento e Avaliação —, destinados a apoiar a implementação, o acompanhamento e o aperfeiçoamento contínuo da Política Mineira de Promoção da Integridade.
 
 # Repositório da PMPI
 
 Todas as ações, projetos, legislação, planos e programas de integridade estão disponíveis no [portal eletrônico da PMPI](https://pmpi.mg.gov.br/).
+
+# Para mais informações entre em contato
+
+Subcontroladoria de Transparência, Integridade e Controle Social - SUTI
+
+Controladoria-Geral do Estado de Minas Gerais - CGE-MG
+
+Rodovia Papa João Paulo II, 4.000
+
+Edifício Gerais, 12º andar - Cidade Administrativa
+
+Bairro Serra Verde - Belo Horizonte - Minas Gerais
+
+CEP 31630-901
+
+E-mail: integridade@cge.mg.gov.br
+
+Telefone de contato: +55 31 3915-8916
+
+
