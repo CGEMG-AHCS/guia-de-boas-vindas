@@ -39,19 +39,30 @@ O RAG será divulgado conforme previsto no Capítulo VIII – Divulgação do Re
 
 # Fundamentação Legal
 
-inciso II, art. 71, da Constituição Federal
+- [Inciso II, art. 71, da Constituição Federal/88;](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
 
-inciso II, art. 76 da Constituição Estadual
+- [Inciso II, art. 76 da Constituição Estadual/89;](https://www.almg.gov.br/legislacao-mineira/texto/CON/1989/1989/)
 
-art. 59 da Lei Complementar Federal nº 101
+- [Art. 59 da Lei Complementar Federal nº 101, de 04 de maio de 2000;](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm)
 
-art. 3º, inciso XXIX, e art. 46 da Lei Complementar nº 102, de 17 de janeiro de 2008 (Lei Orgânica do TCEMG)
+- [Art. 3º, inciso XXIX, e art. 46 da Lei Complementar nº 102, de 17 de janeiro de 2008 (Lei Orgânica do TCEMG);](https://www.almg.gov.br/legislacao-mineira/texto/LCP/102/2008/)
 
-Instrução Normativa nº 14, de 14/12/2011
+- [Instrução Normativa TCE/MG nº 14, de 14 de dezembro de 2011;](https://www.tce.mg.gov.br/projetocontas/atos/IN-14-11.pdf)
 
-art. 8º da Lei nº 12.527, de 18 de novembro de 2011
+- [art. 8º da Lei nº 12.527, de 18 de novembro de 2011;](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
 
-Decreto Estadual nº 45.969/2012.
+- [Decreto Estadual nº 45.969, de 24 de maio de 2012.](https://www.almg.gov.br/legislacao-mineira/DEC/45969/2012/)
+  
+
+# Interlocutor Institucional
+
+Diretoria Central de Auditoria de Contas
+
+Carolina Lage Pedroso Bertani
+
+Telefone: (31) 3915-8983
+
+Endereço Eletrônico: carolina.bertani@cge.mg.gov.br
 
 
 
