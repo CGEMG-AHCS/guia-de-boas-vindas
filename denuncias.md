@@ -3,6 +3,9 @@
 
 # O que é uma denúncia?
 
+Denúncia é a comunicação formal apresentada por qualquer pessoa à Administração ou aos órgãos de controle, noticiando a ocorrência de irregularidade, ilegalidade ou indício de desvio na gestão pública, com vistas à apuração e adoção das medidas cabíveis. Conforme a doutrina e normativos dos órgãos de controle, caracteriza-se por conter elementos mínimos de identificação do fato e sua materialidade, podendo ser identificada ou anônima, e distinguindo-se de outras manifestações por seu potencial de ensejar procedimentos investigativos e eventual responsabilização.
+No âmbito do tratamento institucional, a denúncia constitui insumo relevante para a governança e, após triagem e análise preliminar, poderá ser encaminhada para apuração específica, sendo analisada no âmbito da correição — quando envolver condutas e eventual responsabilização de agentes — ou da auditoria — quando demandar avaliação de processos, controles internos e riscos —, a depender do objeto noticiado.
+
 As controladorias setoriais e seccionais exercem papel essencial na análise preliminar e no encaminhamento adequado das denúncias.
 
 No âmbito do Poder Executivo Estadual de Minas Gerais:
