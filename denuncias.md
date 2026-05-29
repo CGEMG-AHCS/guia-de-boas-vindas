@@ -34,11 +34,11 @@ As unidades devem atuar de forma coordenada para evitar sobreposição e podem, 
 
 A apuração de denúncias é realizada conforme as competências e capacidade técnica das unidades de apuração, orientada pela avaliação de riscos e por critérios específicos definidos internamente. Deve observar, ainda, normativos que tratam da priorização de procedimentos disciplinares e das orientações técnicas de auditoria interna governamental.
 
-**Análise Preliminar** – Verificação inicial da suficiência e consistência das informações para decidir sobre a instauração de procedimentos; caso não haja indícios suficientes, a denúncia pode ser arquivada de forma fundamentada.
+**Análise preliminar** – Verificação inicial da suficiência e consistência das informações para decidir sobre a instauração de procedimentos; caso não haja indícios suficientes, a denúncia pode ser arquivada de forma fundamentada.
 
 **Execução** – Realização dos procedimentos de auditoria ou correcionais adequados para apurar a existência de ilegalidades ou irregularidades nos fatos denunciados.
 
-**Resposta Conclusiva** – Finalização da apuração com envio à OGE de resultado conclusivo, podendo ser pelo arquivamento ou pela confirmação e apuração dos fatos.
+**Resposta conclusiva** – Finalização da apuração com envio à OGE de resultado conclusivo, podendo ser pelo arquivamento ou pela confirmação e apuração dos fatos.
 
 
 # Normativos e Materiais Instrucionais
