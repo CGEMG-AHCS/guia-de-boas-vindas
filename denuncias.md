@@ -95,9 +95,9 @@ Endereço Eletrônico: raquel.damazio@cge.mg.gov.br
 
 # Disposições finais
 
-As unidades envolvidas no tratamento de denúncias deverão observar os procedimentos e medidas deproteção à identidade do denunciante de ilícito ou irregularidades praticados contra órgãos e entidades da Administração pública direta,autárquica e fundacional do Poder Executivo, conforme o disposto no Decreto nº 48.582, de 3 de março de 2023.
+As unidades envolvidas no tratamento de denúncias deverão observar os procedimentos e medidas de proteção à identidade do denunciante de ilícito ou irregularidades praticados contra órgãos e entidades da Administração pública direta, autárquica e fundacional do Poder Executivo, conforme o disposto no Decreto nº 48.582, de 3 de março de 2023.
 
-As denúncias recebidas diretamente pela CGE serão encaminhadas à OGE, órgão competente para receber,analisar, encaminhar e acompanhar, até a decisão administrativa final, as manifestações apresentadas pelos cidadãos eusuários dos serviços públicos.
+As denúncias recebidas diretamente pela CGE serão encaminhadas à OGE, órgão competente para receber, analisar, encaminhar e acompanhar, até a decisão administrativa final, as manifestações apresentadas pelos cidadãos e usuários dos serviços públicos.
 
 As denúncias que versam sobre assédio moral serão acolhidas, registradas e apuradas de acordo com as disposições consignadas no Decreto nº 47.528/2018.
 
