@@ -34,23 +34,12 @@ As unidades devem atuar de forma coordenada para evitar sobreposição e podem, 
 
 A apuração de denúncias é realizada conforme as competências e capacidade técnica das unidades de apuração, orientada pela avaliação de riscos e por critérios específicos definidos internamente. Deve observar, ainda, normativos que tratam da priorização de procedimentos disciplinares e das orientações técnicas de auditoria interna governamental.
 
-Análise Preliminar (Art. 17, I) – Filtro de suficiência e validade. Se não houver indícios fundados, procede-se com o arquivamento fundamentado, poupando recursos do Estado.
+**Análise Preliminar** – Verificação inicial da suficiência e consistência das informações para decidir sobre a instauração de procedimentos; caso não haja indícios suficientes, a denúncia pode ser arquivada de forma fundamentada.
 
-Execução (Art. 17, II) – Aplicação dos procedimentos técnicos adequados ao caso concreto (Auditoria ou Correição), focados em averiguar a real ocorrência de ilegalidades.
+**Execução** – Realização dos procedimentos de auditoria ou correcionais adequados para apurar a existência de ilegalidades ou irregularidades nos fatos denunciados.
 
-Resposta Conclusiva (Art. 17, III) – O ciclo interno se fecha. Envio do resultado da apuração ou do arquivamento de volta à OGE, exaurindo a atuação da CGE no caso.
+**Resposta Conclusiva** – Finalização da apuração com envio à OGE de resultado conclusivo, podendo ser pelo arquivamento ou pela confirmação e apuração dos fatos.
 
-# Priorização Baseada em Risco
-
-Nem toda denúncia segue o mesmo caminho ou ritmo. A IN 01/2024 (Art. 13) estabelece o cruzamento vital para definir o esforço institucional.
-
-- Risco Extremo ou Alto (Apuração prioritária): Alto detalhamento combinado com alta probabilidade de dano à Administração Pública. Mobilização imediata.
-
-- Quando não há materialidade para apuração imediata, a denúncia não é descartada; ela é incluída em trabalhos em andamento ou compõe mapas de calor para futuras ações de controle (Art. 15).
-
-# Legislação
-
-Instrução Normativa 1, de 07/06/2026 (Controladoria-Geral do Estado (CGE)
 
 # Instrumentos 
 
@@ -64,7 +53,26 @@ Calculadora de Dosimetria de Sanções Disciplinares
 
 Sistema de Admissibilidade Correcional.
 
-# Interlocução Institucional 
+# Normativos e Materiais Instrucionais
+
+- [Lei nº 869/1952 - Estatuto dos Funcionários Públicos Civis do Estado de Minas Gerais;](https://www.almg.gov.br/legislacao-mineira/texto/LEI/869/1952/)
+  
+- [Lei nº 14.184/2002 - dispõe sobre processo administrativo no âmbito da Administração Pública Estadual;](https://www.almg.gov.br/legislacao-mineira/texto/LEI/14184/2002/?cons=1)
+
+- [Decreto nº 47.528/2018 - dispõe sobre a prevenção e a punição do assédio moral na administração pública estadual;](https://www.almg.gov.br/legislacao-mineira/DEC/47528/2018/)
+
+- [Resolução Conjunta OGE/SEPLAG/CGE nº 01/2022 - estabelece procedimentos para o acolhimento, o registro, o tratamento e a apuração de denúncia sobre a prática deassédio moral;](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=199642&marc=)
+
+- [Resolução Conjunta OGE/CGE nº 1/2022 - dispõe sobre a adoção de procedimentos entre a Ouvidoria-Geral do Estado e a Controladoria-Geral do Estado para o encaminhamento de denúncias;](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=198898&marc=)
+
+- [Instrução Normativa CGE nº1/2024 - dispõe sobre as diretrizes de tratamento de denúncias no âmbito da Controladoria-Geral do Estado;](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=210582&marc=)
+
+- [Manual de Apuração de Ilícitos Administrativos do Poder Executivo do Estado de Minas Gerais;](https://conrege.mg.gov.br/publicacoes/sumario-manual-digital)
+
+- [Manuais e Cartilhas.](https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas)
+
+
+# Interlocução institucional 
 
 AUGE - apuração de denúncia na AUGE – Núcleo de Desenvolvimento da Capacidade de Auditoria Interna (NDCA)
 
@@ -87,6 +95,6 @@ Telefone: (31) 3915-8996
 Endereço Eletrônico: raquel.damazio@cge.mg.gov.br 
 
 
-# Considerações finais
+# Disposições finais
 
 Para mais informações acerca das diretrizes de tratamento de denúncias no âmbito da Controladoria-Geral do Estado, consulte a Resolução Conjunta 1, de 18/01/2022 e a Instrução Normativa 1, de 07/06/2024, bem como o Manual de Apuração de Ilícitos Administrativos do Poder Executivo do Estado de Minas Gerais.
