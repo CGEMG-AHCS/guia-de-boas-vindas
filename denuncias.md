@@ -41,18 +41,6 @@ A apuração de denúncias é realizada conforme as competências e capacidade t
 **Resposta Conclusiva** – Finalização da apuração com envio à OGE de resultado conclusivo, podendo ser pelo arquivamento ou pela confirmação e apuração dos fatos.
 
 
-# Instrumentos 
-
-Calculadora de Risco 	Intranet CGE
-
-Conrege – Corregedoria-Geral – Ferramentas  
-
-Calculadora de prazo prescricional 
-
-Calculadora de Dosimetria de Sanções Disciplinares  
-
-Sistema de Admissibilidade Correcional.
-
 # Normativos e Materiais Instrucionais
 
 - [Lei nº 869/1952 - Estatuto dos Funcionários Públicos Civis do Estado de Minas Gerais;](https://www.almg.gov.br/legislacao-mineira/texto/LEI/869/1952/)
@@ -72,11 +60,21 @@ Sistema de Admissibilidade Correcional.
 - [Manuais e Cartilhas.](https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas)
 
 
+# Ferramentas de apoio
+
+Além dos normativos e materiais instrucionais já citados, as unidades responsáveis pela apuração das denúncias poderão dispor de instrumentos disponibilizados pela Corregedoria-Geral no site do Conselho de Corregedorias de Minas Gerais [CONREGE](https://conrege.mg.gov.br/#), no menu "Corregedorias / Corregedoria-Geral". São elas:
+
+I - [Calculadora de prazo prescricional](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/calculadora-de-prazo-prescricional);
+
+II - [Calculadora de Dosimetria de Sanções Disciplinares](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/calculadora-de-dosimetria-de-sancoes-disciplinares)
+
+III - [SAC - Sistema de Admissibilidade Correcional](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/sistema-de-admissibilidade-correcional)
+
+
 # Interlocução institucional 
 
-AUGE - apuração de denúncia na AUGE – Núcleo de Desenvolvimento da Capacidade de Auditoria Interna (NDCA)
+No âmbito da Auditoria-Geral (AUGE), os assuntos referentes à apuração de denúncias poderão ser tratados no Núcleo de Desenvolvimento da Capacidade de Auditoria Interna (NDCA):
 
-NÚCLEO DE DESENVOLVIMENTO DA CAPACIDADE DE AUDITORIA INTERNA
 
 Júnia Maria Pinheiro de Oliveira
 
@@ -84,9 +82,9 @@ Telefone: (31) 3915-8907
 
 Endereço Eletrônico: junia.pinheiro@cge.mg.gov.br
 
-COGE - 
 
-SUPERINTENDÊNCIA CENTRAL DE ANÁLISE E SUPERVISÃO CORRECIONAL
+No âmbito da Corregedoria-Geral (COGE), a unidade responsável pela apuração de denúncias é a Superintendência Central de Análise e Supervisão Correcional (SCASC): 
+
 
 Raquel de Oliveira Damázio Prudêncio
 
@@ -97,4 +95,10 @@ Endereço Eletrônico: raquel.damazio@cge.mg.gov.br
 
 # Disposições finais
 
-Para mais informações acerca das diretrizes de tratamento de denúncias no âmbito da Controladoria-Geral do Estado, consulte a Resolução Conjunta 1, de 18/01/2022 e a Instrução Normativa 1, de 07/06/2024, bem como o Manual de Apuração de Ilícitos Administrativos do Poder Executivo do Estado de Minas Gerais.
+As unidades envolvidas no tratamento de denúncias deverão observar os procedimentos e medidas deproteção à identidade do denunciante de ilícito ou irregularidades praticados contra órgãos e entidades da Administração pública direta,autárquica e fundacional do Poder Executivo, conforme o disposto no Decreto nº 48.582, de 3 de março de 2023.
+
+As denúncias recebidas diretamente pela CGE serão encaminhadas à OGE, órgão competente para receber,analisar, encaminhar e acompanhar, até a decisão administrativa final, as manifestações apresentadas pelos cidadãos eusuários dos serviços públicos.
+
+As denúncias que versam sobre assédio moral serão acolhidas, registradas e apuradas de acordo com as disposições consignadas no Decreto nº 47.528/2018.
+
+
