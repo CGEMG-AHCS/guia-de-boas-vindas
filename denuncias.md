@@ -20,7 +20,7 @@ No âmbito do Poder Executivo Estadual de Minas Gerais:
 
 As diretrizes aplicáveis ao tratamento de denúncias no âmbito da Controladoria-Geral do Estado encontram-se estabelecidas na Instrução Normativa nº 01/2024. Em linhas gerais, destacam-se as seguintes orientações:
 
-# 1.	Triagem e Risco
+# Triagem e Risco
 
 **Porta de entrada** – As denúncias da OGE são recebidas pela AHCS/CGE quando apresentam relevância, complexidade, envolvimento de autoridades, múltiplos órgãos ou impossibilidade de apuração no órgão de origem; caso contrário, são encaminhadas às controladorias setoriais/seccionais ou estatais. 
 
@@ -30,7 +30,7 @@ As unidades devem atuar de forma coordenada para evitar sobreposição e podem, 
 
 **Avaliação de Riscos** – A avaliação de riscos da denúncia deve ser realizada imediatamente após o seu recebimento, por meio da matriz de Criticidade x Detalhamento (probabilidade x impacto). Denúncias classificadas como alto ou extremo risco têm apuração prioritária, enquanto as de baixo ou médio risco podem ser tratadas de forma subsidiária, como inclusão em trabalhos, encaminhamento à gestão ou uso como insumo para ações futuras.
 
-# 2.	Execução e Conclusão
+# Execução e Conclusão
 
 A apuração de denúncias é realizada conforme as competências e capacidade técnica das unidades de apuração, orientada pela avaliação de riscos e por critérios específicos definidos internamente. Deve observar, ainda, normativos que tratam da priorização de procedimentos disciplinares e das orientações técnicas de auditoria interna governamental.
 
