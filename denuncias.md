@@ -1,6 +1,8 @@
 
 # DENÚNCIAS 
 
+# Disposições preliminares
+
 Denúncia é a comunicação formal apresentada por qualquer pessoa à Administração ou aos órgãos de controle, noticiando a ocorrência de irregularidade, ilegalidade ou indício de desvio na gestão pública, com vistas à apuração e adoção das medidas cabíveis. Conforme a doutrina e normativos dos órgãos de controle, caracteriza-se por conter elementos mínimos de identificação do fato e sua materialidade, podendo ser identificada ou anônima, e distinguindo-se de outras manifestações por seu potencial de ensejar procedimentos investigativos e eventual responsabilização.
 
 No âmbito do tratamento institucional, a denúncia constitui insumo relevante para a governança e, após triagem e análise preliminar, poderá ser encaminhada para apuração específica, sendo analisada no âmbito da correição — quando envolver condutas e eventual responsabilização de agentes — ou da auditoria — quando demandar avaliação de processos, controles internos e riscos —, a depender do objeto noticiado.
@@ -16,15 +18,21 @@ No âmbito do Poder Executivo Estadual de Minas Gerais:
 
 # Tratamento das denúncias no âmbito da CGE e das controladorias setoriais e seccionais 
 
+As diretrizes aplicáveis ao tratamento de denúncias no âmbito da Controladoria-Geral do Estado encontram-se estabelecidas na Instrução Normativa nº 01/2024. Em linhas gerais, destacam-se as seguintes orientações:
+
 # 1.	Triagem e Risco
 
-Porta de entrada (AHCS – Art. 3º) – recebe os casos complexos, de alta relevância financeira, ou que envolvam autoridades e múltiplos órgãos encaminhados pela Ouvidoria-Geral (OGE). 
+**Porta de entrada** – As denúncias da OGE são recebidas pela AHCS/CGE quando apresentam relevância, complexidade, envolvimento de autoridades, múltiplos órgãos ou impossibilidade de apuração no órgão de origem; caso contrário, são encaminhadas às controladorias setoriais/seccionais ou estatais. 
 
-Distribuição (Art. 4º) – direcionamento cirúrgico para a unidade pertinente: Auge, Coge, ou devolução motivada para controladorias setoriais e seccionais.
+**Distribuição** – Após o recebimento pela AHCS, a denúncia é encaminhada à unidade de apuração competente, principalmente à Corregedoria-Geral (COGE), quando envolver responsabilidade disciplinar ou atos ilícitos, ou à Auditoria-Geral (AUGE), quando tratar de falhas em processos e controles.
 
-Avaliação de Risco (Art. 12/13) – aplicação imediata da matriz de Criticidade x Detalhamento para definir a urgência e o rito de tratamento.
+As unidades devem atuar de forma coordenada para evitar sobreposição e podem, conforme a relevância, redistribuir as demandas às controladorias setoriais/seccionais, além de promover encaminhamentos complementares a instâncias específicas, quando cabível.
+
+**Avaliação de Riscos** – A avaliação de riscos da denúncia deve ser realizada imediatamente após o seu recebimento, por meio da matriz de Criticidade x Detalhamento (probabilidade x impacto). Denúncias classificadas como alto ou extremo risco têm apuração prioritária, enquanto as de baixo ou médio risco podem ser tratadas de forma subsidiária, como inclusão em trabalhos, encaminhamento à gestão ou uso como insumo para ações futuras.
 
 # 2.	Execução e Conclusão
+
+A apuração de denúncias é realizada conforme as competências e capacidade técnica das unidades de apuração, orientada pela avaliação de riscos e por critérios específicos definidos internamente. Deve observar, ainda, normativos que tratam da priorização de procedimentos disciplinares e das orientações técnicas de auditoria interna governamental.
 
 Análise Preliminar (Art. 17, I) – Filtro de suficiência e validade. Se não houver indícios fundados, procede-se com o arquivamento fundamentado, poupando recursos do Estado.
 
