@@ -1,7 +1,11 @@
 
 # DENÚNCIAS 
 
+
+
 # Disposições preliminares
+
+
 
 Denúncia é a comunicação formal apresentada por qualquer pessoa à Administração ou aos órgãos de controle, noticiando a ocorrência de irregularidade, ilegalidade ou indício de desvio na gestão pública, com vistas à apuração e adoção das medidas cabíveis. Conforme a doutrina e normativos dos órgãos de controle, caracteriza-se por conter elementos mínimos de identificação do fato e sua materialidade, podendo ser identificada ou anônima, e distinguindo-se de outras manifestações por seu potencial de ensejar procedimentos investigativos e eventual responsabilização.
 
@@ -14,6 +18,7 @@ No âmbito do Poder Executivo Estadual de Minas Gerais:
 - A Ouvidoria-Geral do Estado (OGE) é responsável pelo recebimento das denúncias e pela análise prévia de plausabilidade;
   
 - A Controladoria-Geral do Estado (CGE) é responsável pela apuração, direta ou indireta, dessas denúncias. A apuração pode ser realizada pela Auditoria-Geral, Corregedoria-Geral ou pelas controladorias setoriais e seccionais, conforme a matéria, o órgão envolvido e a natureza dos fatos denunciados. 
+
 
 
 # Tratamento das denúncias no âmbito da CGE e das controladorias setoriais e seccionais 
@@ -41,6 +46,7 @@ A apuração de denúncias é realizada conforme as competências e capacidade t
 **Resposta conclusiva** – Finalização da apuração com envio à OGE de resultado conclusivo, podendo ser pelo arquivamento ou pela confirmação e apuração dos fatos.
 
 
+
 # Normativos e Materiais Instrucionais
 
 - [Lei nº 869/1952 - Estatuto dos Funcionários Públicos Civis do Estado de Minas Gerais;](https://www.almg.gov.br/legislacao-mineira/texto/LEI/869/1952/)
@@ -60,15 +66,17 @@ A apuração de denúncias é realizada conforme as competências e capacidade t
 - [Manuais e Cartilhas.](https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas)
 
 
+
 # Ferramentas de apoio
 
 Além dos normativos e materiais instrucionais já citados, as unidades responsáveis pela apuração das denúncias poderão dispor de instrumentos disponibilizados pela Corregedoria-Geral no site do Conselho de Corregedorias de Minas Gerais [CONREGE](https://conrege.mg.gov.br/#), no menu "Corregedorias / Corregedoria-Geral". São elas:
 
-I - [Calculadora de prazo prescricional](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/calculadora-de-prazo-prescricional);
+I - [Calculadora de prazo prescricional](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/calculadora-de-prazo-prescricional)
 
 II - [Calculadora de Dosimetria de Sanções Disciplinares](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/calculadora-de-dosimetria-de-sancoes-disciplinares)
 
 III - [SAC - Sistema de Admissibilidade Correcional](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/sistema-de-admissibilidade-correcional)
+
 
 
 # Interlocução institucional 
@@ -83,6 +91,7 @@ Telefone: (31) 3915-8907
 Endereço Eletrônico: junia.pinheiro@cge.mg.gov.br
 
 
+\
 No âmbito da Corregedoria-Geral (COGE), a unidade responsável pela apuração de denúncias é a Superintendência Central de Análise e Supervisão Correcional (SCASC): 
 
 
@@ -91,6 +100,7 @@ Raquel de Oliveira Damázio Prudêncio
 Telefone: (31) 3915-8996
 
 Endereço Eletrônico: raquel.damazio@cge.mg.gov.br 
+
 
 
 # Disposições finais
