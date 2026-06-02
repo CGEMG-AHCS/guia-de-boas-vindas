@@ -13,17 +13,22 @@ A estrutura contempla ainda superintendências e diretorias especializadas em au
 Nesse contexto, as Controladorias Setoriais e Seccionais desempenham papel fundamental na execução descentralizada das atividades de auditoria interna nos órgãos e entidades estaduais, atuando em permanente articulação técnica com a Auditoria-Geral. Essa relação fortalece a padronização de procedimentos, o compartilhamento de informações, a supervisão técnica e a atuação integrada do Subsistema de Auditoria Interna do Poder Executivo de Minas Gerais.
 
 
-# Estatuto de Auditoria
+# Auditoria Interna Governamental
 
-O [Decreto nº 48.420, de 16 de maio de 2022](https://www.almg.gov.br/legislacao-mineira/DEC/48420/2022/), dispõe sobre a atividade de auditoria interna no âmbito da Administração Pública direta, autárquica e fundacional do Poder Executivo.
+A atividade de Auditoria Interna Governamental no âmbito da Administração Pública do Poder Executivo do Estado de Minas Gerais encontra-se regulamentada pelo Decreto nº 48.420, de 16 de maio de 2022, normativo que estabelece os princípios, diretrizes e parâmetros gerais aplicáveis à atuação das unidades de auditoria interna do Estado.
 
-A Auditoria-Geral estabeleceu como visão institucional tornar-se referência nacional em auditoria interna governamental, oferecendo serviços de avaliação e consultoria alinhados a padrões de excelência nacionais e internacionais. Nesse contexto, a Controladoria-Geral do Estado de Minas Gerais tem avançado de forma consistente em seus objetivos.
+Complementando esse arcabouço normativo, foi editada a Instrução Normativa CGE/AUGE nº 4/2020, que dispõe sobre as orientações técnicas da atividade de Auditoria Interna Governamental no Poder Executivo estadual. O normativo consolida conceitos, princípios, metodologias, diretrizes e procedimentos destinados a orientar e padronizar a atuação das Unidades de Auditoria Interna Governamental, contribuindo para o fortalecimento da qualidade, da eficiência e da efetividade das ações de auditoria.
 
-Em 24 de setembro de 2025, a CGE-MG recebeu a certificação simbólica de nível 3 do Modelo de Capacidade de Auditoria Interna (IA-CM), durante o 21º Encontro Nacional de Controle Interno. A certificação foi concedida pelo Conselho Nacional de Controle Interno (Conaci), instituição independente responsável pela validação da metodologia no Brasil.
+Com o propósito de alinhar suas práticas aos mais elevados padrões nacionais e internacionais de auditoria interna, a Controladoria-Geral do Estado de Minas Gerais adotou o Modelo de Capacidade de Auditoria Interna para o Setor Público – IA-CM (Internal Audit Capability Model for the Public Sector), framework internacionalmente reconhecido e desenvolvido pelo Instituto dos Auditores Internos (IIA), com apoio do Banco Mundial.
 
-O IA-CM (Internal Audit Capability Model for the Public Sector), desenvolvido em 2009 pelo Instituto dos Auditores Internos (IIA), com apoio do Banco Mundial e atualizado em 2017, é um modelo internacionalmente reconhecido que define os elementos essenciais para uma auditoria interna eficaz. Ele funciona como ferramenta estratégica, instrumento de autoavaliação e referência para avaliações externas, além de orientar o desenvolvimento contínuo das atividades de auditoria.
+O IA-CM constitui um modelo de referência voltado à avaliação e ao aprimoramento da maturidade das atividades de auditoria interna, identificando os elementos essenciais para uma atuação efetiva, estratégica e agregadora de valor à gestão pública. Baseado em práticas reconhecidas internacionalmente, o modelo contribui para o fortalecimento da governança, do gerenciamento de riscos e dos controles internos das organizações públicas.
 
-A CGE-MG destaca-se como o primeiro órgão do Poder Executivo brasileiro a alcançar o nível 3 desse modelo, evidenciando o grau de maturidade e a qualidade de suas práticas de auditoria.
+Como reconhecimento dos avanços institucionais alcançados na consolidação e no aprimoramento da atividade de auditoria interna governamental, a CGE-MG recebeu, em 24 de setembro de 2025, a certificação simbólica de Nível 3 do IA-CM, durante o 21º Encontro Nacional de Controle Interno. A certificação foi concedida pelo Conselho Nacional de Controle Interno (Conaci), instituição responsável pela validação da metodologia no Brasil.
+
+
+# Legislação e Orientações Normativas
+
+
 
 Para mais informações sobre a atuação da Auditoria-Geral, seus projetos e iniciativas, recomenda-se a consulta ao [portal institucional da Controladoria-Geral do Estado de Minas Gerais](https://cge.mg.gov.br/).
 
