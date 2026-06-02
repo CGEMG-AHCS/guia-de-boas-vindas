@@ -1,30 +1,17 @@
 # Auditoria-Geral
 
-A Auditoria-Geral constitui uma das macrofunções da Controladoria-Geral do Estado, sendo responsável pela condução das atividades de Auditoria Interna Governamental.
+A Auditoria-Geral constitui uma das macrofunções da Controladoria-Geral do Estado de Minas Gerais, sendo responsável pela coordenação e execução das atividades de Auditoria Interna Governamental no âmbito do Poder Executivo estadual. Sua atuação é orientada pelos princípios da independência, objetividade, integridade e melhoria contínua da gestão pública, contribuindo para o fortalecimento da governança, do gerenciamento de riscos e dos controles internos da Administração Pública.
 
-A Auditoria Interna Governamental é uma atividade independente e objetiva, voltada à avaliação e à consultoria, estruturada com o propósito de aprimorar as operações dos órgãos e das entidades da Administração Pública direta, autárquica e fundacional do Poder Executivo. Sua atuação contribui para o alcance dos objetivos institucionais, mediante a aplicação de uma abordagem sistemática e disciplinada voltada à avaliação e ao aperfeiçoamento dos processos de gerenciamento de riscos, controle interno e governança.
+A atividade de Auditoria Interna Governamental possui natureza avaliativa e consultiva, atuando de forma sistemática e disciplinada na análise de processos, programas, contas, políticas públicas e estruturas de controle. Seu objetivo é agregar valor à gestão pública, promovendo maior eficiência, efetividade, transparência e conformidade na aplicação dos recursos públicos.
 
-As unidades de auditoria interna têm como finalidade agregar e proteger valor às organizações públicas, contribuindo para a melhoria da gestão por meio da prestação de serviços de avaliação, consultoria e apuração. Essas atividades visam ao fortalecimento dos processos de governança, de gerenciamento de riscos e de controle interno, conforme disposto no art. 4º do [Decreto nº 48.420, de 16 de maio de 2022](https://www.almg.gov.br/legislacao-mineira/DEC/48420/2022/).
+No âmbito do Sistema de Controle Interno do Poder Executivo, a Auditoria-Geral exerce papel estratégico como órgão central da atividade de auditoria interna, atuando em articulação com as Controladorias Setoriais e Seccionais — unidades executoras tecnicamente subordinadas à CGE — e com as unidades de controle interno das empresas estatais. Essa integração possibilita a realização coordenada de ações de auditoria, fiscalização, avaliação de riscos e apuração, garantindo maior abrangência e uniformidade técnica às atividades de controle.
 
-A atividade de Auditoria Interna Governamental é exercida pelos órgãos e entidades integrantes do Sistema de Controle Interno do Poder Executivo, conforme previsto no art. 61 da [Lei nº 23.304, de 30 de maio de 2019](https://www.almg.gov.br/legislacao-mineira/LEI/23304/2019/), e no art. 2º do [Decreto nº 48.420/2022](https://www.almg.gov.br/legislacao-mineira/DEC/48420/2022/). Integram esse sistema: a Controladoria-Geral do Estado de Minas Gerais (CGE-MG), como órgão central, diretamente subordinado ao Governador do Estado, cuja função de auditoria interna é exercida pela Auditoria-Geral; as Controladorias Setoriais e Seccionais (CSET/CSEC), unidades executoras tecnicamente subordinadas à CGE; e as unidades de controle interno das empresas públicas e sociedades de economia mista.
+Sua estrutura organizacional é composta por unidades especializadas responsáveis pela coordenação técnica, desenvolvimento metodológico e execução das ações de auditoria em diferentes áreas da Administração Pública. Integram a Auditoria-Geral o Núcleo de Coordenação de Auditoria Contínua e de Ações Transversais, voltado ao uso de tecnologia e análise de dados, e o Núcleo de Desenvolvimento da Capacidade de Auditoria Interna, responsável pelo fortalecimento técnico e estratégico da atividade de auditoria.
 
-# Serviços prestados
+A estrutura contempla ainda superintendências e diretorias especializadas em auditoria de contas e gestão fiscal; programas governamentais, gestão de riscos, pessoal e previdência; políticas sociais e desenvolvimento sustentável; além de políticas de governo, segurança pública, desenvolvimento social e econômico. Essa organização temática permite atuação técnica especializada e alinhada às especificidades de cada área governamental.
 
-# Serviço de avaliação
-Consiste no exame objetivo de evidências, com o propósito de fornecer avaliações independentes sobre os processos de governança, gerenciamento de riscos e controle interno.
+Nesse contexto, as Controladorias Setoriais e Seccionais desempenham papel fundamental na execução descentralizada das atividades de auditoria interna nos órgãos e entidades estaduais, atuando em permanente articulação técnica com a Auditoria-Geral. Essa relação fortalece a padronização de procedimentos, o compartilhamento de informações, a supervisão técnica e a atuação integrada do Subsistema de Auditoria Interna do Poder Executivo de Minas Gerais.
 
-Avaliação de conformidade: verifica se a estrutura de controle interno, a gestão de riscos e a governança de determinado objeto (área, processo ou sistema) estão em conformidade com normas, políticas, leis, contratos e demais requisitos aplicáveis.
-Avaliação de desempenho: analisa a eficiência, a eficácia e a economicidade de operações, atividades ou programas, bem como os resultados alcançados, podendo também considerar aspectos como igualdade, diversidade e sustentabilidade.
-
-# Serviço de consultoria
-Abrange atividades de assessoramento, orientação, facilitação e treinamento relacionadas à governança, ao gerenciamento de riscos e ao controle interno.
-
-Assessoramento: realizado a partir de solicitação da administração, com o objetivo de aprimorar processos, como, por exemplo, a implementação de políticas de governança em tecnologia da informação ou de gestão de riscos.
-Facilitação: consiste na condução de processos de discussão, sem que o auditor assuma responsabilidades próprias da administração, como a participação em comitês ou fóruns estratégicos, sem direito a voto e sem integrar comissões formais, como sindicâncias ou processos administrativos disciplinares.
-Treinamento: envolve a disseminação de conhecimentos por meio de cursos, palestras e materiais orientativos, como cartilhas e guias, sempre respeitando os limites de atuação e sem se confundir com assessoria jurídica.
-
-# Serviço de apuração
-Refere-se à realização de procedimentos destinados a investigar atos e fatos com indícios de ilegalidade ou irregularidade praticados por agentes públicos ou privados na utilização de recursos públicos estaduais.
 
 # Estatuto de Auditoria
 
