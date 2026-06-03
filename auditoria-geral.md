@@ -28,7 +28,11 @@ Como reconhecimento dos avanços institucionais alcançados na consolidação e 
 
 # Legislação e Orientações Normativas
 
+O conjunto de normativos, diretrizes, manuais e materiais orientativos relacionados à atividade de Auditoria Interna Governamental no âmbito da Administração Pública do Poder Executivo do Estado de Minas Gerais encontra-se disponível em página específica do portal oficial da Controladoria-Geral do Estado.
+
+O conteúdo pode ser acessado por meio da área dedicada à Auditoria Interna Governamental, disponível na página inicial do sítio eletrônico da CGE, reunindo referências técnicas e instrumentos de apoio destinados à padronização, ao fortalecimento e ao aperfeiçoamento contínuo das atividades de auditoria interna no âmbito estadual.
+
+Clique na Seção temática ["Auditoria Interna Governamental"](https://cge.mg.gov.br/) do portal da CGE-MG e conheça o conjunto de conteúdos, normativos, orientações, publicações e sistemas relacionados à atividade de auditoria interna.
 
 
-Para mais informações sobre a atuação da Auditoria-Geral, seus projetos e iniciativas, recomenda-se a consulta ao [portal institucional da Controladoria-Geral do Estado de Minas Gerais](https://cge.mg.gov.br/).
 
