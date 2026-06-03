@@ -1,49 +1,46 @@
 # CORREGEDORIA-GERAL (COGE)
 
-A Corregedoria-Geral do Estado integra a estrutura da Controladoria‑Geral do Estado (CGE‑MG) como uma de suas unidades finalísticas, e é o órgão responsável por coordenar, orientar e supervisionar o sistema correicional do Poder Executivo estadual, atuando de forma preventiva e repressiva diante de irregularidades praticadas por agentes públicos. Sua atuação está diretamente relacionada à função de correição administrativa, prevista no Decreto nº 48.687, de 13 de setembro de 2023, que organiza a CGE e define suas competências institucionais. 
+A Corregedoria-Geral constitui uma das macrofunções da Controladoria-Geral do Estado de Minas Gerais, sendo responsável pela coordenação, supervisão e execução das atividades correicionais no âmbito do Poder Executivo estadual. Sua atuação está voltada à prevenção, apuração e responsabilização de irregularidades praticadas por agentes públicos e pessoas jurídicas.
 
-# O que faz a Corregedoria-Geral?
+Como órgão central do Subsistema de Correição Administrativa do Poder Executivo, a Corregedoria-Geral exerce papel estratégico na orientação técnica, padronização de procedimentos e supervisão das atividades desenvolvidas pelas controladorias setoriais e seccionais, promovendo maior uniformidade, segurança jurídica e eficiência na condução das ações correcionais em toda a Administração Pública estadual.
 
-A atuação da Corregedoria-Geral envolve tanto funções preventivas quanto repressivas, sempre com foco na integridade da gestão pública.
+Sua atuação compreende tanto ações preventivas quanto repressivas, abrangendo a instauração, supervisão e condução de sindicâncias, processos administrativos disciplinares, investigações preliminares e demais procedimentos destinados à apuração de infrações funcionais praticadas por agentes públicos. Além disso, a Corregedoria-Geral também atua na responsabilização administrativa de pessoas jurídicas pela prática de atos lesivos contra a Administração Pública, nos termos da Lei Federal nº 12.846/2013 — Lei Anticorrupção.
 
-# Atividade disciplinar
+A estrutura organizacional da Corregedoria-Geral é composta por unidades técnicas e especializadas responsáveis pela coordenação, supervisão e execução das atividades correicionais. Integram sua estrutura o Núcleo Técnico e o Núcleo de Gestão de Documentos e Processos, que prestam suporte técnico, estratégico e processual às atividades da unidade.
 
-A Corregedoria-Geral é responsável por conduzir ou supervisionar procedimentos destinados a apurar irregularidades praticadas por servidores públicos, tais como:
+A área de supervisão e acompanhamento das ações correicionais é exercida pela Superintendência Central de Análise e Supervisão Correcional, composta por diretorias especializadas nas áreas econômica e social, responsáveis pela análise de denúncias, acompanhamento de procedimentos disciplinares, realização de inspeções e orientação técnica às controladorias setoriais e seccionais.
 
-- sindicâncias;
-  
--	processos administrativos disciplinares;
-  
--	investigações preliminares. 
+A responsabilização disciplinar de agentes públicos é conduzida pela Superintendência Central de Responsabilização de Agentes Públicos, também estruturada em diretorias voltadas às áreas econômica e social, responsáveis pela condução de sindicâncias e processos administrativos disciplinares, observando os princípios do devido processo legal, do contraditório e da ampla defesa.
 
-Esses procedimentos visam verificar a ocorrência de infrações e, quando for o caso, aplicar as sanções previstas em lei.
+Complementando sua estrutura, a Superintendência Central de Responsabilização de Pessoas Jurídicas atua na apuração de atos lesivos praticados por empresas contra a Administração Pública, conduzindo investigações preliminares e Processos Administrativos de Responsabilização (PAR), além de promover a integração de informações e o aperfeiçoamento dos mecanismos de responsabilização administrativa.
 
-# Responsabilização de pessoas jurídicas
-   
-Além dos agentes públicos, a Corregedoria também atua na responsabilização de empresas que pratiquem atos ilícitos contra a Administração, com base na Lei Anticorrupção (Lei nº 12.846/2013).
+Nesse contexto, as controladorias setoriais e seccionais exercem papel fundamental na execução descentralizada das atividades correicionais nos órgãos e entidades estaduais, atuando em permanente articulação técnica com a Corregedoria-Geral. Essa integração fortalece a padronização de procedimentos, a supervisão técnica, o compartilhamento de informações e a efetividade das ações de prevenção e responsabilização no âmbito do Poder Executivo de Minas Gerais.
 
-Nesse campo, são instaurados e conduzidos os chamados Processos Administrativos de Responsabilização (PAR), que apuram condutas lesivas e podem resultar em sanções às pessoas jurídicas. 
 
-# Orientação e padronização
 
-A Corregedoria-Geral não atua apenas de forma punitiva. Ela também exerce papel essencial de orientação técnica, promovendo:
+# Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo – CONREGE,
 
--	a padronização de procedimentos correcionais;
-  
--	a edição de normas e guias;
-  
--	a capacitação de servidores que atuam em corregedorias setoriais. 
+O Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo – Conrege é órgão colegiado de natureza consultiva e propositiva, vinculado administrativamente à Controladoria-Geral do Estado, criado com a finalidade de promover o aperfeiçoamento do sistema correcional da Administração Pública estadual, por meio da formulação de diretrizes, integração institucional e fortalecimento das ações disciplinares e de responsabilização administrativa. 
 
-Um exemplo é a elaboração de cartilhas e materiais educativos sobre o regime disciplinar, voltados a facilitar a compreensão das regras e prevenir irregularidades. 
+Nesse contexto, a Corregedoria-Geral do Estado exerce papel estratégico no Conrege ao atuar na coordenação e articulação das atividades correcionais, contribuindo para a padronização de procedimentos, consolidação de entendimentos e promoção de maior eficiência, efetividade e uniformidade na atuação correcional do Poder Executivo estadual. 
 
-# Coordenação do sistema de correição
+O portal oficial do Conrege reúne informações, notícias, normativos e materiais técnicos relacionados à atividade correcional, constituindo importante fonte de consulta e atualização para os agentes que atuam na área.
 
-Outro aspecto essencial da Corregedoria‑Geral do Estado é a função de órgão central de coordenação das atividades correicionais no âmbito do Poder Executivo mineiro. Isso significa que ela orienta tecnicamente as corregedorias setoriais e seccionais existentes nos diversos órgãos e entidades estaduais, promovendo a padronização de procedimentos e a uniformidade de entendimentos. 
 
-# Importância para o cidadão
+# Legislação e Publicações
 
-Para o cidadão, a existência de uma Corregedoria‑Geral estruturada e atuante representa uma garantia institucional de que eventuais desvios na administração pública serão apurados com seriedade. A Corregedoria também atua na análise de denúncias e comunicações de irregularidades, funcionando como um canal legítimo de escuta e resposta do Estado à sociedade. 
+- [Legislação Geral](https://conrege.mg.gov.br/legislacoes/legislacao-geral)
+- [Legislação Específica](https://conrege.mg.gov.br/legislacoes/legislacao-especifica)
+- [Deliberações e Resoluções](https://conrege.mg.gov.br/legislacoes/deliberacoes-e-resolucoes)
+- [Súmulas Administrativas](https://conrege.mg.gov.br/legislacoes/sumulas-administrativas)
+- [Jurisprudência](https://conrege.mg.gov.br/legislacoes/jurisprudencia)
+- [Pesquisa Legislativa](https://conrege.mg.gov.br/legislacoes/pesquisa-legislativa)
+- [Perguntas e Respostas](https://conrege.mg.gov.br/legislacoes/perguntas-e-respostas)
+- [Manuais e Cartilhas](https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas)
+- [Artigos e Periódicos](https://conrege.mg.gov.br/publicacoes/artigos-e-periodicos)
+- [Manual Digital](https://conrege.mg.gov.br/publicacoes/sumario-manual-digital)
 
-Assim, a Corregedoria‑Geral do Estado contribui diretamente para o aumento da confiança social nas instituições públicas, ao demonstrar que o Estado dispõe de mecanismos próprios para corrigir falhas e responsabilizar condutas inadequadas.
+
+
 
 
