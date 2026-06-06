@@ -12,3 +12,24 @@ Já a Superintendência Central de Integridade e Controle Social é responsável
 
 Dessa forma, a Subcontroladoria de Transparência, Integridade e Controle Social desempenha papel estratégico na promoção de uma administração pública mais transparente, íntegra, participativa e orientada ao interesse público, contribuindo para o fortalecimento da governança e para a consolidação de uma cultura de prevenção à corrupção no Estado de Minas Gerais. 
 
+## Política Mineira de Promoção da Integridade (PMPI)
+
+A Política Mineira de Promoção da Integridade (PMPI) constitui o principal instrumento de promoção da integridade no âmbito do Poder Executivo do Estado de Minas Gerais. Instituída pelo Decreto Estadual nº 48.419, de 16 de maio de 2022, a política sucedeu o antigo Plano Mineiro de Promoção da Integridade, ampliando e consolidando as diretrizes voltadas ao fortalecimento da ética, da transparência, da governança e da prevenção à corrupção na Administração Pública estadual.
+
+A PMPI estabelece princípios, objetivos e mecanismos destinados a promover a integridade nas relações entre a Administração Pública, a iniciativa privada e a sociedade, orientando a implementação de programas e planos de integridade nos órgãos e entidades do Poder Executivo.
+
+Entre seus principais objetivos estão o fortalecimento da cultura ética e do compromisso com o interesse público, a promoção da conformidade com normas e regulamentos, o aprimoramento dos mecanismos de governança e controle interno e a incorporação de medidas voltadas à prevenção, detecção e tratamento de riscos à integridade. A política também busca estimular comportamentos íntegros por parte dos agentes públicos e fomentar relações institucionais pautadas pela transparência, responsabilidade e prestação de contas.
+
+## O papel da CGE-MG
+
+Como órgão central responsável pela coordenação da Política Mineira de Promoção da Integridade, a Controladoria-Geral do Estado de Minas Gerais atua na formulação de diretrizes, na orientação técnica dos órgãos e entidades estaduais e na disseminação da cultura de integridade em toda a Administração Pública.
+
+Por meio da Subcontroladoria de Transparência, Integridade e Controle Social, a CGE-MG desenvolve normas, instrumentos, metodologias e ações de capacitação que apoiam a implementação da política, fortalecendo práticas de prevenção e enfrentamento à corrupção, gestão de riscos à integridade, transparência e promoção da ética pública.
+
+Com o objetivo de apoiar a execução da PMPI, a CGE disponibiliza o [Sistema Eletrônico de Gestão da Política Mineira de Promoção da Integridade (SisPMPI)](https://sispmpi.mg.gov.br/site/login), plataforma corporativa utilizada pelos órgãos e entidades do Poder Executivo para elaboração, execução, monitoramento e avaliação de seus programas e planos de integridade.
+
+## Repositório da PMPI
+
+Legislação, orientações técnicas, planos, programas, projetos e demais conteúdos relacionados à Política Mineira de Promoção da Integridade podem ser consultados no [portal eletrônico da PMPI](https://pmpi.mg.gov.br/), que reúne informações e ferramentas destinadas a apoiar a implementação e o aperfeiçoamento contínuo das ações de integridade no Estado.
+
+
