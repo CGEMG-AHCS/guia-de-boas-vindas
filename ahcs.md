@@ -1,44 +1,29 @@
 
 # Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)
 
-A Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) é a área da CGE responsável por integrar toda a rede de controladorias existentes nos órgãos e entidades do Estado, vinculada diretamente ao Gabinete. Para quem está chegando agora, é importante saber que a AHCS funciona como uma ponte: conecta pessoas, esclarece dúvidas, facilita comunicações e ajuda a garantir que todos os setores da CGE atuem de forma alinhada. 
+A Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) é a unidade da Controladoria-Geral do Estado de Minas Gerais responsável por promover a integração, a coordenação e o alinhamento das Controladorias Setoriais e Seccionais (CSETs e CSECs), fortalecendo a atuação do Sistema de Controle Interno do Poder Executivo estadual.
 
-Na prática, a AHCS acompanha o planejamento e a execução das ações das controladorias setoriais e seccionais, oferecendo suporte constante às equipes que atuam diretamente nos órgãos e entidades. Isso inclui orientações, compartilhamento de boas práticas e apoio na aplicação das diretrizes da CGE. 
+Vinculada diretamente ao Gabinete da CGE, a AHCS exerce papel estratégico na articulação entre as diversas áreas finalísticas do órgão — Auditoria-Geral, Corregedoria-Geral e Subcontroladoria de Transparência, Integridade e Controle Social — e as unidades descentralizadas de controle interno distribuídas pelos órgãos e entidades estaduais. Sua atuação busca assegurar que diretrizes, orientações técnicas, metodologias e padrões institucionais sejam aplicados de forma uniforme em toda a rede de controladorias.
 
-A assessoria também contribui para o desenvolvimento das lideranças das unidades de controle interno e avalia continuamente a estrutura dessas controladorias, identificando oportunidades de melhoria e propondo ajustes que tornem o trabalho mais fluido, eficiente e colaborativo. 
+Como instância de coordenação e apoio institucional, a AHCS acompanha o planejamento e a execução das atividades das Controladorias Setoriais e Seccionais, monitora resultados, dissemina boas práticas e promove a integração operacional entre as unidades. Também atua no fortalecimento da capacidade institucional dessas controladorias, contribuindo para o desenvolvimento de suas lideranças, para o aperfeiçoamento de processos de trabalho e para a avaliação contínua de suas estruturas organizacionais.
 
-Em resumo, a AHCS está aqui para integrar, apoiar e fortalecer toda a rede de controladorias do Estado. É um ponto de referência para quem atua no sistema de controle interno e um espaço seguro para buscar orientação, alinhamento e apoio técnico sempre que necessário. 
+A interface da AHCS com as Controladorias Setoriais e Seccionais é permanente e transversal. A assessoria constitui o principal canal de articulação entre as unidades descentralizadas e a CGE, oferecendo suporte técnico e institucional, promovendo o alinhamento de entendimentos, coordenando fluxos de comunicação e facilitando o acesso às áreas especializadas do órgão. Nesse contexto, auxilia as unidades em questões relacionadas ao planejamento de atividades, utilização de sistemas corporativos, capacitações, desenvolvimento profissional, monitoramento de ações e esclarecimento de dúvidas acerca de procedimentos e competências institucionais.
 
-Quando acionar a AHCS? 
+Além das atribuições expressamente previstas em sua competência regimental, a AHCS exerce papel relevante na consolidação das informações estratégicas produzidas pelas Controladorias Setoriais e Seccionais, apoiando iniciativas de gestão, monitoramento de desempenho e desenvolvimento institucional. Sua atuação também contribui para a harmonização das práticas de controle interno, para o fortalecimento da atuação integrada do Subsistema de Auditoria Interna e para a implementação das diretrizes, programas e projetos conduzidos pela CGE.
 
-Os(as) servidores(as) das controladorias setoriais e seccionais podem recorrer à AHCS sempre que julgarem necessário. A área está disponível para oferecer suporte em diversas situações, tais como: 
+Dessa forma, a Assessoria de Harmonização das Controladorias Setoriais e Seccionais desempenha função essencial para a coesão e o fortalecimento da rede de controle interno do Estado, atuando como elo entre a administração central da CGE e as unidades descentralizadas, com o propósito de promover maior integração, uniformidade técnica, eficiência operacional e efetividade das ações de controle governamental.
 
-Esclarecimento de dúvidas sobre atribuições e fluxos institucionais; 
 
-Orientações quanto ao uso de sistemas corporativos; 
+## Canais de Comunicação com a AHCS
 
-Apoio no planejamento e no monitoramento das atividades; 
+A Assessoria de Harmonização das Controladorias Setoriais e Seccionais disponibiliza diferentes canais de atendimento e suporte às Controladorias Setoriais e Seccionais, com o objetivo de promover comunicação ágil, orientação técnica e apoio institucional às unidades integrantes do Sistema de Controle Interno do Poder Executivo.
 
-Necessidade de articulação com áreas técnicas da CGE; 
+As demandas podem ser encaminhadas, preferencialmente, por meio do [Sistema Suporte AHCS](https://suportecs.cge.mg.gov.br/), canal oficial de atendimento às unidades. Também estão disponíveis os seguintes meios de contato:
 
-Suporte institucional à gestão da unidade; 
+* **E-mail institucional:** [coordenacao@cge.mg.gov.br](mailto:coordenacao@cge.mg.gov.br);
+* **SEI!:** CGE/AHCS;
+* **Telefone:** (31) 3915-8891;
+* **Microsoft Teams**;
+* **WhatsApp**.
 
-Orientações sobre capacitações, eventos e demais iniciativas de desenvolvimento. 
-
- 
-
-Canais de comunicação com AHCS 
-
-O contato com a AHCS pode ser realizado pelo canal oficial de suporte às unidades — Sistema Suporte AHCS, bem como pelos seguintes meios: 
-
-E-mail institucional: coordenacao@cge.mg.gov.br 
-
-SEI! - CGE/AHCS 
-
-Telefone: (31) 3915-8891 
-
-Microsoft Teams                                                           
-
-WhatsApp 
-
-Além desses canais, o atendimento também pode ocorrer presencialmente. A AHCS está localizada na Cidade Administrativa Presidente Tancredo Neves (CAMG), Prédio Gerais, 12º andar, na sede da Controladoria-Geral do Estado. 
+Além dos canais remotos, a AHCS realiza atendimento presencial em sua sede, localizada na Cidade Administrativa Presidente Tancredo Neves (CAMG), Prédio Gerais, 12º andar, junto à sede da Controladoria-Geral do Estado de Minas Gerais.
