@@ -1,4 +1,4 @@
-### Relatório de Atividades de Controle Interno (Raci)
+### RELATÓRIO DE ATIVIDADES E CONTROLE INTERNO (RACI) 
 
 O Relatório de Atividades de Controle Interno (Raci) é o instrumento por meio do qual as Controladorias Setoriais e Seccionais registram, acompanham e demonstram os resultados das atividades de controle interno realizadas ao longo do exercício. Complementar ao Plano de Atividades de Controle Interno (Paci), o relatório permite avaliar o grau de execução do planejamento estabelecido, evidenciar os resultados alcançados e fornecer informações relevantes para o aperfeiçoamento contínuo das ações de controle.
 
@@ -13,3 +13,11 @@ Com o objetivo de fortalecer o acompanhamento contínuo das atividades, a norma 
 Nesse processo, a Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) desempenha papel relevante de coordenação e acompanhamento institucional. Além de disponibilizar modelos e orientações para elaboração do relatório, a Assessoria recebe, acompanha e consolida informações produzidas pelas unidades descentralizadas, subsidiando a CGE na avaliação do desempenho do Sistema de Controle Interno e na identificação de oportunidades de aprimoramento das atividades desenvolvidas.
 
 Ao consolidar informações sobre planejamento, execução, resultados e benefícios das ações de controle, o Raci fortalece a transparência, a prestação de contas e a gestão baseada em evidências, contribuindo para o aperfeiçoamento das atividades das Controladorias Setoriais e Seccionais e para o fortalecimento do Sistema de Controle Interno do Poder Executivo do Estado de Minas Gerais.
+
+
+## Legislação
+
+As diretrizes para elaboração do Relatório de Atividades de Controle Interno (Raci) estão estabelecidas na [Instrução Normativa CGE/GAB nº 01/2023](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385&marc=).
+
+
+
