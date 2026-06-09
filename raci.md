@@ -17,7 +17,7 @@ Ao consolidar informações sobre planejamento, execução, resultados e benefí
 
 ## Legislação
 
-As diretrizes para elaboração do Relatório de Atividades de Controle Interno (Raci) estão estabelecidas na [Instrução Normativa CGE/GAB nº 01/2023](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385&marc=).
+As diretrizes para elaboração do Relatório de Atividades de Controle Interno estão estabelecidas na [Instrução Normativa CGE/GAB nº 01/2023](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385&marc=).
 
 
 
