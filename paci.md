@@ -1,4 +1,4 @@
-## Plano de Atividades de Controle Interno (Paci)
+## PLANO DE ATIVIDADES DE CONTROLE INTERNO (PACI)
 
 O Plano de Atividades de Controle Interno (Paci) é o principal instrumento de planejamento anual das Controladorias Setoriais e Seccionais do Poder Executivo do Estado de Minas Gerais. Por meio dele, são definidas as ações e os trabalhos prioritários que serão executados ao longo do exercício, assegurando que as atividades de controle interno sejam desenvolvidas de forma estruturada, alinhada aos riscos institucionais e orientada para a geração de valor à administração pública.
 
@@ -17,5 +17,8 @@ A estrutura do Paci contempla a previsão das ações a serem executadas durante
 Ao final de cada exercício, a execução do planejamento é formalizada por meio do Relatório de Atividades de Controle Interno (Raci), instrumento que registra os resultados alcançados, as ações executadas e os principais benefícios gerados pelas atividades de controle interno. Dessa forma, Paci e Raci constituem instrumentos complementares de planejamento, monitoramento e prestação de contas, fortalecendo a atuação das Controladorias Setoriais e Seccionais e contribuindo para a melhoria contínua da gestão pública estadual.
 
 
- 
+ ## Legislação
+
+As diretrizes que orientam a elaboração do Plano de Atividades de Controle Interno estão previstas na [Instrução Normativa CGE/GAB nº 01/2023](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385&marc=). 
+
 
