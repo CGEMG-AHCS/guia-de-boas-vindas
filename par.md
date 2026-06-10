@@ -21,26 +21,36 @@ No âmbito da Controladoria-Geral do Estado de Minas Gerais, a condução, super
 Dessa forma, o Processo Administrativo de Responsabilização representa importante instrumento de proteção do interesse público, de fortalecimento da integridade nas relações entre o setor público e o setor privado e de promoção de um ambiente institucional mais ético, transparente e íntegro.
 
 
-# Regulamentação
+# Normativos e Materiais Instrucionais
 
-O Decreto estadual nº 48.821, de 13 de maio de 2024, regulamenta a responsabilização de empresas.
+* [Lei Federal nº 12.846, de 2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm);
 
-# Finalidade
+* [Decreto estadual nº 48.821, de 13 de maio de 2024](https://www.almg.gov.br/legislacao-mineira/texto/DEC/48821/2024/?cons=1);
 
-Apurar responsabilidade administrativa e civil, visando punir empresas e proteger o erário.
+* [Manual de Apuração de Ilícitos Administrativos do Poder Executivo do Estado de Minas Gerais](https://www.conrege.mg.gov.br/publicacoes/sumario-manual-digital);
 
-# Abrangência
+* [Modelos de Atos (Anexo do Manual de Apuração de Ilícitos Administrativos)](https://www.conrege.mg.gov.br/images/2023/Manuais%20e%20Cartilhas/Modelo%20de%20Atos%20-%202023.pdf). 
+  
+ 
 
-Aplica-se a atos contra o Poder Executivo de Minas Gerais, sendo conduzido pela CGE em cooperação com a Advocacia-Geral do Estado (AGE-MG).
+# Interlocução institucional
 
-# Procedimento
+Superintendência Central de Responsabilização de Pessoas Jurídicas
 
-Inclui instauração, instrução, defesa e julgamento, podendo resultar em multas e outras sanções.
+Helton José de Almeida Souza
+
+Telefone: (31) 3915-8978
+
+Endereço Eletrônico: helton.almeida@cge.mg.gov.br
+
+
+
+
+
 
 # Acordos de Leniência
 
 A CGE-MG, em conjunto com a AGE, pode firmar acordos de leniência, como o celebrado com a SAP Brasil em 2024, que resultou em ressarcimento e multas.
 
-# Diretrizes
 
- A 3ª edição do Manual de Ilícitos Administrativos da CGE-MG fornece diretrizes sobre os procedimentos correcionais. [CLIQUE AQUI](https://www.cge.mg.gov.br/noticias-artigos/1168-manual-de-ilicitos-administrativos-ganha-nova-edicao-revisada)
+
