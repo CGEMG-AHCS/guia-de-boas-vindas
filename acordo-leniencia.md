@@ -21,3 +21,16 @@ Importante destacar que a celebração do acordo de leniência não afasta a obr
 Ao estimular a colaboração com as autoridades públicas e incentivar o fortalecimento dos programas de integridade corporativa, o Acordo de Leniência constitui importante instrumento de prevenção e combate à corrupção, contribuindo para a responsabilização dos envolvidos, a recuperação de ativos públicos e a promoção de um ambiente de negócios mais ético, íntegro e transparente.
 
 
+Como obter mais informações (legislação e contato)?
+
+O acordo de leniência encontra-se regulamentado nos seguintes normativos:
+
+• Lei Federal nº 12.846/2013 (Lei Anticorrupção);
+
+• Decreto Estadual nº 48.821/2024; 
+
+• Resolução Conjunta CGE/AGE nº 5/2024.
+
+Em caso de dúvidas, agendamento de reuniões ou encaminhamento de propostas, entrar em contato pelo e-mail: leniencia@cge.mg.gov.br.
+
+(https://cge.mg.gov.br/projetos-especiais/acordo-de-leniencia)
