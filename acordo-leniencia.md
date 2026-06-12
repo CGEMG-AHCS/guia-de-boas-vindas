@@ -1,36 +1,59 @@
-## Acordo de Leniência
+## ACORDO DE LENIÊNCIA
 
-O Acordo de Leniência é um instrumento previsto na Lei Federal nº 12.846, de 1º de agosto de 2013 (Lei Anticorrupção), destinado a incentivar a colaboração de pessoas jurídicas envolvidas na prática de atos lesivos contra a Administração Pública. Por meio desse mecanismo, empresas que reconheçam sua participação em irregularidades e cooperem efetivamente com as investigações e os processos administrativos podem obter benefícios legais, incluindo a atenuação ou, em determinadas hipóteses, a isenção de sanções administrativas.
+O Acordo de Leniência é um instrumento previsto na Lei Federal nº 12.846, de 1º de agosto de 2013 (Lei Anticorrupção), destinado a incentivar a colaboração de pessoas jurídicas envolvidas na prática de atos lesivos contra a Administração Pública. Por meio desse mecanismo, empresas que reconheçam sua participação em irregularidades e cooperem efetivamente com as investigações e os processos administrativos podem obter benefícios legais, incluindo a redução ou, em situações específicas previstas em lei, a isenção de determinadas sanções administrativas.
 
-No âmbito do Poder Executivo do Estado de Minas Gerais, compete ao Controlador-Geral do Estado celebrar os acordos de leniência, nos termos da Lei Estadual nº 24.313/2023 e do Decreto Estadual nº 48.821/2024. A condução técnica das negociações é coordenada pelo Núcleo de Combate à Corrupção (NUCC) da Controladoria-Geral do Estado, com o apoio da Coordenação de Acordos de Leniência (CAL) e a participação da Advocacia-Geral do Estado (AGE).
+Para a celebração do acordo, a pessoa jurídica deve atender aos requisitos previstos na legislação, dentre os quais se destacam a cessação da prática irregular, a admissão de sua participação nos fatos investigados e a colaboração efetiva e permanente com as investigações e os processos administrativos.
 
-Os procedimentos relacionados à negociação, celebração e acompanhamento dos acordos são disciplinados pela Resolução Conjunta CGE/AGE nº 5/2024, que estabelece diretrizes e uniformiza a atuação das comissões de negociação, compostas por Auditores Internos da CGE e Procuradores do Estado da AGE.
+Além disso a empresa deve se comprometer a cooperar integralmente com as apurações, fornecer informações e documentos relevantes, implementar ou aperfeiçoar mecanismos de integridade e promover a reparação dos danos eventualmente causados ao erário, sem prejuízo das demais obrigações previstas no acordo.
 
-A pessoa jurídica interessada em celebrar acordo de leniência deve formalizar sua manifestação de interesse junto ao Núcleo de Combate à Corrupção, por meio do endereço eletrônico [leniencia@cge.mg.gov.br](mailto:leniencia@cge.mg.gov.br), encaminhando proposta contendo as informações necessárias à avaliação preliminar do caso. Após análise do atendimento dos requisitos legais, poderá ser firmado Memorando de Entendimentos, documento que estabelece as condições iniciais para o desenvolvimento das tratativas e para a cooperação entre a empresa, a CGE e a AGE.
+### Qual o órgão responsável no Poder Executivo de Minas Gerais?
 
-A celebração do acordo pressupõe o compromisso da empresa em colaborar de forma plena, contínua e efetiva com as apurações, fornecendo informações, documentos, evidências e demais elementos que contribuam para a identificação dos fatos investigados e dos envolvidos na infração. A colaboração deve possibilitar o avanço das investigações e agregar resultados concretos para a Administração Pública.
+No âmbito do Poder Executivo do Estado de Minas Gerais, a competência para celebrar acordos de leniência é atribuída ao Controlador-Geral do Estado, nos termos da Lei Estadual nº 24.313/2023 e do Decreto Estadual nº 48.821/2024.
 
-Além da cooperação com as autoridades, a pessoa jurídica deverá adotar medidas voltadas ao fortalecimento de sua estrutura de integridade, incluindo a implementação ou o aperfeiçoamento de mecanismos internos de prevenção, detecção e combate a irregularidades, bem como a adoção de providências destinadas à responsabilização dos agentes envolvidos e à prevenção da reincidência.
+A coordenação técnica das negociações é realizada pela Controladoria-Geral do Estado (CGE), por intermédio do Núcleo de Combate à Corrupção (NUCC), com participação obrigatória da Advocacia-Geral do Estado (AGE), garantindo segurança jurídica e alinhamento institucional durante todas as fases do procedimento.
 
-Para a celebração do acordo, devem ser observados requisitos legalmente estabelecidos, dentre os quais se destacam: a manifestação voluntária da empresa em cooperar com as investigações, a cessação da prática irregular investigada, a admissão de sua participação nos fatos e a colaboração efetiva e permanente durante todo o processo de apuração.
+### Quem conduz as negociações para a celebração do acordo?
 
-As negociações são conduzidas sob regime de confidencialidade e possuem prazo de até 180 dias para conclusão, admitida prorrogação por igual período. Caso a negociação não resulte na celebração do acordo, seja por desistência da empresa ou por rejeição da proposta pelas autoridades competentes, os documentos apresentados durante as tratativas serão devolvidos, sendo preservado o sigilo das informações compartilhadas, observadas as hipóteses previstas na legislação.
+As negociações são conduzidas por comissão especialmente designada pelo Controlador-Geral do Estado, composta por Auditores Internos da CGE e Procuradores do Estado da AGE.
 
-Importante destacar que a celebração do acordo de leniência não afasta a obrigação de reparação integral dos danos eventualmente causados ao erário. O ressarcimento dos prejuízos decorrentes da prática ilícita permanece como dever da pessoa jurídica, independentemente dos benefícios concedidos em razão da cooperação prestada.
+Os integrantes da comissão atuam com independência técnica e observância ao dever de confidencialidade, preservando o sigilo das tratativas e das informações compartilhadas durante a fase de negociação.
 
-Ao estimular a colaboração com as autoridades públicas e incentivar o fortalecimento dos programas de integridade corporativa, o Acordo de Leniência constitui importante instrumento de prevenção e combate à corrupção, contribuindo para a responsabilização dos envolvidos, a recuperação de ativos públicos e a promoção de um ambiente de negócios mais ético, íntegro e transparente.
+## Etapas para a celebração do acordo
 
+A celebração do acordo de leniência ocorre por meio de um procedimento estruturado e composto por diversas fases sucessivas, destinadas a assegurar a efetividade da colaboração e a proteção do interesse público.
 
-Como obter mais informações (legislação e contato)?
+O processo inicia-se com a apresentação de proposta formal pela pessoa jurídica à Controladoria-Geral do Estado, manifestando seu interesse em cooperar com as investigações e apurações em curso.
+
+Verificada a presença dos requisitos iniciais, é celebrado um Memorando de Entendimentos, documento que estabelece as bases preliminares para o desenvolvimento das tratativas e disciplina a cooperação entre a empresa, a CGE e a AGE durante a fase de negociação.
+
+Na sequência, é designada uma Comissão de Negociação responsável por conduzir as tratativas, analisar as informações apresentadas, solicitar esclarecimentos adicionais e avaliar a efetividade da colaboração oferecida pela empresa.
+
+Concluída a fase de negociação, podem ocorrer dois desfechos distintos:
+
+* **Celebração do Acordo de Leniência**, quando atendidos os requisitos legais e constatada a efetividade da colaboração;
+* **Desistência da proposta pela empresa ou rejeição pelas autoridades competentes**, hipótese em que as negociações são encerradas e os documentos apresentados são devolvidos, observadas as garantias legais de confidencialidade.
+
+Uma vez celebrado o acordo, inicia-se a fase de **monitoramento e acompanhamento do cumprimento das obrigações assumidas pela pessoa jurídica**. Nessa etapa, a CGE e a AGE verificam o atendimento das cláusulas pactuadas, incluindo o fornecimento de informações, a implementação de medidas de integridade, a reparação dos danos e demais compromissos assumidos.
+
+Ao final do monitoramento, poderão ocorrer dois resultados:
+
+* **Declaração definitiva de cumprimento do acordo**, quando todas as obrigações forem integralmente atendidas;
+* **Resilição do acordo por descumprimento**, caso a empresa deixe de cumprir as condições pactuadas, hipótese em que poderá perder os benefícios concedidos e sujeitar-se às consequências previstas na legislação e no próprio instrumento celebrado.
+
+## Legislação
 
 O acordo de leniência encontra-se regulamentado nos seguintes normativos:
 
-• Lei Federal nº 12.846/2013 (Lei Anticorrupção);
+• [Lei Federal nº 12.846/2013 (Lei Anticorrupção)](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm);
 
-• Decreto Estadual nº 48.821/2024; 
+• [Decreto Estadual nº 48.821/2024](https://www.almg.gov.br/legislacao-mineira/texto/DEC/48821/2024/); 
 
-• Resolução Conjunta CGE/AGE nº 5/2024.
+• [Resolução Conjunta CGE/AGE nº 5/2024](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=213015&marc=).
+
+## Interlocução institucional
 
 Em caso de dúvidas, agendamento de reuniões ou encaminhamento de propostas, entrar em contato pelo e-mail: leniencia@cge.mg.gov.br.
 
-(https://cge.mg.gov.br/projetos-especiais/acordo-de-leniencia)
+## Acordos celebrados
+
+Conheça os Acordos de Leniência celebrados no Estado de Minas Gerais e outras informações relevantes divulgados no portal da [Controladoria-Geral do Estado](https://cge.mg.gov.br/projetos-especiais/acordo-de-leniencia).
