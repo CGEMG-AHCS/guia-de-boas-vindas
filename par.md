@@ -45,12 +45,3 @@ Endereço Eletrônico: helton.almeida@cge.mg.gov.br
 
 
 
-
-
-
-# Acordos de Leniência
-
-A CGE-MG, em conjunto com a AGE, pode firmar acordos de leniência, como o celebrado com a SAP Brasil em 2024, que resultou em ressarcimento e multas.
-
-
-
