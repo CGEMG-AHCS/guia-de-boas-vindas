@@ -29,4 +29,12 @@ Nos casos previstos na legislação, a aplicação de sanções restritivas pode
 * [Decreto nº 45.902, de 27/01/2012](https://www.almg.gov.br/legislacao-mineira/texto/DEC/45902/2012/?cons=1);
 * [Manual do Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP)](https://compras.mg.gov.br/wp-content/uploads/cafimp_15_07_2015.pdf).
 
+## Interlocução institucional
 
+Assessoria Jurídica
+
+Fernanda Paiva Carvalho
+
+Telefone: (31) 3915-8995
+
+Endereço Eletrônico: fernanda.carvalho@cge.mg.gov.br
