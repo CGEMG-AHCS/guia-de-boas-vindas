@@ -1,5 +1,5 @@
 
-# Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)
+# ASSESSORIA DE HARMONIZAÇÃO DAS CONTROLADORIAS SETORIAIS E SECCIONAIS (AHCS)
 
 A Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) é a unidade da Controladoria-Geral do Estado de Minas Gerais responsável por promover a integração, a coordenação e o alinhamento das Controladorias Setoriais e Seccionais (CSETs e CSECs), fortalecendo a atuação do Sistema de Controle Interno do Poder Executivo estadual.
 
@@ -13,8 +13,16 @@ Além das atribuições expressamente previstas em sua competência regimental, 
 
 Dessa forma, a Assessoria de Harmonização das Controladorias Setoriais e Seccionais desempenha função essencial para a coesão e o fortalecimento da rede de controle interno do Estado, atuando como elo entre a administração central da CGE e as unidades descentralizadas, com o propósito de promover maior integração, uniformidade técnica, eficiência operacional e efetividade das ações de controle governamental.
 
+#  Boletim “Harmonização Informa”
 
-## Canais de Comunicação com a AHCS
+Com o objetivo de fortalecer a comunicação institucional e apoiar as atividades desenvolvidas pelas Controladorias Setoriais e Seccionais, a Assessoria de Harmonização das Controladorias Setoriais e Seccionais encaminha mensalmente o boletim **“Harmonização Informa”**, que reúne os principais normativos, orientações e atualizações de interesse do Sistema de Controle Interno.
+
+Além desse informativo, a AHCS disponibiliza periodicamente boletins temáticos contendo jurisprudências relevantes, informações relacionadas à gestão de pessoas, bem como os informativos de Licitações e Contratos do Tribunal de Contas da União (TCU) e os informativos do Supremo Tribunal Federal (STF), contribuindo para a atualização contínua e o aprimoramento técnico dos profissionais que atuam na área de controle interno.
+
+Os boletins podem ser consultados nos processos SEI nº 1520.01.0001197/2024-89 e nº 1520.01.0001473/2025-06.
+
+
+# Canais de Comunicação com a AHCS
 
 A Assessoria de Harmonização das Controladorias Setoriais e Seccionais disponibiliza diferentes canais de atendimento e suporte às Controladorias Setoriais e Seccionais, com o objetivo de promover comunicação ágil, orientação técnica e apoio institucional às unidades integrantes do Sistema de Controle Interno do Poder Executivo.
 
