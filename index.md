@@ -40,6 +40,7 @@ Conheça o seu papel no sistema de controle interno.
     - [Tomada de Contas Especial (TCE)](tce.html)
     - [Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP)](cafimp.html)
     - [Trilhas do Desenvolvimento](trilhas.html)
+    - [Consulta Técnica](consulta-tecnica.md)
 - [Avaliação de Desempenho dos Controladores Setoriais e Seccionais](avaliacao-desempenho.html)
 
   
