@@ -18,7 +18,7 @@ Nesse contexto, as controladorias setoriais e seccionais exercem papel fundament
 
 
 
-# Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo – CONREGE,
+# Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo (CONREGE)
 
 O Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo – Conrege é órgão colegiado de natureza consultiva e propositiva, vinculado administrativamente à Controladoria-Geral do Estado, criado com a finalidade de promover o aperfeiçoamento do sistema correcional da Administração Pública estadual, por meio da formulação de diretrizes, integração institucional e fortalecimento das ações disciplinares e de responsabilização administrativa. 
 
