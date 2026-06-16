@@ -110,21 +110,32 @@ O UAI Risk é a plataforma corporativa da Controladoria-Geral do Estado de Minas
 
 * Endereço eletrônico uairisk@cge.mg.gov.br
 
+# Sistema MG-OUV
 
+O MG-OUV é o canal oficial de ouvidoria do Governo de Minas Gerais, administrado pela Ouvidoria-Geral do Estado (OGE-MG), que permite ao cidadão registrar denúncias, reclamações, sugestões, elogios e solicitações relacionadas aos serviços públicos estaduais e à conduta de agentes públicos. Por meio desse sistema, a população pode exercer o controle social e contribuir para o aprimoramento da gestão pública.
 
+**Forma de Acesso**
 
+* Acesso rápido [MG-OUV](https://ouvidoria.prodemge.gov.br/mgouv-bpms-frontend/indexPublica.zul)
 
+**Canal de suporte**
 
+* Endereço Eletrônico juliana.lara@ouvidoriageral.mg.gov.br
+* Endereço Eletrônico coordenacao@cge.mg.gov.br
 
+# Sistema CGE-Eventos
 
+O CGE Eventos é uma plataforma corporativa da Controladoria-Geral do Estado de Minas Gerais destinada à gestão de inscrições, acompanhamento e certificação de eventos e ações de capacitação promovidos pelo órgão.
 
+**Forma de Acesso**
 
-# - [CGE Eventos](https://eventos.cge.mg.gov.br/)
+- Acesso rápido [CGE Eventos](https://eventos.cge.mg.gov.br/)
 
-Finalidade:
+**Canal de suporte**
 
-Suporte:
+* Endereço Eletrônico coordenacao@cge.mg.gov.br
 
+  
 # - [Intranet](https://intranet.cge.mg.gov.br/login)
 
 Finalidade:
