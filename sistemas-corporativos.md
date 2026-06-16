@@ -8,11 +8,11 @@ Para apoiar suas atividades na CGE-MG, você contará com sistemas corporativos 
 
 O [Decreto nº 47.228, de 04 de agosto de 2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47228/2017/?cons=1), instituiu o Sistema Eletrônico de Informações como sistema oficial, no âmbito do Poder Executivo, para formação, instrução e decisão de processos administrativos eletrônicos. Sua utilização é obrigatória para todos os órgãos e entidades da administração direta, autárquica e fundacional e facultativa para as empresas estatais desde o dia 1º de janeiro de 2019.
 
-# Forma de acesso
+**Forma de acesso**
 
 - Acesso rápido [SEI!MG](https://www.sei.mg.gov.br/sip/login.php?sigla_orgao_sistema=GOVMG&sigla_sistema=SEI&infra_url=L3NlaS8=)
 
-# Canal de suporte
+**Canal de suporte**
 
 * [Sistema Suporte AHCS](https://suportecs.cge.mg.gov.br/)
 
@@ -22,11 +22,11 @@ O [Decreto nº 47.228, de 04 de agosto de 2017](https://www.almg.gov.br/legislac
 
 O sistema e-CGU é uma plataforma digital desenvolvida pela Controladoria-Geral da União (CGU) e adotada pela Controladoria-Geral do Estado de Minas Gerais (CGE-MG) como ferramenta de apoio à atividade de auditoria interna governamental. O sistema possibilita a gestão eletrônica de trabalhos de auditoria, abrangendo o planejamento, a execução, o registro de evidências, o monitoramento das atividades e a emissão de relatórios.
 
-# Forma de acesso
+**Forma de acesso**
 
 - Acesso rápido [e-CGU](https://eaud.cgu.gov.br/)
 
-# Canal de suporte
+**Canal de suporte**
 
 * [Sistema Suporte AHCS](https://suportecs.cge.mg.gov.br/)
   
@@ -38,11 +38,11 @@ O sistema e-CGU é uma plataforma digital desenvolvida pela Controladoria-Geral 
 
 O SisPMPI é um sistema web desenvolvido pela Controladoria-Geral do Estado de Minas Gerais (CGE-MG) para apoiar a gestão dos Programas e Planos de Integridade dos órgãos e entidades da Administração Pública Estadual. A plataforma permite o acompanhamento das etapas de elaboração, execução, monitoramento e avaliação das ações de integridade, contribuindo para uma gestão mais eficiente, integrada e tempestiva dessas iniciativas.
 
-# Forma de acesso
+**Forma de acesso**
 
 - Acesso rápido [SISPMPI](https://sispmpi.mg.gov.br/site/login)
 
-# Canal de suporte:
+**Canal de suporte**
 
 * Endereço eletrônico integridade@cge.mg.gov.br
 
@@ -50,11 +50,11 @@ O SisPMPI é um sistema web desenvolvido pela Controladoria-Geral do Estado de M
 
 O Sistema Emissor de Certidões, instituído pela Resolução CGE nº 25, de 20 de julho de 2020, foi desenvolvido para automatizar a emissão de certidões no âmbito da Controladoria-Geral do Estado. Além da geração desses documentos, a plataforma possibilita a validação de certidões emitidas e a consulta ao andamento processual, conferindo maior celeridade, segurança e transparência aos procedimentos.
 
-# Forma de Acesso
+**Forma de Acesso**
 
 - Acesso rápido [Certidão COGE](https://www.certidao.cge.mg.gov.br/site/login)
 
-# Canal de suporte
+**Canal de suporte**
 
 * Endereço eletrônico atende.correicao@cge.mg.gov.br
 
@@ -64,11 +64,11 @@ O Sistema Emissor de Certidões, instituído pela Resolução CGE nº 25, de 20 
 
 O SISPATRI é o sistema corporativo destinado ao registro e à gestão das declarações de bens e valores dos agentes públicos do Poder Executivo do Estado de Minas Gerais. A plataforma possibilita o envio, a atualização e o acompanhamento das informações patrimoniais, contribuindo para a promoção da transparência, da integridade e do controle da evolução patrimonial dos agentes públicos.
 
-# Forma de Acesso
+**Forma de Acesso**
 
 - Acesso rápido [SISPATRI](https://sispatri.mg.gov.br//PaginasPublicas/AutenticarUsuario.aspx)
 
-# Canal de suporte
+**Canal de suporte**
 
 * [Suporte Sispatri](https://suportesispatri.mg.gov.br/)
 
@@ -81,11 +81,13 @@ O SISPATRI é o sistema corporativo destinado ao registro e à gestão das decla
 
 O Sistema Eletrônico do Serviço de Informações ao Cidadão (e-SIC) permite que qualquer pessoa, física ou jurídica, encaminhe pedidos de acesso à informação, acompanhe o prazo de atendimento e receba a resposta da solicitação realizada pelos órgãos e entidades do Poder Executivo do Estado de Minas Gerais.
 
-# Forma de Acesso
+**Forma de Acesso**
 
 - Acesso rápido [e-SIC](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx)
 
-# Canal de Suporte
+**Canal de Suporte**
+
+* [Portal e-SIC](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx)
 
 **Diretoria de Transparência Passiva**
 
@@ -95,17 +97,16 @@ Telefone: (31) 3915-8863
 
 Endereço Eletrônico: thais.lemos@cge.mg.gov.br 
 
-* [Portal e-SIC](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx)
 
 # Sistema UAI Risk
 
 O UAI Risk é a plataforma corporativa da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) destinada ao apoio à gestão de riscos no âmbito da Administração Pública Estadual. A ferramenta possibilita o gerenciamento integrado de riscos de forma estruturada e eficiente, contribuindo para o fortalecimento da governança, o aprimoramento dos controles internos e a evolução da maturidade da gestão de riscos nos órgãos e entidades do Governo de Minas Gerais.
 
-# Forma de Acesso
+**Forma de Acesso**
 
 - Acesso rápido [UAI Risk](https://uairisk.cge.mg.gov.br/login)
 
-# Canal de suporte:
+**Canal de suporte**
 
 * Endereço eletrônico uairisk@cge.mg.gov.br
 
