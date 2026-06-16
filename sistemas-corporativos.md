@@ -135,12 +135,19 @@ O CGE Eventos é uma plataforma corporativa da Controladoria-Geral do Estado de 
 
 * Endereço Eletrônico coordenacao@cge.mg.gov.br
 
-  
-# - [Intranet](https://intranet.cge.mg.gov.br/login)
+# Intranet CGE
 
-Finalidade:
+A Intranet da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) constitui um ambiente digital interno destinado ao apoio das atividades institucionais e à comunicação entre os servidores do órgão. Integrada ao conjunto de sistemas corporativos da CGE-MG, a plataforma centraliza informações, documentos, normativos, comunicados e ferramentas de trabalho, contribuindo para a padronização de procedimentos e para o compartilhamento de conhecimento entre as unidades administrativas.
 
-Suporte:
+**Forma de Acesso**
+
+- Acesso rápido [Intranet CGE](https://intranet.cge.mg.gov.br/login)
+
+**Canal de suporte**
+
+* Endereço eletrônico nery.pope@cge.mg.gov.br
+* Endereço Eletrônico coordenacao@cge.mg.gov.br
+
 
 
 
