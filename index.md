@@ -31,7 +31,7 @@ Conheça o seu papel no sistema de controle interno.
 - [Controladorias Setoriais e Seccionais](cset-csec.html)
 - [Sistemas Corporativos da CGE/MG](sistemas-corporativos.html)
 - [Denúncias](denuncias.html)
-- [Principais Projetos/Entregas](principais-projetos-entregas.html)
+- [Principais Projetos e Entregas](projetos-entregas.html)
     - [Plano de Atividades de Controle Interno (PACI)](paci.html)
     - [Relatório de Atividades de Controle Interno (RACI)](raci.html)
     - [Relatório de Auditoria de Gestão (RAG)](rag.html)
