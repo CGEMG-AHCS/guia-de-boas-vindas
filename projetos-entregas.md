@@ -1,6 +1,6 @@
 # PRINCIPAIS PROJETOS E ENTREGAS
 
-A Controladoria-Geral do Estado de Minas Gerais desenvolve diversos projetos e iniciativas voltados ao fortalecimento da governança pública, da integridade, da transparência, do controle interno e da participação social. Por meio de ações estruturantes, programas de capacitação, auditorias, atividades de correição e mecanismos de prevenção e combate à corrupção, o órgão busca aprimorar a gestão pública estadual e promover maior eficiência na aplicação dos recursos públicos.
+A Controladoria-Geral do Estado desenvolve diversos projetos e iniciativas voltados ao fortalecimento da governança pública, da integridade, da transparência, do controle interno e da participação social. Por meio de ações estruturantes, programas de capacitação, auditorias, atividades de correição e mecanismos de prevenção e combate à corrupção, o órgão busca aprimorar a gestão pública estadual e promover maior eficiência na aplicação dos recursos públicos.
 
 As entregas realizadas pela CGE-MG abrangem tanto iniciativas estratégicas concebidas para aperfeiçoar seus processos e ampliar o alcance de suas ações quanto atividades e instrumentos cuja implementação decorre de determinações legais, normativas e institucionais. Dessa forma, o órgão atua simultaneamente no cumprimento de suas competências mandatórias e no desenvolvimento de soluções inovadoras que agregam valor à administração pública e à sociedade.
 
