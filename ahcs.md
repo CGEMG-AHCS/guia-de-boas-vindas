@@ -32,6 +32,5 @@ As demandas podem ser encaminhadas, preferencialmente, por meio do [Sistema Supo
 * **SEI!:** CGE/AHCS;
 * **Telefone:** (31) 3915-8891;
 * **Microsoft Teams**;
-* **WhatsApp**.
 
 Além dos canais remotos, a AHCS realiza atendimento presencial em sua sede, localizada na Cidade Administrativa Presidente Tancredo Neves (CAMG), Prédio Gerais, 12º andar, junto à sede da Controladoria-Geral do Estado de Minas Gerais.
