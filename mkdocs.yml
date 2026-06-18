@@ -1,0 +1,16 @@
+site_name: Guia de Boas-Vindas
+site_description: Controladoria-Geral do Estado de Minas Gerais
+site_author: Controladoria-Geral do Estado de Minas Gerais
+
+site_url: https://cgemg-ahcs.github.io/guia-de-boas-vindas/
+
+theme:
+  name: material
+  language: pt
+
+nav:
+  - Início: index.md
+  - Introdução: introducao.md
+  - Estrutura Organizacional: estrutura-organizacional.md
+  - Informações Úteis: informacoes-uteis.md
+  - Histórico de Atualizações: historico-de-atualizacoes.md
