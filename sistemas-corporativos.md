@@ -15,7 +15,7 @@ O [Decreto nº 47.228, de 04 de agosto de 2017](https://www.almg.gov.br/legislac
 
 * [Sistema Suporte AHCS](https://suportecs.cge.mg.gov.br/)
 
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico coordenacao@cge.mg.gov.br
 
 # Sistema e-CGU de Auditorias
 
@@ -29,9 +29,9 @@ O sistema e-CGU é uma plataforma digital desenvolvida pela Controladoria-Geral 
 
 * [Sistema Suporte AHCS](https://suportecs.cge.mg.gov.br/)
   
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico coordenacao@cge.mg.gov.br
   
-* Endereço Eletrônico junia.pinheiro@cge.mg.gov.br
+* Endereço eletrônico junia.pinheiro@cge.mg.gov.br
 
 #  Sistema de Gestão da Política Mineira de Promoção da Integridade - SisPMPI
 
@@ -45,7 +45,7 @@ O SisPMPI é um sistema web desenvolvido pela Controladoria-Geral do Estado de M
 
 * Endereço eletrônico integridade@cge.mg.gov.br
   
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico coordenacao@cge.mg.gov.br
 
 # Sistema Emissor de Certidões
 
@@ -59,7 +59,7 @@ O Sistema Emissor de Certidões, instituído pela Resolução CGE nº 25, de 20 
 
 * Endereço eletrônico atende.correicao@cge.mg.gov.br
   
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico coordenacao@cge.mg.gov.br
 
 * [Manual Sistema Emissor de Certidões](https://cge.mg.gov.br/download/category/34-manuais-e-cartilhas?download=576:manual-sistema-emissor-de-certidoes) 
 
@@ -73,7 +73,9 @@ O SISPATRI é o sistema corporativo destinado ao registro e à gestão das decla
 
 **Canal de suporte**
 
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico suporterh.sispatri@cge.mg.gov.br
+
+* Endereço eletrônico coordenacao@cge.mg.gov.br
 
 * [Suporte Sispatri](https://suportesispatri.mg.gov.br/)
 
@@ -92,7 +94,9 @@ O Sistema Eletrônico do Serviço de Informações ao Cidadão (e-SIC) permite q
 
 **Canal de Suporte**
 
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico transparencia@cge.mg.gov.br
+  
+* Endereço eletrônico coordenacao@cge.mg.gov.br
 
 * [Portal e-SIC](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx)
 
@@ -108,7 +112,7 @@ O UAI Risk é a plataforma corporativa da Controladoria-Geral do Estado de Minas
 
 * Endereço eletrônico uairisk@cge.mg.gov.br
   
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico coordenacao@cge.mg.gov.br
 
 # Sistema MG-OUV
 
@@ -120,7 +124,7 @@ O MG-OUV é o canal oficial de ouvidoria do Governo de Minas Gerais, administrad
 
 **Canal de suporte**
   
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico coordenacao@cge.mg.gov.br
 
 # Sistema CGE-Eventos
 
@@ -132,7 +136,7 @@ O CGE Eventos é uma plataforma corporativa da Controladoria-Geral do Estado de 
 
 **Canal de suporte**
 
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico coordenacao@cge.mg.gov.br
 
 # Intranet CGE
 
@@ -144,7 +148,7 @@ A Intranet da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) constitui u
 
 **Canal de suporte**
 
-* Endereço Eletrônico coordenacao@cge.mg.gov.br
+* Endereço eletrônico coordenacao@cge.mg.gov.br
 
 
 
