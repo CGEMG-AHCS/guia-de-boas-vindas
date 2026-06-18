@@ -36,9 +36,10 @@ Ao investir no desenvolvimento de seus servidores, a CGE reafirma seu compromiss
 
 Assessoria de Harmonização das Controladorias Setoriais e Seccionais
 
-Débora Pinto Severino
+Débora Pinto Severino / Ana Letícia Neves Pimenta
 
 Telefone: (31) 3915-8891
 
 Endereço Eletrônico: coordenacao@cge.mg.gov.br
+
 
