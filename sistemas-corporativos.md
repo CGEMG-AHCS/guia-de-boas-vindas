@@ -1,4 +1,3 @@
-
 # PRINCIPAIS SISTEMAS CORPORATIVOS
 
 Para apoiar suas atividades na CGE-MG, você contará com sistemas corporativos desenvolvidos para facilitar o registro, o acompanhamento e a análise das ações de controle. Essas ferramentas são parte essencial da rotina institucional e contribuem para uma atuação mais eficiente, integrada e orientada a resultados. 
@@ -45,6 +44,8 @@ O SisPMPI é um sistema web desenvolvido pela Controladoria-Geral do Estado de M
 **Canal de suporte**
 
 * Endereço eletrônico integridade@cge.mg.gov.br
+  
+* Endereço Eletrônico coordenacao@cge.mg.gov.br
 
 # Sistema Emissor de Certidões
 
@@ -57,6 +58,8 @@ O Sistema Emissor de Certidões, instituído pela Resolução CGE nº 25, de 20 
 **Canal de suporte**
 
 * Endereço eletrônico atende.correicao@cge.mg.gov.br
+  
+* Endereço Eletrônico coordenacao@cge.mg.gov.br
 
 * [Manual Sistema Emissor de Certidões](https://cge.mg.gov.br/download/category/34-manuais-e-cartilhas?download=576:manual-sistema-emissor-de-certidoes) 
 
@@ -69,6 +72,8 @@ O SISPATRI é o sistema corporativo destinado ao registro e à gestão das decla
 - Acesso rápido [SISPATRI](https://sispatri.mg.gov.br//PaginasPublicas/AutenticarUsuario.aspx)
 
 **Canal de suporte**
+
+* Endereço Eletrônico coordenacao@cge.mg.gov.br
 
 * [Suporte Sispatri](https://suportesispatri.mg.gov.br/)
 
@@ -87,16 +92,9 @@ O Sistema Eletrônico do Serviço de Informações ao Cidadão (e-SIC) permite q
 
 **Canal de Suporte**
 
+* Endereço Eletrônico coordenacao@cge.mg.gov.br
+
 * [Portal e-SIC](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx)
-
-**Diretoria de Transparência Passiva**
-
-Thaís Cristina Pereira Lemos
-
-Telefone: (31) 3915-8863
-
-Endereço Eletrônico: thais.lemos@cge.mg.gov.br 
-
 
 # Sistema UAI Risk
 
@@ -109,6 +107,8 @@ O UAI Risk é a plataforma corporativa da Controladoria-Geral do Estado de Minas
 **Canal de suporte**
 
 * Endereço eletrônico uairisk@cge.mg.gov.br
+  
+* Endereço Eletrônico coordenacao@cge.mg.gov.br
 
 # Sistema MG-OUV
 
@@ -119,8 +119,7 @@ O MG-OUV é o canal oficial de ouvidoria do Governo de Minas Gerais, administrad
 * Acesso rápido [MG-OUV](https://ouvidoria.prodemge.gov.br/mgouv-bpms-frontend/indexPublica.zul)
 
 **Canal de suporte**
-
-* Endereço Eletrônico juliana.lara@ouvidoriageral.mg.gov.br
+  
 * Endereço Eletrônico coordenacao@cge.mg.gov.br
 
 # Sistema CGE-Eventos
@@ -145,7 +144,6 @@ A Intranet da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) constitui u
 
 **Canal de suporte**
 
-* Endereço eletrônico nery.pope@cge.mg.gov.br
 * Endereço Eletrônico coordenacao@cge.mg.gov.br
 
 
