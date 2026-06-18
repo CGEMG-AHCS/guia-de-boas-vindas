@@ -23,7 +23,7 @@ A atuação das controladorias setoriais e seccionais é essencial para o fortal
 
 Conheça o seu papel no sistema de controle interno.
 
-- [Controladoria-Geral do Estado (CGE/MG)](cge.html)
+- [Controladoria-Geral do Estado (CGE/MG)](cgemg.html)
 - [Auditoria-Geral (AUGE)](auge.html)
 - [Corregedoria-Geral (COGE)](coge.html)
 - [Subcontroladoria de Transparência, Integridade e Controle Social (SUTI)](suti.html)
