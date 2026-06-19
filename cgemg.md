@@ -1,5 +1,4 @@
-# Controladoria-Geral do Estado
-
+# CONTROLADORIA-GERAL DO ESTADO
 
 A Controladoria-Geral do Estado de Minas Gerais é o órgão permanente responsável pelo sistema de controle interno do Poder Executivo estadual, incumbido de fiscalizar a gestão pública e promover a integridade, a transparência e a defesa do patrimônio público. Atua nas áreas de auditoria, correição, controle social, prevenção e combate à corrupção, contribuindo para o fortalecimento da governança, da ética e da efetividade das políticas públicas no Estado de Minas Gerais. 
 
