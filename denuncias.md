@@ -1,11 +1,7 @@
 
-# DENÚNCIAS 
+## DENÚNCIAS 
 
-
-
-# Disposições preliminares
-
-
+## Disposições preliminares
 
 Denúncia é a comunicação formal apresentada por qualquer pessoa à Administração ou aos órgãos de controle, noticiando a ocorrência de irregularidade, ilegalidade ou indício de desvio na gestão pública, com vistas à apuração e adoção das medidas cabíveis. Conforme a doutrina e normativos dos órgãos de controle, caracteriza-se por conter elementos mínimos de identificação do fato e sua materialidade, podendo ser identificada ou anônima, e distinguindo-se de outras manifestações por seu potencial de ensejar procedimentos investigativos e eventual responsabilização.
 
@@ -20,12 +16,11 @@ No âmbito do Poder Executivo Estadual de Minas Gerais:
 - A Controladoria-Geral do Estado (CGE) é responsável pela apuração, direta ou indireta, dessas denúncias. A apuração pode ser realizada pela Auditoria-Geral, Corregedoria-Geral ou pelas controladorias setoriais e seccionais, conforme a matéria, o órgão envolvido e a natureza dos fatos denunciados. 
 
 
-
-# Tratamento das denúncias no âmbito da CGE e das controladorias setoriais e seccionais 
+## Tratamento das denúncias no âmbito da CGE e das controladorias setoriais e seccionais 
 
 As diretrizes aplicáveis ao tratamento de denúncias no âmbito da Controladoria-Geral do Estado encontram-se estabelecidas na Instrução Normativa nº 01/2024. Em linhas gerais, destacam-se as seguintes orientações:
 
-# Triagem e Risco
+## Triagem e Risco
 
 **Porta de entrada** – As denúncias da OGE são recebidas pela AHCS/CGE quando apresentam relevância, complexidade, envolvimento de autoridades, múltiplos órgãos ou impossibilidade de apuração no órgão de origem; caso contrário, são encaminhadas às controladorias setoriais/seccionais ou estatais. 
 
@@ -35,7 +30,7 @@ As unidades devem atuar de forma coordenada para evitar sobreposição e podem, 
 
 **Avaliação de Riscos** – A avaliação de riscos da denúncia deve ser realizada imediatamente após o seu recebimento, por meio da matriz de Criticidade x Detalhamento (probabilidade x impacto). Denúncias classificadas como alto ou extremo risco têm apuração prioritária, enquanto as de baixo ou médio risco podem ser tratadas de forma subsidiária, como inclusão em trabalhos, encaminhamento à gestão ou uso como insumo para ações futuras.
 
-# Execução e Conclusão
+## Execução e Conclusão
 
 A apuração de denúncias é realizada conforme as competências e capacidade técnica das unidades de apuração, orientada pela avaliação de riscos e por critérios específicos definidos internamente. Deve observar, ainda, normativos que tratam da priorização de procedimentos disciplinares e das orientações técnicas de auditoria interna governamental.
 
@@ -46,8 +41,7 @@ A apuração de denúncias é realizada conforme as competências e capacidade t
 **Resposta conclusiva** – Finalização da apuração com envio à OGE de resultado conclusivo, podendo ser pelo arquivamento ou pela confirmação e apuração dos fatos.
 
 
-
-# Normativos e Materiais Instrucionais
+## Normativos e Materiais Instrucionais
 
 - [Lei nº 869/1952 - Estatuto dos Funcionários Públicos Civis do Estado de Minas Gerais;](https://www.almg.gov.br/legislacao-mineira/texto/LEI/869/1952/)
   
@@ -66,8 +60,7 @@ A apuração de denúncias é realizada conforme as competências e capacidade t
 - [Manuais e Cartilhas.](https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas)
 
 
-
-# Ferramentas de apoio
+## Ferramentas de apoio
 
 Além dos normativos e materiais instrucionais já citados, as unidades responsáveis pela apuração das denúncias poderão dispor de instrumentos disponibilizados pela Corregedoria-Geral no site do Conselho de Corregedorias de Minas Gerais [CONREGE](https://conrege.mg.gov.br/#), no menu "Corregedorias / Corregedoria-Geral". São elas:
 
@@ -78,8 +71,7 @@ II - [Calculadora de Dosimetria de Sanções Disciplinares](https://conrege.mg.g
 III - [SAC - Sistema de Admissibilidade Correcional](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/sistema-de-admissibilidade-correcional)
 
 
-
-# Interlocução institucional 
+## Interlocução institucional 
 
 No âmbito da Auditoria-Geral (AUGE), os assuntos referentes à apuração de denúncias poderão ser tratados no Núcleo de Desenvolvimento da Capacidade de Auditoria Interna (NDCA):
 
@@ -102,8 +94,7 @@ Telefone: (31) 3915-8996
 Endereço Eletrônico: raquel.damazio@cge.mg.gov.br 
 
 
-
-# Disposições finais
+## Disposições finais
 
 As unidades envolvidas no tratamento de denúncias deverão observar os procedimentos e medidas de proteção à identidade do denunciante de ilícito ou irregularidades praticados contra órgãos e entidades da Administração pública direta, autárquica e fundacional do Poder Executivo, conforme o disposto no Decreto nº 48.582, de 3 de março de 2023.
 
