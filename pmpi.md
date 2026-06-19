@@ -1,10 +1,10 @@
-# Política Mineira de Promoção da Integridade – PMPI
+## POLÍTICA MINEIRA DE PROMOÇÃO DA INTEGRIDADE – PMPI
 
 A Política Mineira de Promoção da Integridade – PMPI foi estabelecida pelo Decreto Estadual n.º 48.419, de 16 de maio de 2022, em substituição ao Plano Mineiro de Promoção da Integridade, de que trata o Decreto Estadual nº 47.185, de 13 de maio de 2017.
 
 Estabelece objetivos e diretrizes para a promoção da ética, da probidade e do respeito às normas que regulamentam as relações entre a Administração Pública e os setores público e privado, definindo a estrutura dos programas e planos de integridade dos órgãos e das entidades da Administração Pública do Poder Executivo estadual
 
-# Objetivos da PMPI
+## Objetivos da PMPI
 
 - Adotar princípios éticos e normas de conduta regidas pela boa-fé, honestidade, fidelidade ao interesse público, impessoalidade, dignidade e decoro no exercício de suas funções, lealdade às instituições, transparência e eficiência, e certificar o seu cumprimento.
 
@@ -16,7 +16,7 @@ Estabelece objetivos e diretrizes para a promoção da ética, da probidade e do
 
 - Fomentar a incorporação de valores éticos e a adoção de medidas e de instruentos que promovam a conformidade com os normativos vigentes nas relações entre a Administração Pública e os setores público e privado.
 
-# Qual papel a CGE-MG desempenha na PMPI?
+## Qual papel a CGE-MG desempenha na PMPI?
 
 A integridade está na missão, visão, valores e no propósito da Controladoria Geral do Estado de Minas Gerais.
 
@@ -26,26 +26,16 @@ Além de regulamentar programas e ações relativos à integridade, ao control
 
 Nesse contexto, a Controladoria-Geral do Estado lançou o  [Sistema Eletrônico de Gestão da Política Mineira de Promoção da Integridade (SisPMPI)](https://sispmpi.mg.gov.br/site/login), cuja utilização é obrigatória pelos órgãos e entidades do Poder Executivo do Estado de Minas Gerais, nos termos do Decreto nº 48.419/2022. A plataforma foi estruturada em quatro módulos integrados — Elaboração, Execução, Monitoramento e Avaliação —, destinados a apoiar a implementação, o acompanhamento e o aperfeiçoamento contínuo da Política Mineira de Promoção da Integridade.
 
-# Repositório da PMPI
+## Repositório da PMPI
 
 Todas as ações, projetos, legislação, planos e programas de integridade estão disponíveis no [portal eletrônico da PMPI](https://pmpi.mg.gov.br/).
 
-# Para mais informações entre em contato
+## Interlocução institucional
 
 Subcontroladoria de Transparência, Integridade e Controle Social - SUTI
 
-Controladoria-Geral do Estado de Minas Gerais - CGE-MG
+Endereço eletrônico integridade@cge.mg.gov.br
 
-Rodovia Papa João Paulo II, 4.000
-
-Edifício Gerais, 12º andar - Cidade Administrativa
-
-Bairro Serra Verde - Belo Horizonte - Minas Gerais
-
-CEP 31630-901
-
-E-mail: integridade@cge.mg.gov.br
-
-Telefone de contato: +55 31 3915-8916
+Telefone (31) 3915-8916
 
 
