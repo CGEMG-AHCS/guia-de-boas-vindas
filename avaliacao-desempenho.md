@@ -1,11 +1,11 @@
 
-# AVALIAÇÃO DE DESEMPENHO  
+## AVALIAÇÃO DE DESEMPENHO  
 
 
 A avaliação de desempenho dos controladores setoriais e seccionais da Controladoria-Geral do Estado de Minas Gerais (CGE/MG) é realizada por meio de um modelo estruturado de avaliação por competências, que estabelece critérios objetivos para mensurar o desempenho dos servidores que exercem função de controle interno. Essa sistemática está regulamentada pela Resolução Conjunta SEPLAG/CGE nº 9.751/2017 e orienta-se pelo princípio de desenvolvimento contínuo e alinhamento institucional. 
 
 
-# Quem está sujeito à avaliação 
+## Quem está sujeito à avaliação 
 
 Submetem-se à Avaliação de Desempenho por Competências os servidores que exercem função de controle interno no âmbito das unidades setoriais e seccionais de controle interno, incluindo: 
 
@@ -18,7 +18,7 @@ Submetem-se à Avaliação de Desempenho por Competências os servidores que exe
 
  
 
-# Perfil de avaliação aplicável às chefias das unidades setoriais e seccionais 
+## Perfil de avaliação aplicável às chefias das unidades setoriais e seccionais 
 
 Os controladores setoriais e seccionais, na condição de Gestores Públicos, são avaliados com base em dois perfis complementares: 
 
@@ -28,7 +28,7 @@ Os controladores setoriais e seccionais, na condição de Gestores Públicos, s�
 - Competências Técnicas, relacionadas diretamente às atividades de controle interno. São mapeadas pela CGE conforme a área de atuação (auditoria, corregedoria, governo aberto, entre outras). 
  
 
-# Critérios e composição da pontuação 
+## Critérios e composição da pontuação 
 
 A avaliação possui pontuação máxima de 100 pontos, distribuída da seguinte forma: 
 
@@ -50,15 +50,15 @@ Na hipótese de o gestor não possuir equipe sob sua coordenação, a pontuaçã
 No caso das chefias das controladorias setoriais e seccionais, considera-se como chefia imediata o titular da Assessoria de Harmonização das Controladorias Setoriais e Seccionais. 
 
 
-# Comunicação dos resultados e responsabilidades 
+## Comunicação dos resultados e responsabilidades 
 
 Compete à chefia imediata dar ciência formal ao gestor avaliado acerca do resultado final da avaliação. Na impossibilidade, essa atribuição é assumida pela respectiva Unidade Setorial de Recursos Humanos. A Diretoria de Recursos Humanos da CGE é responsável pela orientação, coordenação e acompanhamento dos procedimentos avaliativos, bem como pela disponibilização dos formulários e pelo suporte técnico às unidades. 
 
-# Legislação
+## Legislação
 
 * [Resolução Conjunta SEPLAG/CGE nº 9.751/2017](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=179912&marc).
 
-# Interlocução institucional
+## Interlocução institucional
 
 Assessoria de Harmonização das Controladorias Setoriais e Seccionais
 
