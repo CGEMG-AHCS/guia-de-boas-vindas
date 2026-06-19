@@ -10,7 +10,11 @@ theme:
 
 nav:
   - Início: index.md
-  - Introdução: introducao.md
-  - Estrutura Organizacional: estrutura-organizacional.md
-  - Informações Úteis: informacoes-uteis.md
-  - Histórico de Atualizações: historico-de-atualizacoes.md
+  - Controladoria-Geral do Estado: cgemg.md
+  - Auditoria-Geral: auge.md
+  - Corregedoria-Geral: coge.md
+  - Subcontroladoria de Transparência, Integridade e Controle Social: suti.md
+  - Assessoria de Harmonização das Controladorias Setoriais e Seccionais: ahcs.md
+  - Controladorias Setoriais e Seccionais: cset-csec.md
+  - Principais Projetos e Entregas: projetos-entregas.md
+  
