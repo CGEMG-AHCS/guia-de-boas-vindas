@@ -1,26 +1,5 @@
-<!-- BANNER -->
-<style>
-.banner {
-    background: linear-gradient(90deg, #0b3d91, #1f5bb5);
-    color: white;
-    padding: 40px 20px;
-    border-radius: 8px;
-    margin-bottom: 30px;
-}
-.banner h1 {
-    margin: 0;
-    font-size: 2.2em;
-}
-.banner p {
-    margin-top: 10px;
-    font-size: 1.1em;
-}
-</style>
-
-<div class="banner">
-  <h1>Guia de Boas-Vindas</h1>
-  <p>Controladoria-Geral do Estado de Minas Gerais</p>
-</div>
+# Guia de Boas-Vindas
+## Controladoria-Geral do Estado de Minas Gerais
 
 Bem-vindo(a) à **Controladoria-Geral do Estado de Minas Gerais (CGE-MG)**.
 
@@ -30,16 +9,20 @@ Este guia foi desenvolvido para apoiar a integração de novos servidores, ofere
 
 ## 🎯 Objetivo do Guia
 
-- Apresentar a estrutura da CGE-MG  
-- Explicar competências das unidades  
-- Orientar sobre sistemas e instrumentos  
-- Promover a cultura de integridade  
+Apresentar, de forma organizada e acessível:
+
+- A estrutura da CGE-MG  
+- As principais unidades e suas competências  
+- Sistemas corporativos utilizados  
+- Instrumentos de planejamento e controle  
+- Políticas e práticas de integridade  
 
 ---
 
 ## 🧭 Como utilizar este guia
 
-Utilize o menu lateral para navegar entre os temas.
+Utilize o menu lateral para navegar entre os temas.  
+Recomenda-se seguir a sequência abaixo para melhor compreensão:
 
 ### 📚 Trilha sugerida
 
@@ -55,26 +38,54 @@ Utilize o menu lateral para navegar entre os temas.
 
 ## 🏛️ Sobre a CGE-MG
 
-A Controladoria-Geral do Estado é responsável por:
+A Controladoria-Geral do Estado é o órgão central do sistema de controle interno do Poder Executivo, responsável por:
 
 - Auditoria governamental  
 - Correição administrativa  
-- Transparência pública  
-- Promoção da integridade  
+- Promoção da transparência  
+- Fomento à integridade pública  
 
 ---
 
-## 📌 Destaques
+## ⚙️ Estrutura organizacional
+
+A CGE-MG é composta por unidades responsáveis por funções estratégicas, como:
+
+- Auditoria-Geral  
+- Corregedoria-Geral  
+- Subcontroladoria de Transparência, Integridade e Controle Social  
+- Controladorias Setoriais e Seccionais  
+
+👉 Consulte a seção **A CGE-MG** para mais detalhes.
+
+---
+
+## 📌 Destaques importantes
 
 !!! note "Importante"
-    Este guia é uma referência inicial para novos servidores.
+    Este guia é uma referência inicial e deve ser complementado com normas, manuais e orientações específicas de cada área.
 
 !!! warning "Atenção"
-    Consulte sempre normas oficiais atualizadas.
+    Sempre verifique se as informações estão atualizadas conforme normativos vigentes.
 
 ---
 
 ## 🤝 Boas-vindas
 
-Desejamos uma excelente trajetória na CGE-MG!
+Esperamos que este guia contribua para sua atuação na CGE-MG, fortalecendo a cultura de controle, integridade e excelência na gestão pública.
+
+---
+
+## 📎 Contato e apoio
+
+Em caso de dúvidas, procure:
+
+- Sua chefia imediata  
+- Unidades de apoio institucional  
+- Ou áreas responsáveis pelos temas apresentados
+
+---
+
+**Seja bem-vindo(a) à CGE-MG!**
+
 
