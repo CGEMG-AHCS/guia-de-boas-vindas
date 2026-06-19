@@ -60,9 +60,9 @@ Diretoria Central de Auditoria de Contas
 
 Carolina Lage Pedroso Bertani
 
-Telefone: (31) 3915-8983
+Telefone (31) 3915-8983
 
-Endereço Eletrônico: carolina.bertani@cge.mg.gov.br
+Endereço eletrônico carolina.bertani@cge.mg.gov.br
 
 
 
