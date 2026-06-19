@@ -1,4 +1,4 @@
-# CONSULTA TÉCNICA
+## CONSULTA TÉCNICA
 
 A Consulta Técnica é um instrumento institucional que permite às Controladorias Setoriais e Seccionais encaminharem dúvidas e questionamentos às áreas técnicas da Controladoria-Geral do Estado sobre matérias relacionadas à Auditoria Interna Governamental, Correição, Transparência, Integridade e Controle Social.
 
@@ -8,7 +8,7 @@ As consultas devem ser formalizadas pelo Controlador Setorial ou Seccional, medi
 
 As respostas emitidas pelas unidades técnicas da CGE possuem caráter vinculante para a unidade consulente e constituem importante instrumento de orientação e apoio à atuação das Controladorias Setoriais e Seccionais, contribuindo para a padronização de procedimentos e para o fortalecimento do Sistema de Controle Interno do Poder Executivo estadual.
 
-# Legislação
+## Legislação
 
 Para obter informações detalhadas, consulte a íntegra da norma e conheça sua fundamentação legal, por meio do portal de Pesquisa Legislativa do Estado de Minas Gerais.
 
