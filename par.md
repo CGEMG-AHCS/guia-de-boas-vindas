@@ -1,4 +1,4 @@
-# PROCESSO ADMINISTRATIVO DE RESPONSABILIZAÇÃO DE PESSOAS JURÍDICAS (PAR)
+## PROCESSO ADMINISTRATIVO DE RESPONSABILIZAÇÃO DE PESSOAS JURÍDICAS (PAR)
 
 O Processo Administrativo de Responsabilização de Pessoas Jurídicas (PAR) é o instrumento por meio do qual a Administração Pública apura e responsabiliza empresas e demais pessoas jurídicas pela prática de atos lesivos contra a administração pública, nacional ou estrangeira, nos termos da Lei Federal nº 12.846, de 2013, conhecida como Lei Anticorrupção.
 
@@ -21,7 +21,7 @@ No âmbito da Controladoria-Geral do Estado de Minas Gerais, a condução, super
 Dessa forma, o Processo Administrativo de Responsabilização representa importante instrumento de proteção do interesse público, de fortalecimento da integridade nas relações entre o setor público e o setor privado e de promoção de um ambiente institucional mais ético, transparente e íntegro.
 
 
-# Normativos e Materiais Instrucionais
+## Normativos e Materiais Instrucionais
 
 * [Lei Federal nº 12.846, de 2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm);
 
@@ -33,7 +33,7 @@ Dessa forma, o Processo Administrativo de Responsabilização representa importa
   
  
 
-# Interlocução institucional
+## Interlocução institucional
 
 Superintendência Central de Responsabilização de Pessoas Jurídicas
 
