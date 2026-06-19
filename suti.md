@@ -1,4 +1,4 @@
-# SUBCONTROLADORIA DE TRANSPARÊNCIA, INTEGRIDADE E CONTROLE SOCIAL
+## SUBCONTROLADORIA DE TRANSPARÊNCIA, INTEGRIDADE E CONTROLE SOCIAL
 
 A Subcontroladoria de Transparência, Integridade e Controle Social constitui uma das áreas finalísticas da Controladoria-Geral do Estado de Minas Gerais, responsável por promover, no âmbito do Poder Executivo estadual, ações voltadas à prevenção da corrupção, ao fortalecimento da transparência pública, ao acesso à informação, à integridade institucional e à ampliação da participação cidadã na gestão pública. Sua atuação busca fortalecer a confiança da sociedade nas instituições públicas, estimulando uma cultura de ética, responsabilidade, prestação de contas e controle social. 
 
