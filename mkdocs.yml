@@ -7,29 +7,43 @@ site_url: https://cgemg-ahcs.github.io/guia-de-boas-vindas/
 theme:
   name: material
   language: pt
+  features:
+    - navigation.tabs
+
 
 nav:
-  - Início: index.md
-  
-  - CONTROLADORIA-GERAL DO ESTADO: cgemg.md
-  - AUDITORIA-GERAL: auge.md
-  - CORREGEDORIA-GERAL: coge.md
-  - SUBCONTROLADORIA DE TRANSPARÊNCIA, INTEGRIDADE E CONTROLE SOCIAL: suti.md
-  - ASSESSORIA DE HARMONIZAÇÃO DAS CONTROLADORIAS SETORIAIS E SECCIONAIS: ahcs.md
-  - CONTROLADORIAS SETORIAIS E SECCIONAIS: cset-csec.md
-  - PRINCIPAIS SISTEMAS CORPORATIVOS: sistemas-corporativos.md
-  - DENÚNCIAS: denuncias.md
-  - PRINCIPAIS PROJETOS E ENTREGAS: projetos-entregas.md
-  - Acordo de Leniência: acordo-leniencia.md
-  - Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP): cafimp.md
-  - Consulta Técnica: consulta-tecnica.md
-  - Plano de Atividades de Controle Interno (Paci): paci.md
-  - Processo Administrativo de Responsabilização de Pessoas Jurídicas (PAR): par.md
-  - Política Mineira de Promoção da Integridade: pmpi.md
-  - Relatório de Atividades de Controle Interno (RACI): raci.md
-  - Relatório de Auditoria de Gestão (RAG): rag.md
-  - Tomada de Contas Especial (TCE): tce.md
-  - Trilhas de Desenvolvimento: trilhas.md
-  - AVALIAÇÃO DE DESEMPENHO: avaliacao-desempenho.md
+  - Início:
+      - Apresentação: index.md
+
+  - A CGE-MG:
+      - Controladoria-Geral do Estado: cgemg.md
+      - Auditoria-Geral: auge.md
+      - Corregedoria-Geral: coge.md
+      - Subcontroladoria de Transparência, Integridade e Controle Social: suti.md
+      - Assessoria de Harmonização das Controladorias Setoriais e Seccionais: ahcs.md
+      - Controladorias Setoriais e Seccionais: cset-csec.md
+
+  - Sistemas e Ferramentas:
+      - Principais Sistemas Corporativos: sistemas-corporativos.md
+
+  - Serviços e Instrumentos:
+      - Denúncias: denuncias.md
+      - Consulta Técnica: consulta-tecnica.md
+      - Acordo de Leniência: acordo-leniencia.md
+      - CAFIMP: cafimp.md
+
+  - Planejamento e Controle:
+      - PACI: paci.md
+      - RACI: raci.md
+      - RAG: rag.md
+
+  - Integridade:
+      - Política Mineira de Promoção da Integridade: pmpi.md
+      - Processo Administrativo de Responsabilização (PAR): par.md
+
+- Gestão de Pessoas:
+    - Avaliação de Desempenho: avaliacao-desempenho.md
+
+
 
   
