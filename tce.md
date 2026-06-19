@@ -1,7 +1,5 @@
 ## TOMADA DE CONTAS ESPECIAL (TCE)
 
-## Conceito e Finalidade
-
 A Tomada de Contas Especial (TCE) é um processo administrativo de natureza excepcional destinado à apuração de fatos, à identificação dos responsáveis e à quantificação de danos causados ao erário, com o objetivo de promover a recomposição do patrimônio público e assegurar a adequada prestação de contas dos recursos públicos.
 
 Trata-se de importante instrumento de controle e responsabilização, utilizado quando forem constatadas irregularidades que resultem ou possam resultar em prejuízo aos cofres públicos e desde que tenham sido previamente esgotadas as medidas administrativas voltadas à regularização da situação ou ao ressarcimento do dano. Dessa forma, a TCE contribui para o fortalecimento da integridade, da transparência, da accountability e da boa governança na Administração Pública.
