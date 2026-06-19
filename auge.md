@@ -1,4 +1,4 @@
-# Auditoria-Geral
+## AUDITORIA-GERAL
 
 A Auditoria-Geral constitui uma das macrofunções da Controladoria-Geral do Estado de Minas Gerais, sendo responsável pela coordenação e execução das atividades de Auditoria Interna Governamental no âmbito do Poder Executivo estadual. Sua atuação é orientada pelos princípios da independência, objetividade, integridade e melhoria contínua da gestão pública, contribuindo para o fortalecimento da governança, do gerenciamento de riscos e dos controles internos da Administração Pública.
 
@@ -13,7 +13,7 @@ A estrutura contempla ainda superintendências e diretorias especializadas em au
 Nesse contexto, as Controladorias Setoriais e Seccionais desempenham papel fundamental na execução descentralizada das atividades de auditoria interna nos órgãos e entidades estaduais, atuando em permanente articulação técnica com a Auditoria-Geral. Essa relação fortalece a padronização de procedimentos, o compartilhamento de informações, a supervisão técnica e a atuação integrada do Subsistema de Auditoria Interna do Poder Executivo de Minas Gerais.
 
 
-# Auditoria Interna Governamental
+## Auditoria Interna Governamental
 
 A atividade de Auditoria Interna Governamental no âmbito da Administração Pública do Poder Executivo do Estado de Minas Gerais encontra-se regulamentada pelo Decreto nº 48.420, de 16 de maio de 2022, normativo que estabelece os princípios, diretrizes e parâmetros gerais aplicáveis à atuação das unidades de auditoria interna do Estado.
 
@@ -26,7 +26,7 @@ O IA-CM constitui um modelo de referência voltado à avaliação e ao aprimoram
 Como reconhecimento dos avanços institucionais alcançados na consolidação e no aprimoramento da atividade de auditoria interna governamental, a CGE-MG recebeu, em 24 de setembro de 2025, a certificação simbólica de Nível 3 do IA-CM, durante o 21º Encontro Nacional de Controle Interno. A certificação foi concedida pelo Conselho Nacional de Controle Interno (Conaci), instituição responsável pela validação da metodologia no Brasil.
 
 
-# Legislação e Orientações Normativas
+## Legislação e Orientações Normativas
 
 O conjunto de normativos, diretrizes, manuais e materiais orientativos relacionados à atividade de Auditoria Interna Governamental no âmbito da Administração Pública do Poder Executivo do Estado de Minas Gerais encontra-se disponível em página específica do portal oficial da Controladoria-Geral do Estado.
 
