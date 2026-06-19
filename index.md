@@ -36,30 +36,6 @@ Recomenda-se seguir a sequência abaixo para melhor compreensão:
 
 ---
 
-## 🏛️ Sobre a CGE-MG
-
-A Controladoria-Geral do Estado é o órgão central do sistema de controle interno do Poder Executivo, responsável por:
-
-- Auditoria governamental  
-- Correição administrativa  
-- Promoção da transparência  
-- Fomento à integridade pública  
-
----
-
-## ⚙️ Estrutura organizacional
-
-A CGE-MG é composta por unidades responsáveis por funções estratégicas, como:
-
-- Auditoria-Geral  
-- Corregedoria-Geral  
-- Subcontroladoria de Transparência, Integridade e Controle Social  
-- Controladorias Setoriais e Seccionais  
-
-👉 Consulte a seção **A CGE-MG** para mais detalhes.
-
----
-
 ## 📌 Destaques importantes
 
 !!! note "Importante"
@@ -80,7 +56,7 @@ Esperamos que este guia contribua para sua atuação na CGE-MG, fortalecendo a c
 
 Em caso de dúvidas, procure:
 
-- Sua chefia imediata  
+- A Assessoria de Harmonização das Controladorias Setoriais e Seccionais  
 - Unidades de apoio institucional  
 - Ou áreas responsáveis pelos temas apresentados
 
