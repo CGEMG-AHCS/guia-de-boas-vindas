@@ -7,8 +7,6 @@ site_url: https://cgemg-ahcs.github.io/guia-de-boas-vindas/
 theme:
   name: material
   language: pt
-  features:
-    - navigation.tabs
 
 
 nav:
