@@ -1,4 +1,4 @@
-# CORREGEDORIA-GERAL (COGE)
+## CORREGEDORIA-GERAL (COGE)
 
 A Corregedoria-Geral constitui uma das macrofunções da Controladoria-Geral do Estado de Minas Gerais, sendo responsável pela coordenação, supervisão e execução das atividades correicionais no âmbito do Poder Executivo estadual. Sua atuação está voltada à prevenção, apuração e responsabilização de irregularidades praticadas por agentes públicos e pessoas jurídicas.
 
@@ -18,7 +18,7 @@ Nesse contexto, as controladorias setoriais e seccionais exercem papel fundament
 
 
 
-# Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo (CONREGE)
+## Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo (CONREGE)
 
 O Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo – Conrege é órgão colegiado de natureza consultiva e propositiva, vinculado administrativamente à Controladoria-Geral do Estado, criado com a finalidade de promover o aperfeiçoamento do sistema correcional da Administração Pública estadual, por meio da formulação de diretrizes, integração institucional e fortalecimento das ações disciplinares e de responsabilização administrativa. 
 
@@ -27,7 +27,7 @@ Nesse contexto, a Corregedoria-Geral do Estado exerce papel estratégico no Conr
 O portal oficial do Conrege reúne informações, notícias, normativos e materiais técnicos relacionados à atividade correcional, constituindo importante fonte de consulta e atualização para os agentes que atuam na área.
 
 
-# Legislação e Publicações
+## Legislação e Publicações
 
 - [Legislação Geral](https://conrege.mg.gov.br/legislacoes/legislacao-geral)
 - [Legislação Específica](https://conrege.mg.gov.br/legislacoes/legislacao-especifica)
