@@ -10,11 +10,24 @@ theme:
 
 nav:
   - Início: index.md
-  - Controladoria-Geral do Estado: cgemg.md
-  - Auditoria-Geral: auge.md
-  - Corregedoria-Geral: coge.md
-  - Subcontroladoria de Transparência, Integridade e Controle Social: suti.md
-  - Assessoria de Harmonização das Controladorias Setoriais e Seccionais: ahcs.md
-  - Controladorias Setoriais e Seccionais: cset-csec.md
-  - Principais Projetos e Entregas: projetos-entregas.md
+  - CONTROLADORIA-GERAL DO ESTADO: cgemg.md
+  - AUDITORIA-GERAL: auge.md
+  - CORREGEDORIA-GERAL: coge.md
+  - SUBCONTROLADORIA DE TRANSPARÊNCIA, INTEGRIDADE E CONTROLE SOCIAL: suti.md
+  - ASSESSORIA DE HARMONIZAÇÃO DAS CONTROLADORIAS SETORIAIS E SECCIONAIS: ahcs.md
+  - CONTROLADORIAS SETORIAIS E SECCIONAIS: cset-csec.md
+  - PRINCIPAIS SISTEMAS CORPORATIVOS: sistemas-corporativos.md
+  - DENÚNCIAS: denuncias.md
+  - PRINCIPAIS PROJETOS E ENTREGAS: projetos-entregas.md
+    - Acordo de Leniência: acordo-leniencia.md
+    - Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP): cafimp.md
+    - Consulta Técnica: consulta-tecnica.md
+    - Plano de Atividades de Controle Interno (Paci): paci.md
+    - Processo Administrativo de Responsabilização de Pessoas Jurídicas (PAR): par.md
+    - Relatório de Atividades de Controle Interno (RACI): raci.md
+    - Relatório de Auditoria de Gestão (RAG): rag.md
+    - Tomada de Contas Especial (TCE): tce.md
+    - Trilhas de Desenvolvimento: trilhas.md
+  - AVALIAÇÃO DE DESEMPENHO: avaliacao-desempenho.md
+
   
