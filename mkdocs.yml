@@ -16,11 +16,9 @@ nav:
   - CORREGEDORIA-GERAL: coge.md
   - SUBCONTROLADORIA DE TRANSPARÊNCIA, INTEGRIDADE E CONTROLE SOCIAL: suti.md
   - ASSESSORIA DE HARMONIZAÇÃO DAS CONTROLADORIAS SETORIAIS E SECCIONAIS: ahcs.md
-  
   - CONTROLADORIAS SETORIAIS E SECCIONAIS: cset-csec.md
   - PRINCIPAIS SISTEMAS CORPORATIVOS: sistemas-corporativos.md
   - DENÚNCIAS: denuncias.md
-  
   - PRINCIPAIS PROJETOS E ENTREGAS: projetos-entregas.md
     - Acordo de Leniência: acordo-leniencia.md
     - Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP): cafimp.md
@@ -32,7 +30,6 @@ nav:
     - Relatório de Auditoria de Gestão (RAG): rag.md
     - Tomada de Contas Especial (TCE): tce.md
     - Trilhas de Desenvolvimento: trilhas.md
-    
   - AVALIAÇÃO DE DESEMPENHO: avaliacao-desempenho.md
 
   
