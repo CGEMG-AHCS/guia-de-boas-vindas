@@ -38,10 +38,10 @@ Recomenda-se seguir a sequência abaixo para melhor compreensão:
 
 ## 📌 Destaques importantes
 
-!!! note "Importante"
+!!! warning "Atenção"
     Este guia é uma referência inicial e deve ser complementado com normas, manuais e orientações específicas de cada área. Sempre verifique se as informações estão atualizadas conforme normativos vigentes.
 
-!!! warning "Atenção"
+!!! note "Importante"
     Este guia foi concebido como um documento dinâmico e colaborativo, em constante evolução. Seu conteúdo permanece aberto a contribuições, revisões e aprimoramentos, incentivando a participação ativa de todos os envolvidos. Envie sugestões e contribuições para **<coordenacao@cge.mg.gov.br>**, fortalecendo continuamente sua qualidade e relevância.
 
 
