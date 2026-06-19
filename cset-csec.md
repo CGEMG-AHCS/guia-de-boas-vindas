@@ -1,4 +1,4 @@
-# As Controladorias Setoriais e Seccionais 
+## CONTROLADORIAS SETORIAIS E SECCIONAIS 
 
 As Controladorias Setoriais e Seccionais (CSETs e CSECs) constituem a rede descentralizada da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) e desempenham papel essencial na execução das atividades de controle interno junto aos órgãos e entidades do Poder Executivo estadual. Presentes nas Secretarias de Estado, autarquias e fundações, essas unidades atuam como representantes da CGE em suas respectivas estruturas organizacionais, exercendo suas atribuições sob orientação técnica e supervisão do órgão central do Sistema de Controle Interno.
 
