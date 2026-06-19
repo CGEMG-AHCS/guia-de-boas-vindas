@@ -57,4 +57,4 @@ Denise Nascimento de Sá
 
 Telefone (31) 3915-8900
 
-Endereço Eletrônico denise.sa@cge.mg.gov.br
+Endereço eletrônico denise.sa@cge.mg.gov.br
