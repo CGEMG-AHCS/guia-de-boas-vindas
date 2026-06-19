@@ -1,4 +1,4 @@
-# Tomada de Contas Especial (TCE)
+## TOMADA DE CONTAS ESPECIAL (TCE)
 
 ## Conceito e Finalidade
 
@@ -57,6 +57,6 @@ Superintendência Central de Auditoria de Contas
 
 Denise Nascimento de Sá
 
-Telefone: (31) 3915-8900
+Telefone (31) 3915-8900
 
-Endereço Eletrônico: denise.sa@cge.mg.gov.br
+Endereço Eletrônico denise.sa@cge.mg.gov.br
