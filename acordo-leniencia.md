@@ -6,13 +6,13 @@ Para a celebração do acordo, a pessoa jurídica deve atender aos requisitos pr
 
 Além disso a empresa deve se comprometer a cooperar integralmente com as apurações, fornecer informações e documentos relevantes, implementar ou aperfeiçoar mecanismos de integridade e promover a reparação dos danos eventualmente causados ao erário, sem prejuízo das demais obrigações previstas no acordo.
 
-### Qual o órgão responsável no Poder Executivo de Minas Gerais?
+## Qual o órgão responsável no Poder Executivo de Minas Gerais?
 
 No âmbito do Poder Executivo do Estado de Minas Gerais, a competência para celebrar acordos de leniência é atribuída ao Controlador-Geral do Estado, nos termos da Lei Estadual nº 24.313/2023 e do Decreto Estadual nº 48.821/2024.
 
 A coordenação técnica das negociações é realizada pela Controladoria-Geral do Estado (CGE), por intermédio do Núcleo de Combate à Corrupção (NUCC), com participação obrigatória da Advocacia-Geral do Estado (AGE), garantindo segurança jurídica e alinhamento institucional durante todas as fases do procedimento.
 
-### Quem conduz as negociações para a celebração do acordo?
+## Quem conduz as negociações para a celebração do acordo?
 
 As negociações são conduzidas por comissão especialmente designada pelo Controlador-Geral do Estado, composta por Auditores Internos da CGE e Procuradores do Estado da AGE.
 
