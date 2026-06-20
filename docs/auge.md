@@ -1,7 +1,7 @@
 # Auditoria-Geral
 ## Auditoria Interna Governamental
 
-A **Auditoria-Geral** constitui uma das macrofunções da **Controladoria-Geral do Estado de Minas Gerais (CGE-MG)**, sendo responsável pela coordenação e execução das atividades de **Auditoria Interna Governamental** no âmbito do Poder Executivo estadual.
+A **Auditoria-Geral** constitui uma das macrofunções da Controladoria-Geral do Estado de Minas Gerais (CGE-MG), sendo responsável pela coordenação e execução das atividades de **Auditoria Interna Governamental** no âmbito do Poder Executivo estadual.
 
 Sua atuação é orientada pelos princípios da **independência, objetividade, integridade e melhoria contínua**, contribuindo para o fortalecimento da governança, do gerenciamento de riscos e dos controles internos da Administração Pública.
 
