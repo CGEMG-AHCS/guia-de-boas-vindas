@@ -22,7 +22,7 @@ As diretrizes aplicáveis ao tratamento de denúncias no âmbito da Controladori
 
 ## Triagem e Risco
 
-**Porta de entrada** – As denúncias provenientes da OGE são, em regra, recebidas pelas controladorias setoriais/seccionais ou estatais, quando tratam de matérias ou envolvem servidores de seus respectivos órgãos e entidades, cabendo a essas unidades a apuração. Nos casos em que se enquadrem nos critérios de relevância, maior complexidade, envolvimento de autoridades, múltiplos órgãos ou impossibilidade de apuração no órgão de origem, as denúncias são direcionadas à AHCS/CGE, conforme definição de competência e fluxo estabelecida.
+**Porta de entrada** – As denúncias provenientes da OGE são, em regra, recebidas pelas controladorias setoriais, seccionais ou estatais, quando tratam de matérias ou envolvem servidores de seus respectivos órgãos e entidades, cabendo a essas unidades a apuração. Nos casos em que se enquadrem nos critérios de relevância, maior complexidade, envolvimento de autoridades, múltiplos órgãos ou impossibilidade de apuração no órgão de origem, as denúncias são direcionadas à AHCS/CGE, conforme definição de competência e fluxo estabelecida.
  
 
 **Distribuição** – As denúncias recebidas pelas controladorias setoriais, seccionais ou estatais são encaminhadas para apuração conforme a natureza de seu objeto, podendo ser tratadas tanto pela área de correição quanto pela área de auditoria. Nos casos que envolvam responsabilidade disciplinar ou indícios de atos ilícitos, a apuração compete à área de correição; por sua vez, quando se referirem a falhas em processos, procedimentos ou controles internos, a apuração será conduzida pela área de auditoria.
