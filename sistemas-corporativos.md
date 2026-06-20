@@ -1,9 +1,9 @@
 # Sistemas e Ferramentas
 ## Principais Sistemas Corporativos
 
-Para apoiar suas atividades na **CGE-MG**, você contará com sistemas corporativos desenvolvidos para facilitar o registro, o acompanhamento e a análise das ações de controle.
+Para apoiar suas atividades na CGE-MG, você contará com sistemas corporativos desenvolvidos para facilitar o registro, o acompanhamento e a análise das ações de controle.
 
-Essas ferramentas são essenciais para a rotina institucional, contribuindo para uma atuação **mais eficiente, integrada e orientada a resultados**.
+Essas ferramentas são essenciais para a rotina institucional, contribuindo para uma atuação mais eficiente, integrada e orientada a resultados.
 
 ---
 
