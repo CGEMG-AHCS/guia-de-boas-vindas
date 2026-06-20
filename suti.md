@@ -1,7 +1,7 @@
 # Subcontroladoria de Transparência, Integridade e Controle Social
 ## Promoção da integridade, transparência e participação social
 
-A **Subcontroladoria de Transparência, Integridade e Controle Social** constitui uma das áreas finalísticas da **Controladoria-Geral do Estado de Minas Gerais (CGE-MG)**.
+A **Subcontroladoria de Transparência, Integridade e Controle Social** constitui uma das áreas finalísticas da Controladoria-Geral do Estado de Minas Gerais (CGE-MG).
 
 Sua atuação está voltada à **prevenção da corrupção**, ao fortalecimento da **transparência pública**, à promoção do **acesso à informação**, ao incentivo à **integridade institucional** e à ampliação da **participação social na gestão pública**.
 
