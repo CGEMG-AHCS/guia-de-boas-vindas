@@ -1,45 +1,184 @@
-## CORREGEDORIA-GERAL (COGE)
+# Corregedoria-Geral (COGE)
+## Atividade correcional e responsabilização administrativa
 
-A Corregedoria-Geral constitui uma das macrofunções da Controladoria-Geral do Estado de Minas Gerais, sendo responsável pela coordenação, supervisão e execução das atividades correicionais no âmbito do Poder Executivo estadual. Sua atuação está voltada à prevenção, apuração e responsabilização de irregularidades praticadas por agentes públicos e pessoas jurídicas.
+A **Corregedoria-Geral (COGE)** constitui uma das macrofunções da **Controladoria-Geral do Estado de Minas Gerais (CGE-MG)**, sendo responsável pela coordenação, supervisão e execução das atividades correcionais no âmbito do Poder Executivo estadual.
 
-Como órgão central do Subsistema de Correição Administrativa do Poder Executivo, a Corregedoria-Geral exerce papel estratégico na orientação técnica, padronização de procedimentos e supervisão das atividades desenvolvidas pelas controladorias setoriais e seccionais, promovendo maior uniformidade, segurança jurídica e eficiência na condução das ações correcionais em toda a Administração Pública estadual.
+Sua atuação está voltada à **prevenção, apuração e responsabilização de irregularidades**, contribuindo para o fortalecimento da integridade administrativa, da ética pública e da regularidade das ações governamentais.
 
-Sua atuação compreende tanto ações preventivas quanto repressivas, abrangendo a instauração, supervisão e condução de sindicâncias, processos administrativos disciplinares, investigações preliminares e demais procedimentos destinados à apuração de infrações funcionais praticadas por agentes públicos. Além disso, a Corregedoria-Geral também atua na responsabilização administrativa de pessoas jurídicas pela prática de atos lesivos contra a Administração Pública, nos termos da Lei Federal nº 12.846/2013 — Lei Anticorrupção.
+---
 
-A estrutura organizacional da Corregedoria-Geral é composta por unidades técnicas e especializadas responsáveis pela coordenação, supervisão e execução das atividades correicionais. Integram sua estrutura o Núcleo Técnico e o Núcleo de Gestão de Documentos e Processos, que prestam suporte técnico, estratégico e processual às atividades da unidade.
+## 🎯 Finalidade
 
-A área de supervisão e acompanhamento das ações correicionais é exercida pela Superintendência Central de Análise e Supervisão Correcional, composta por diretorias especializadas nas áreas econômica e social, responsáveis pela análise de denúncias, acompanhamento de procedimentos disciplinares, realização de inspeções e orientação técnica às controladorias setoriais e seccionais.
+A Corregedoria-Geral tem como principais objetivos:
 
-A responsabilização disciplinar de agentes públicos é conduzida pela Superintendência Central de Responsabilização de Agentes Públicos, também estruturada em diretorias voltadas às áreas econômica e social, responsáveis pela condução de sindicâncias e processos administrativos disciplinares, observando os princípios do devido processo legal, do contraditório e da ampla defesa.
+- Prevenir irregularidades na Administração Pública  
+- Apurar infrações funcionais  
+- Promover a responsabilização de agentes públicos e pessoas jurídicas  
+- Fortalecer a integridade administrativa  
+- Assegurar o cumprimento das normas legais e éticas  
 
-Complementando sua estrutura, a Superintendência Central de Responsabilização de Pessoas Jurídicas atua na apuração de atos lesivos praticados por empresas contra a Administração Pública, conduzindo investigações preliminares e Processos Administrativos de Responsabilização (PAR), além de promover a integração de informações e o aperfeiçoamento dos mecanismos de responsabilização administrativa.
+---
 
-Nesse contexto, as controladorias setoriais e seccionais exercem papel fundamental na execução descentralizada das atividades correicionais nos órgãos e entidades estaduais, atuando em permanente articulação técnica com a Corregedoria-Geral. Essa integração fortalece a padronização de procedimentos, a supervisão técnica, o compartilhamento de informações e a efetividade das ações de prevenção e responsabilização no âmbito do Poder Executivo de Minas Gerais.
+## 🧭 Atuação correcional
 
+A atuação da COGE abrange tanto ações **preventivas** quanto **repressivas**, incluindo:
 
+- Instauração e condução de sindicâncias  
+- Processos administrativos disciplinares (PAD)  
+- Investigações preliminares  
+- Supervisão de atividades correcionais  
+- Responsabilização de pessoas jurídicas (Lei nº 12.846/2013)  
 
-## Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo (CONREGE)
+---
 
-O Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo – Conrege é órgão colegiado de natureza consultiva e propositiva, vinculado administrativamente à Controladoria-Geral do Estado, criado com a finalidade de promover o aperfeiçoamento do sistema correcional da Administração Pública estadual, por meio da formulação de diretrizes, integração institucional e fortalecimento das ações disciplinares e de responsabilização administrativa. 
+## 🔗 Papel no Sistema de Correição
 
-Nesse contexto, a Corregedoria-Geral do Estado exerce papel estratégico no Conrege ao atuar na coordenação e articulação das atividades correcionais, contribuindo para a padronização de procedimentos, consolidação de entendimentos e promoção de maior eficiência, efetividade e uniformidade na atuação correcional do Poder Executivo estadual. 
+No âmbito do Poder Executivo estadual, a Corregedoria-Geral atua como:
 
-O portal oficial do Conrege reúne informações, notícias, normativos e materiais técnicos relacionados à atividade correcional, constituindo importante fonte de consulta e atualização para os agentes que atuam na área.
+👉 **Órgão central do Subsistema de Correição Administrativa**
 
+Exercendo funções estratégicas de:
 
-## Legislação e Publicações
+- Orientação técnica  
+- Padronização de procedimentos  
+- Supervisão das unidades descentralizadas  
+- Promoção da uniformidade e segurança jurídica  
 
-- [Legislação Geral](https://conrege.mg.gov.br/legislacoes/legislacao-geral)
-- [Legislação Específica](https://conrege.mg.gov.br/legislacoes/legislacao-especifica)
-- [Deliberações e Resoluções](https://conrege.mg.gov.br/legislacoes/deliberacoes-e-resolucoes)
-- [Súmulas Administrativas](https://conrege.mg.gov.br/legislacoes/sumulas-administrativas)
-- [Jurisprudência](https://conrege.mg.gov.br/legislacoes/jurisprudencia)
-- [Pesquisa Legislativa](https://conrege.mg.gov.br/legislacoes/pesquisa-legislativa)
-- [Perguntas e Respostas](https://conrege.mg.gov.br/legislacoes/perguntas-e-respostas)
-- [Manuais e Cartilhas](https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas)
-- [Artigos e Periódicos](https://conrege.mg.gov.br/publicacoes/artigos-e-periodicos)
-- [Manual Digital](https://conrege.mg.gov.br/publicacoes/sumario-manual-digital)
+---
 
+## 🏢 Estrutura organizacional
+
+A COGE é composta por unidades técnicas especializadas responsáveis pela coordenação e execução das atividades correcionais.
+
+### 🔎 Núcleos de apoio
+
+- **Núcleo Técnico**  
+- **Núcleo de Gestão de Documentos e Processos**  
+
+Atuam no suporte:
+
+- Técnico  
+- Processual  
+- Estratégico  
+
+---
+
+### 📊 Supervisão correcional
+
+A **Superintendência Central de Análise e Supervisão Correcional** é responsável por:
+
+- Análise de denúncias  
+- Acompanhamento de processos disciplinares  
+- Realização de inspeções  
+- Orientação técnica às controladorias  
+
+---
+
+### ⚖️ Responsabilização de agentes públicos
+
+A **Superintendência Central de Responsabilização de Agentes Públicos** atua na:
+
+- Condução de sindicâncias  
+- Processos administrativos disciplinares  
+
+Sempre observando:
+
+- Devido processo legal  
+- Contraditório  
+- Ampla defesa  
+
+---
+
+### 🏛️ Responsabilização de pessoas jurídicas
+
+A **Superintendência Central de Responsabilização de Pessoas Jurídicas** é responsável por:
+
+- Investigações preliminares  
+- Processos Administrativos de Responsabilização (PAR)  
+- Integração de informações sobre responsabilização  
+
+---
+
+## 🤝 Atuação descentralizada
+
+As **Controladorias Setoriais e Seccionais** desempenham papel essencial na execução das atividades correcionais nos órgãos e entidades estaduais.
+
+Essa atuação integrada permite:
+
+- Padronização de procedimentos  
+- Supervisão técnica contínua  
+- Compartilhamento de informações  
+- Maior efetividade das ações de controle  
+
+---
+
+# Conselho de Corregedores (CONREGE)  
+## Governança e articulação institucional
+
+O **Conselho de Corregedores dos Órgãos e Entidades do Poder Executivo (CONREGE)** é um órgão colegiado de natureza **consultiva e propositiva**, vinculado administrativamente à CGE-MG.
+
+---
+
+## 🎯 Finalidade
+
+O CONREGE tem como objetivo:
+
+- Promover o aperfeiçoamento do sistema correcional  
+- Fortalecer a atuação disciplinar  
+- Estimular a integração entre os órgãos  
+- Consolidar diretrizes e entendimentos  
+
+---
+
+## 🧭 Atuação institucional
+
+No âmbito do Conselho, a Corregedoria-Geral exerce papel estratégico de:
+
+- Coordenação das atividades correcionais  
+- Articulação institucional  
+- Padronização de procedimentos  
+- Promoção da eficiência e uniformidade  
+
+---
+
+## 🔗 Portal do CONREGE
+
+O portal oficial do Conselho reúne conteúdos técnicos e normativos relevantes.
+
+🔗 **Acesso:**  
+- https://conrege.mg.gov.br/
+
+---
+
+## 📎 Legislação e publicações
+
+Acesse os principais conteúdos disponíveis:
+
+- Legislação Geral: https://conrege.mg.gov.br/legislacoes/legislacao-geral  
+- Legislação Específica: https://conrege.mg.gov.br/legislacoes/legislacao-especifica  
+- Deliberações e Resoluções: https://conrege.mg.gov.br/legislacoes/deliberacoes-e-resolucoes  
+- Súmulas Administrativas: https://conrege.mg.gov.br/legislacoes/sumulas-administrativas  
+- Jurisprudência: https://conrege.mg.gov.br/legislacoes/jurisprudencia  
+- Pesquisa Legislativa: https://conrege.mg.gov.br/legislacoes/pesquisa-legislativa  
+- Perguntas e Respostas: https://conrege.mg.gov.br/legislacoes/perguntas-e-respostas  
+- Manuais e Cartilhas: https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas  
+- Artigos e Periódicos: https://conrege.mg.gov.br/publicacoes/artigos-e-periodicos  
+- Manual Digital: https://conrege.mg.gov.br/publicacoes/sumario-manual-digital  
+
+---
+
+## 📌 Orientações
+
+!!! note "Importante"
+    A atividade correcional é essencial para garantir a integridade administrativa e a responsabilização adequada no âmbito da Administração Pública.
+
+!!! tip "Boa prática"
+    Recomenda-se a consulta contínua aos materiais do CONREGE para atualização e alinhamento às diretrizes institucionais.
+
+!!! warning "Atenção"
+    A condução de processos correcionais deve observar rigorosamente os princípios legais e as garantias processuais.
+
+---
 
 
 
