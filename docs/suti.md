@@ -113,33 +113,12 @@ A política tem como objetivos principais:
 
 ---
 
-## 🧭 Diretrizes de atuação
-
-A PMPI orienta a implementação de:
-
-- Programas de integridade  
-- Planos de integridade  
-- Ações de prevenção à corrupção  
-- Medidas de transparência e prestação de contas  
-
-Sua aplicação envolve a Administração Pública, a iniciativa privada e a sociedade.
-
----
-
 ## 🔗 Repositório da PMPI
 
 O portal da PMPI reúne conteúdos e ferramentas de apoio à implementação da política.
 
 🔗 **Acesso:**  
 - https://pmpi.mg.gov.br/
-
-No portal, é possível consultar:
-
-- Legislação  
-- Orientações técnicas  
-- Planos e programas  
-- Projetos e iniciativas  
-- Materiais de apoio  
 
 ---
 
