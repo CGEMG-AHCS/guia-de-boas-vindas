@@ -25,9 +25,12 @@ As diretrizes aplicáveis ao tratamento de denúncias no âmbito da Controladori
 **Porta de entrada** – As denúncias provenientes da OGE são, em regra, recebidas pelas controladorias setoriais/seccionais ou estatais, quando tratam de matérias ou envolvem servidores de seus respectivos órgãos e entidades, cabendo a essas unidades a apuração. Nos casos em que se enquadrem nos critérios de relevância, maior complexidade, envolvimento de autoridades, múltiplos órgãos ou impossibilidade de apuração no órgão de origem, as denúncias são direcionadas à AHCS/CGE, conforme definição de competência e fluxo estabelecida.
  
 
-**Distribuição** – Após o recebimento pela AHCS, a denúncia é encaminhada à unidade de apuração competente, principalmente à Corregedoria-Geral (COGE), quando envolver responsabilidade disciplinar ou atos ilícitos, ou à Auditoria-Geral (AUGE), quando tratar de falhas em processos e controles.
+**Distribuição** – As denúncias recebidas pelas controladorias setoriais, seccionais ou estatais são encaminhadas para apuração conforme a natureza de seu objeto, podendo ser tratadas tanto pela área de correição quanto pela área de auditoria. Nos casos que envolvam responsabilidade disciplinar ou indícios de atos ilícitos, a apuração compete à área de correição; por sua vez, quando se referirem a falhas em processos, procedimentos ou controles internos, a apuração será conduzida pela área de auditoria.
 
-As unidades devem atuar de forma coordenada para evitar sobreposição e podem, conforme a relevância, redistribuir as demandas às controladorias setoriais/seccionais, além de promover encaminhamentos complementares a instâncias específicas, quando cabível.
+Quando recebida pela AHCS, a denúncia é encaminhada à unidade de apuração competente, principalmente à Corregedoria-Geral (COGE), se envolver responsabilidade disciplinar ou atos ilícitos, ou à Auditoria-Geral (AUGE), caso trate de falhas em processos e controles.
+
+As unidades devem atuar de forma coordenada, a fim de evitar sobreposição de atuações, podendo, conforme a relevância e as especificidades do caso, redistribuir demandas às controladorias setoriais ou seccionais, bem como promover encaminhamentos complementares a instâncias específicas, quando cabível.
+
 
 **Avaliação de Riscos** – A avaliação de riscos da denúncia deve ser realizada imediatamente após o seu recebimento, por meio da matriz de Criticidade x Detalhamento (probabilidade x impacto). Denúncias classificadas como alto ou extremo risco têm apuração prioritária, enquanto as de baixo ou médio risco podem ser tratadas de forma subsidiária, como inclusão em trabalhos, encaminhamento à gestão ou uso como insumo para ações futuras.
 
