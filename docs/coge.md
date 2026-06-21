@@ -146,7 +146,7 @@ No âmbito do Conselho, a Corregedoria-Geral exerce papel estratégico de:
 O portal oficial do Conselho reúne conteúdos técnicos e normativos relevantes.
 
 🔗 **Acesso:**  
-- [Portal Conrege](https://conrege.mg.gov.br/)
+- [Portal CONREGE](https://conrege.mg.gov.br/)
 
 ---
 
