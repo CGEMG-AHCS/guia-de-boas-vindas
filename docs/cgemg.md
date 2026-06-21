@@ -121,7 +121,7 @@ Esses órgãos atuam como espaços de **assessoramento, articulação e aprimora
 
 Para conhecer mais sobre a CGE-MG:
 
-- Portal institucional: https://www.cge.mg.gov.br/
+- [Portal institucional](https://www.cge.mg.gov.br/)
 
 ---
 
@@ -129,10 +129,10 @@ Para conhecer mais sobre a CGE-MG:
 
 Acompanhe conteúdos e informações institucionais:
 
-- Instagram: https://www.instagram.com/controladoriamg  
-- Facebook: https://www.facebook.com/cgeoficial/  
-- YouTube: https://www.youtube.com/@controladoriamg  
-- LinkedIn: https://www.linkedin.com/company/controladoriamg/  
+- [Instagram](https://www.instagram.com/controladoriamg)  
+- [Facebook](https://www.facebook.com/cgeoficial/)  
+- [YouTube:](https://www.youtube.com/@controladoriamg)  
+- [LinkedIn](https://www.linkedin.com/company/controladoriamg/)  
 
 ---
 
