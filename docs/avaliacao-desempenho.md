@@ -2,7 +2,7 @@
 # Avaliação de Desempenho
 ## Avaliação por competências dos controladores
 
-A **Avaliação de Desempenho** dos controladores setoriais e seccionais da **Controladoria-Geral do Estado de Minas Gerais (CGE-MG)** é realizada por meio de um modelo estruturado de **avaliação por competências**.
+A **Avaliação de Desempenho** dos controladores setoriais e seccionais da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) é realizada por meio de um modelo estruturado de **avaliação por competências**.
 
 Esse modelo estabelece critérios objetivos para mensurar o desempenho dos servidores que atuam no controle interno, sendo orientado pelo princípio do **desenvolvimento contínuo e alinhamento institucional**.
 
