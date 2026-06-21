@@ -179,6 +179,4 @@ Para dúvidas e orientações:
     A inclusão no CAFIMP depende de processo administrativo regular, com observância aos princípios legais.
 
 ---
-Telefone: (31) 3915-8995
 
-Endereço Eletrônico: fernanda.carvalho@cge.mg.gov.br
