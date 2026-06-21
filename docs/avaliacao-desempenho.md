@@ -132,8 +132,7 @@ A **Diretoria de Recursos Humanos da CGE-MG** é responsável por:
 
 🔗 **Normativo principal:**
 
-- Resolução Conjunta SEPLAG/CGE nº 9.751/2017  
-  https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=179912  
+- [Resolução Conjunta SEPLAG/CGE nº 9.751/2017](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=179912)  
 
 ---
 
