@@ -131,7 +131,7 @@ Acompanhe conteúdos e informações institucionais:
 
 - [Instagram](https://www.instagram.com/controladoriamg)  
 - [Facebook](https://www.facebook.com/cgeoficial/)  
-- [YouTube:](https://www.youtube.com/@controladoriamg)  
+- [YouTube](https://www.youtube.com/@controladoriamg)  
 - [LinkedIn](https://www.linkedin.com/company/controladoriamg/)  
 
 ---
