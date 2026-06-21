@@ -1,45 +1,107 @@
-## TRILHAS DE DESENVOLVIMENTO
+# Trilhas de Desenvolvimento
+## Capacitação e fortalecimento institucional
 
-As Trilhas de Desenvolvimento constituem uma iniciativa estratégica da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) voltada ao fortalecimento institucional do Sistema de Controle Interno e ao desenvolvimento contínuo de seus profissionais.
+As **Trilhas de Desenvolvimento** constituem uma iniciativa estratégica da **Controladoria-Geral do Estado de Minas Gerais (CGE-MG)** voltada ao fortalecimento do Sistema de Controle Interno e ao desenvolvimento contínuo de seus profissionais.
 
-O programa foi concebido para promover a disseminação padronizada de conhecimentos, metodologias e boas práticas relacionadas às atividades de controle interno, contribuindo para a redução de assimetrias de conhecimento, o aprimoramento das competências profissionais e o fortalecimento da atuação integrada entre o Órgão Central e as Controladorias Setoriais e Seccionais.
+O programa promove a disseminação estruturada de conhecimentos, metodologias e boas práticas, contribuindo para a evolução das competências e para a atuação integrada entre o Órgão Central e as unidades descentralizadas.
 
-Estruturadas em percursos formativos progressivos, as trilhas contemplam conteúdos em níveis básico, intermediário e avançado, favorecendo a atualização permanente dos servidores e o desenvolvimento das competências técnicas, comportamentais, gerenciais e estratégicas necessárias ao exercício das funções de controle.
+---
 
-## Objetivo
+## 🎯 Finalidade
 
-Promover o desenvolvimento contínuo e integrado dos profissionais que atuam no Sistema de Controle Interno do Poder Executivo Estadual, fortalecendo conhecimentos, habilidades e competências essenciais ao desempenho das atividades de auditoria, corregedoria, integridade, transparência, controle social e gestão pública.
+As Trilhas de Desenvolvimento têm como principais objetivos:
 
-## Público-Alvo
+- Desenvolver continuamente os profissionais de controle interno  
+- Padronizar conhecimentos e práticas institucionais  
+- Reduzir assimetrias de conhecimento  
+- Fortalecer competências técnicas e gerenciais  
+- Aprimorar a atuação do controle interno  
+
+---
+
+## 🧭 Estrutura das trilhas
+
+As trilhas são organizadas em **percursos formativos progressivos**, contemplando diferentes níveis:
+
+- **Básico** → introdução aos temas essenciais  
+- **Intermediário** → aprofundamento técnico  
+- **Avançado** → atuação estratégica e especializada  
+
+---
+
+## ⚙️ Competências desenvolvidas
+
+As trilhas contemplam o desenvolvimento de competências:
+
+- Técnicas (auditoria, correição, integridade, transparência)  
+- Comportamentais  
+- Gerenciais  
+- Estratégicas  
+
+Essas competências são essenciais para o exercício das atividades de controle interno.
+
+---
+
+## 👥 Público-alvo
 
 O programa é destinado a:
 
-* Chefias das Controladorias Setoriais e Seccionais;
-* Servidores das Controladorias Setoriais e Seccionais;
-* Servidores do Órgão Central da CGE;
-* Profissionais das unidades de controle interno das empresas públicas estaduais.
+- Chefias das Controladorias Setoriais e Seccionais  
+- Servidores das Controladorias Setoriais e Seccionais  
+- Servidores do Órgão Central da CGE-MG  
+- Profissionais das unidades de controle interno das empresas estatais  
 
-## Resultados Esperados
+---
 
-Com a implementação das Trilhas de Desenvolvimento, espera-se:
+## 📊 Resultados esperados
 
-* fortalecer as capacidades técnicas e institucionais dos profissionais de controle interno;
-* ampliar a uniformidade de conceitos, metodologias e práticas adotadas no Sistema de Controle Interno;
-* promover maior integração entre o Órgão Central e as unidades descentralizadas;
-* estimular a atualização contínua em temas relacionados à auditoria, corregedoria, integridade, transparência e governança pública;
-* aprimorar a atuação preventiva, orientadora e estratégica do controle interno;
-* fortalecer o engajamento, a valorização e o sentimento de pertencimento dos profissionais que atuam na área.
+Com a implementação das trilhas, espera-se:
 
-Ao investir no desenvolvimento de seus servidores, a CGE reafirma seu compromisso com a excelência, a inovação e o fortalecimento da governança pública, contribuindo para uma Administração Pública cada vez mais íntegra, eficiente e orientada à geração de valor para a sociedade.
+- Fortalecer capacidades técnicas e institucionais  
+- Ampliar a uniformidade de metodologias e práticas  
+- Promover integração entre as unidades  
+- Estimular atualização contínua  
+- Aprimorar a atuação preventiva e estratégica  
 
-## Interlocução institucional 
+---
 
-Assessoria de Harmonização das Controladorias Setoriais e Seccionais
+## 🏛️ Impacto institucional
 
-Débora Pinto Severino / Ana Letícia Neves Pimenta
+A iniciativa contribui para:
 
-Telefone (31) 3915-8891
+- Fortalecimento do Sistema de Controle Interno  
+- Melhoria da governança pública  
+- Consolidação da cultura de integridade  
+- Valorização e engajamento dos servidores  
 
-Endereço eletrônico coordenacao@cge.mg.gov.br
+Ao investir no desenvolvimento de seus profissionais, a CGE-MG reafirma seu compromisso com a **excelência, inovação e geração de valor para a sociedade**.
 
+---
 
+## 📩 Interlocução institucional
+
+Para informações e apoio:
+
+🏢 **Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)**  
+
+👤 Responsáveis:  
+- Débora Pinto Severino  
+- Ana Letícia Neves Pimenta  
+
+📞 Telefone: (31) 3915-8891  
+📧 E-mail: coordenacao@cge.mg.gov.br  
+
+---
+
+## 📌 Orientações
+
+!!! note "Importante"
+    As Trilhas de Desenvolvimento constituem instrumento essencial para o fortalecimento contínuo das competências no Sistema de Controle Interno.
+
+!!! tip "Boa prática"
+    Recomenda-se o acompanhamento regular das trilhas e a participação ativa nas atividades formativas.
+
+!!! warning "Atenção"
+    A atualização contínua é fundamental para o alinhamento às diretrizes e às melhores práticas institucionais.
+
+---
