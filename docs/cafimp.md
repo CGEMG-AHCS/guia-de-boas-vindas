@@ -143,16 +143,13 @@ Nos casos previstos na legislação, a aplicação de sanções poderá resultar
 
 🔗 **Referências principais:**
 
-- Lei nº 13.994/2001:  
-  https://www.almg.gov.br/legislacao-mineira/texto/LEI/13994/2001/?cons=1  
+- [Lei nº 13.994/2001](https://www.almg.gov.br/legislacao-mineira/texto/LEI/13994/2001/?cons=1)  
 
-- Decreto nº 45.902/2012:  
-  https://www.almg.gov.br/legislacao-mineira/texto/DEC/45902/2012/?cons=1  
+- [Decreto nº 45.902/2012](https://www.almg.gov.br/legislacao-mineira/texto/DEC/45902/2012/?cons=1)  
 
 📘 **Material de apoio:**
 
-- Manual CAFIMP:  
-  https://compras.mg.gov.br/wp-content/uploads/cafimp_15_07_2015.pdf  
+- [Manual CAFIMP](https://compras.mg.gov.br/wp-content/uploads/cafimp_15_07_2015.pdf)  
 
 ---
 
