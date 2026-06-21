@@ -19,7 +19,7 @@ Apresentar, de forma organizada e acessível:
 
 ---
 
-## 🧭 Como utilizar este guia
+## 🧭 Como utilizar este Guia
 
 Utilize o menu lateral para navegar entre os temas.  
 Recomenda-se seguir a sequência abaixo para melhor compreensão:
