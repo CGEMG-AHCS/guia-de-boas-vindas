@@ -2,7 +2,7 @@
 # Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)
 ## Integração e coordenação do sistema de controle interno
 
-A **Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)** é a unidade da **Controladoria-Geral do Estado de Minas Gerais (CGE-MG)** responsável por promover a integração, coordenação e alinhamento das Controladorias Setoriais e Seccionais (CSETs e CSECs).
+A **Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)** é a unidade da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) responsável por promover a integração, coordenação e alinhamento das Controladorias Setoriais e Seccionais (CSETs e CSECs).
 
 Sua atuação fortalece o funcionamento do **Sistema de Controle Interno do Poder Executivo estadual**, garantindo maior uniformidade técnica, eficiência operacional e integração institucional.
 
@@ -60,8 +60,7 @@ Além disso, auxilia as unidades em temas como:
 
 - Utilização de sistemas corporativos  
 - Capacitações e desenvolvimento profissional  
-- Monitoramento de ações  
-- Esclarecimento de dúvidas técnicas  
+- Monitoramento de ações    
 
 ---
 
