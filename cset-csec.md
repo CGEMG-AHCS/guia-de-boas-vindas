@@ -1,17 +1,143 @@
-## CONTROLADORIAS SETORIAIS E SECCIONAIS 
+# Controladorias Setoriais e Seccionais
+## Atuação descentralizada do controle interno
 
-As Controladorias Setoriais e Seccionais (CSETs e CSECs) constituem a rede descentralizada da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) e desempenham papel essencial na execução das atividades de controle interno junto aos órgãos e entidades do Poder Executivo estadual. Presentes nas Secretarias de Estado, autarquias e fundações, essas unidades atuam como representantes da CGE em suas respectivas estruturas organizacionais, exercendo suas atribuições sob orientação técnica e supervisão do órgão central do Sistema de Controle Interno.
+As **Controladorias Setoriais e Seccionais (CSETs e CSECs)** constituem a rede descentralizada da Controladoria-Geral do Estado de Minas Gerais (CGE-MG), desempenhando papel essencial na execução das atividades de controle interno no âmbito dos órgãos e entidades do Poder Executivo estadual.
 
-Sua atuação abrange as principais áreas de competência da CGE, incluindo auditoria interna governamental, correição administrativa, transparência, acesso à informação, integridade, prevenção da corrupção e controle social. Dessa forma, as Controladorias contribuem para a proteção do patrimônio público, o fortalecimento da governança, o aperfeiçoamento dos controles internos e a melhoria contínua da gestão pública.
+Presentes nas Secretarias de Estado, autarquias e fundações, essas unidades atuam como representantes da CGE-MG em suas respectivas estruturas organizacionais.
 
-No âmbito da auditoria interna, as Controladorias Setoriais e Seccionais executam ações de avaliação, consultoria e fiscalização, acompanhando a gestão orçamentária, financeira, patrimonial, operacional e de pessoal dos órgãos e entidades em que estão inseridas. Também participam da elaboração e execução dos planos anuais de auditoria, realizam avaliações baseadas em riscos e apoiam a apuração de irregularidades, atuando de forma integrada com a Auditoria-Geral da CGE. Além disso, exercem importante função de assessoramento à alta administração, oferecendo subsídios técnicos para a tomada de decisão e para o aprimoramento dos processos de governança, gerenciamento de riscos e controles internos.
+---
 
-Na área correcional, as Controladorias atuam na prevenção e no tratamento de irregularidades administrativas, acompanhando procedimentos disciplinares, apoiando a instauração de apurações e promovendo ações voltadas ao fortalecimento da integridade institucional. Já nas áreas de transparência e controle social, contribuem para a implementação das políticas de acesso à informação, para o fortalecimento da transparência pública e para o estímulo à participação da sociedade no acompanhamento da gestão governamental.
+## 🎯 Finalidade
 
-A interface entre as Controladorias Setoriais e Seccionais e a CGE é permanente e estruturante para o funcionamento do Sistema de Controle Interno. As unidades descentralizadas executam suas atividades em conformidade com as diretrizes, normas, metodologias e orientações técnicas expedidas pela CGE, mantendo fluxo contínuo de informações com a Auditoria-Geral, a Corregedoria-Geral, a Subcontroladoria de Transparência, Integridade e Controle Social e a Assessoria de Harmonização das Controladorias Setoriais e Seccionais. Essa interação permite o alinhamento institucional, a uniformização de procedimentos, o compartilhamento de boas práticas e a realização de ações integradas de controle.
+As Controladorias Setoriais e Seccionais têm como principais objetivos:
 
-A importância dessas unidades para o Estado transcende a execução de atividades de fiscalização. As Controladorias Setoriais e Seccionais constituem a principal presença institucional da CGE nos órgãos e entidades estaduais, funcionando como elo entre a administração central e as estruturas governamentais descentralizadas. Por meio de sua atuação preventiva, orientadora e fiscalizatória, contribuem para a conformidade dos atos administrativos, para a adequada aplicação dos recursos públicos, para a mitigação de riscos e para o fortalecimento da cultura de integridade no serviço público.
+- Executar ações de controle interno nos órgãos e entidades  
+- Fortalecer a governança e os controles internos  
+- Promover a integridade e a transparência  
+- Contribuir para a melhoria da gestão pública  
+- Apoiar a adequada aplicação dos recursos públicos  
 
-Para conferir maior efetividade às suas atividades, as Controladorias podem contar com estruturas especializadas, como os Núcleos de Auditoria, Transparência e Integridade (NATI) e os Núcleos de Correição Administrativa (NUCAD), responsáveis pela execução técnica das ações relacionadas às respectivas áreas de atuação. Essa organização reforça a capacidade das unidades de atender às demandas institucionais e de promover, de forma integrada, os objetivos estratégicos do Sistema de Controle Interno do Poder Executivo mineiro.
+---
 
- 
+## 🧭 Áreas de atuação
+
+A atuação das Controladorias abrange as principais áreas de competência da CGE-MG:
+
+- Auditoria interna governamental  
+- Correição administrativa  
+- Transparência e acesso à informação  
+- Integridade e prevenção da corrupção  
+- Controle social  
+
+---
+
+## ⚙️ Atuação em Auditoria Interna
+
+No campo da auditoria interna, as Controladorias atuam em:
+
+- Avaliações e fiscalizações  
+- Atividades de consultoria  
+- Acompanhamento da gestão orçamentária, financeira e patrimonial  
+- Monitoramento de programas e políticas públicas  
+
+Também:
+
+- Participam do planejamento anual de auditoria  
+- Realizam avaliações baseadas em riscos  
+- Apoiam a apuração de irregularidades  
+
+👉 Atuam de forma integrada com a **Auditoria-Geral da CGE-MG**.
+
+---
+
+## ⚖️ Atuação correcional
+
+Na área correcional, as Controladorias:
+
+- Atuam na prevenção de irregularidades  
+- Acompanham procedimentos disciplinares  
+- Apoiam a instauração de apurações  
+- Promovem ações de integridade institucional  
+
+---
+
+## 🌐 Transparência e controle social
+
+As Controladorias também contribuem para:
+
+- Implementação da política de acesso à informação  
+- Fortalecimento da transparência pública  
+- Estímulo à participação da sociedade  
+- Apoio ao controle social  
+
+---
+
+## 🔗 Integração com a CGE-MG
+
+A relação entre as Controladorias e a CGE-MG é permanente e estruturante para o funcionamento do sistema de controle interno.
+
+As unidades atuam alinhadas às diretrizes e orientações de:
+
+- Auditoria-Geral  
+- Corregedoria-Geral  
+- Subcontroladoria de Transparência, Integridade e Controle Social  
+- Assessoria de Harmonização (AHCS)  
+
+Essa integração possibilita:
+
+- Padronização de procedimentos  
+- Compartilhamento de boas práticas  
+- Fluxo contínuo de informações  
+- Execução de ações integradas  
+
+---
+
+## 🏛️ Papel institucional
+
+As Controladorias Setoriais e Seccionais representam a principal presença institucional da CGE-MG nos órgãos e entidades estaduais.
+
+Sua atuação contribui para:
+
+- Conformidade dos atos administrativos  
+- Mitigação de riscos  
+- Fortalecimento da governança  
+- Promoção da cultura de integridade  
+
+---
+
+## 🧩 Estruturas de apoio
+
+Para fortalecer sua atuação, as Controladorias podem contar com núcleos especializados:
+
+### 🔎 NATI — Núcleos de Auditoria, Transparência e Integridade
+
+Responsáveis por:
+
+- Atividades de auditoria  
+- Ações de transparência  
+- Promoção da integridade  
+
+---
+
+### ⚖️ NUCAD — Núcleos de Correição Administrativa
+
+Responsáveis por:
+
+- Atividades correcionais  
+- Apuração de irregularidades  
+- Apoio a processos disciplinares  
+
+---
+
+## 📌 Orientações
+
+!!! note "Importante"
+    As Controladorias Setoriais e Seccionais são fundamentais para a efetividade do Sistema de Controle Interno, atuando como elo entre a CGE-MG e os órgãos da Administração Pública.
+
+!!! tip "Boa prática"
+    Recomenda-se a atuação integrada com as áreas centrais da CGE e o alinhamento contínuo às diretrizes institucionais.
+
+!!! warning "Atenção"
+    A execução das atividades deve observar rigorosamente os normativos, metodologias e orientações técnicas expedidas pela CGE-MG.
+
+---
