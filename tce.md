@@ -1,60 +1,195 @@
-## TOMADA DE CONTAS ESPECIAL (TCE)
+# Tomada de Contas Especial (TCE)
+## Apuração de danos ao erário e responsabilização
 
-A Tomada de Contas Especial (TCE) é um processo administrativo de natureza excepcional destinado à apuração de fatos, à identificação dos responsáveis e à quantificação de danos causados ao erário, com o objetivo de promover a recomposição do patrimônio público e assegurar a adequada prestação de contas dos recursos públicos.
+A **Tomada de Contas Especial (TCE)** é um processo administrativo de natureza excepcional destinado à apuração de fatos, à identificação dos responsáveis e à quantificação de danos causados ao erário.
 
-Trata-se de importante instrumento de controle e responsabilização, utilizado quando forem constatadas irregularidades que resultem ou possam resultar em prejuízo aos cofres públicos e desde que tenham sido previamente esgotadas as medidas administrativas voltadas à regularização da situação ou ao ressarcimento do dano. Dessa forma, a TCE contribui para o fortalecimento da integridade, da transparência, da accountability e da boa governança na Administração Pública.
+Seu objetivo principal é promover a **recomposição do patrimônio público**, assegurando a adequada prestação de contas dos recursos públicos.
 
-## Pressupostos e Hipóteses de Instauração
+---
 
-A instauração da TCE pressupõe a existência concomitante de dano ao erário, fato irregular, identificação de responsável e sujeição da matéria à jurisdição do Tribunal de Contas do Estado de Minas Gerais (TCEMG).
+## 🎯 Finalidade
 
-Nos termos da legislação aplicável, a Tomada de Contas Especial poderá ser instaurada, entre outras situações, nos casos de:
+A Tomada de Contas Especial tem como principais objetivos:
 
-* omissão no dever de prestar contas;
-* ausência de comprovação da aplicação de recursos públicos;
-* ocorrência de desfalque, extravio ou desvio de bens, valores ou recursos públicos;
-* prática de ato ilegal, ilegítimo ou antieconômico que resulte em dano ao erário.
+- Apurar irregularidades com dano ao erário  
+- Identificar os responsáveis pelos prejuízos  
+- Quantificar os valores devidos  
+- Promover o ressarcimento ao erário  
+- Fortalecer a transparência e a accountability  
 
-Embora possa decorrer de fatos também apurados em sindicâncias ou processos administrativos disciplinares, a TCE possui finalidade própria e distinta: a recomposição do dano causado ao patrimônio público.
+---
 
-## Medidas Administrativas Prévias
+## 🧭 Características da TCE
 
-Por seu caráter excepcional, a TCE somente deve ser instaurada após a adoção e o esgotamento das medidas administrativas cabíveis para obtenção da prestação de contas, esclarecimento dos fatos, identificação dos responsáveis ou ressarcimento do prejuízo causado ao erário.
+A TCE é um instrumento:
 
-Essas medidas podem envolver notificações, diligências, inspeções, sindicâncias, processos administrativos e demais procedimentos destinados à solução da irregularidade de forma mais célere e menos onerosa para a Administração. Caso tais providências sejam eficazes e o dano seja integralmente reparado, a instauração da TCE torna-se desnecessária.
+- De natureza **excepcional**  
+- Utilizado quando outras medidas não foram suficientes  
+- Vinculado à atuação do Tribunal de Contas  
 
-## Instauração e Fase Interna
+Sua instauração ocorre apenas após o:
 
-Não sendo possível sanar a irregularidade ou obter o ressarcimento do dano por meio das medidas administrativas preliminares, a autoridade competente deverá instaurar a Tomada de Contas Especial.
+👉 **Esgotamento das medidas administrativas prévias**
 
-A fase interna é conduzida no âmbito do órgão ou entidade responsável e compreende a instrução processual necessária para apuração dos fatos, identificação dos responsáveis, quantificação do dano e garantia do contraditório e da ampla defesa. Ao final dos trabalhos, são produzidos os documentos técnicos que subsidiarão a análise do Tribunal de Contas, incluindo o relatório do tomador de contas, o relatório e o certificado da auditoria interna e o atestado da autoridade administrativa.
+---
 
-## Fase Externa
+## ⚖️ Pressupostos para instauração
 
-Concluída a fase interna, o processo é encaminhado ao Tribunal de Contas do Estado de Minas Gerais, responsável pelo julgamento da Tomada de Contas Especial.
+A instauração da TCE depende da ocorrência conjunta de:
 
-Nessa etapa, o Tribunal aprecia os fatos apurados, avalia a responsabilidade dos envolvidos, delibera sobre a existência do dano ao erário e determina, quando cabível, as medidas necessárias ao ressarcimento dos prejuízos e à adoção das demais providências previstas na legislação.
+- Existência de dano ao erário  
+- Identificação do fato irregular  
+- Indicação de responsável  
+- Competência do Tribunal de Contas  
 
-## Atuação da Controladoria-Geral do Estado e das Controladorias Setoriais e Seccionais
+---
 
-No âmbito do Poder Executivo estadual, a Controladoria-Geral do Estado (CGE) exerce papel relevante na orientação, padronização e aperfeiçoamento dos procedimentos relacionados à Tomada de Contas Especial, contribuindo para o fortalecimento dos mecanismos de controle interno e para a adequada proteção do patrimônio público.
+## 📌 Hipóteses de instauração
 
-As Controladorias Setoriais e Seccionais atuam como importantes instâncias de apoio técnico e acompanhamento, orientando os gestores quanto à adoção das medidas administrativas preliminares, auxiliando na instrução processual, avaliando a conformidade dos procedimentos realizados e emitindo os produtos de auditoria previstos na legislação. Sua atuação contribui para assegurar a regularidade, a consistência e a tempestividade dos processos de Tomada de Contas Especial.
+A TCE pode ser instaurada em situações como:
 
-## Normativos e Materiais Instrucionais
+- Omissão no dever de prestar contas  
+- Não comprovação da aplicação de recursos  
+- Desfalque, extravio ou desvio de valores  
+- Atos ilegais, ilegítimos ou antieconômicos com dano  
 
-* [Art. 47 da Lei Complementar nº 102, de 17/01/2008](https://www.almg.gov.br/legislacao-mineira/texto/LCP/102/2008/);
-* [Arts. 245 a 249 da Resolução nº 12/2008](https://www.tce.mg.gov.br/noticia/Detalhe/111189);
-* [Instrução Normativa nº 03/2013](https://www.tce.mg.gov.br/noticia/Detalhe/11116205390);
-* [Decreto nº 46.830, de 14/09/2015](https://www.almg.gov.br/legislacao-mineira/texto/DEC/46830/2015/?cons=1);
-* [Manual de Instruções sobre Tomada de Contas Especial](https://www.cge.mg.gov.br/publicacoes/guias-cartilhas-manuais-e-formularios).
+---
 
-## Interlocução institucional
+## ⚙️ Medidas administrativas prévias
 
-Superintendência Central de Auditoria de Contas
+Antes da instauração, devem ser adotadas medidas como:
 
-Denise Nascimento de Sá
+- Notificações aos responsáveis  
+- Diligências e inspeções  
+- Sindicâncias  
+- Processos administrativos  
 
-Telefone (31) 3915-8900
+👉 Se o dano for sanado, a TCE torna-se desnecessária.
 
-Endereço eletrônico denise.sa@cge.mg.gov.br
+---
+
+# Fases da Tomada de Contas Especial  
+## Procedimento de apuração
+
+A TCE é composta por duas fases principais:
+
+---
+
+## 🏢 Fase interna
+
+Realizada no âmbito do órgão ou entidade, contempla:
+
+- Apuração dos fatos  
+- Identificação dos responsáveis  
+- Quantificação do dano  
+- Garantia do contraditório e ampla defesa  
+
+### 📄 Produtos da fase interna
+
+- Relatório do tomador de contas  
+- Relatório e certificado de auditoria interna  
+- Atestado da autoridade administrativa  
+
+---
+
+## 🏛️ Fase externa
+
+Após a conclusão da fase interna:
+
+- O processo é encaminhado ao **TCEMG**  
+- O Tribunal realiza o julgamento  
+
+Nesta etapa, o Tribunal:
+
+- Avalia os fatos apurados  
+- Julga as responsabilidades  
+- Determina ressarcimento, se cabível  
+
+---
+
+## 🤝 Atuação da CGE-MG
+
+A **Controladoria-Geral do Estado (CGE-MG)** atua na:
+
+- Orientação dos procedimentos  
+- Padronização das atividades  
+- Apoio técnico às unidades  
+- Aperfeiçoamento dos controles internos  
+
+---
+
+## 🏢 Papel das Controladorias
+
+As **Controladorias Setoriais e Seccionais** contribuem por meio de:
+
+- Orientação aos gestores  
+- Apoio na instrução dos processos  
+- Avaliação da conformidade  
+- Emissão de produtos de auditoria  
+
+Sua atuação garante:
+
+- Regularidade dos processos  
+- Consistência das informações  
+- Tempestividade das ações  
+
+---
+
+## 📌 Importância institucional
+
+A TCE é essencial para:
+
+- Proteção do patrimônio público  
+- Responsabilização de agentes  
+- Fortalecimento da governança  
+- Aprimoramento do controle interno  
+
+---
+
+## 📜 Normativos e materiais
+
+🔗 **Principais referências:**
+
+- Lei Complementar nº 102/2008 (art. 47):  
+  https://www.almg.gov.br/legislacao-mineira/texto/LCP/102/2008/  
+
+- Resolução nº 12/2008 (arts. 245 a 249):  
+  https://www.tce.mg.gov.br/noticia/Detalhe/111189  
+
+- Instrução Normativa nº 03/2013:  
+  https://www.tce.mg.gov.br/noticia/Detalhe/11116205390  
+
+- Decreto nº 46.830/2015:  
+  https://www.almg.gov.br/legislacao-mineira/texto/DEC/46830/2015/?cons=1  
+
+📘 **Material de apoio:**
+
+- Manual de TCE:  
+  https://www.cge.mg.gov.br/publicacoes/guias-cartilhas-manuais-e-formularios  
+
+---
+
+## 📩 Interlocução institucional
+
+Para orientações e esclarecimentos:
+
+🏢 **Superintendência Central de Auditoria de Contas**  
+
+👤 Responsável: Denise Nascimento de Sá  
+📞 Telefone: (31) 3915-8900  
+📧 E-mail: denise.sa@cge.mg.gov.br  
+
+---
+
+## 📌 Orientações
+
+!!! note "Importante"
+    A TCE deve ser instaurada apenas após o esgotamento das medidas administrativas preliminares.
+
+!!! tip "Boa prática"
+    A adequada instrução processual é essencial para garantir a efetividade do ressarcimento ao erário.
+
+!!! warning "Atenção"
+    A ausência de elementos essenciais pode comprometer a análise e o julgamento pelo Tribunal de Contas.
+
+---
