@@ -1,22 +1,147 @@
-### RELATÓRIO DE ATIVIDADES E CONTROLE INTERNO (RACI) 
+# Relatório de Atividades de Controle Interno (RACI)
+## Monitoramento e avaliação das ações de controle
 
-O Relatório de Atividades de Controle Interno (Raci) é o instrumento por meio do qual as Controladorias Setoriais e Seccionais registram, acompanham e demonstram os resultados das atividades de controle interno realizadas ao longo do exercício. Complementar ao Plano de Atividades de Controle Interno (Paci), o relatório permite avaliar o grau de execução do planejamento estabelecido, evidenciar os resultados alcançados e fornecer informações relevantes para o aperfeiçoamento contínuo das ações de controle.
+O **Relatório de Atividades de Controle Interno (RACI)** é o instrumento por meio do qual as **Controladorias Setoriais e Seccionais** registram, acompanham e demonstram os resultados das atividades de controle interno executadas ao longo do exercício.
 
-Mais do que um mecanismo de prestação de contas, o Raci constitui uma importante ferramenta de gestão e monitoramento, permitindo acompanhar a evolução dos trabalhos desenvolvidos nas áreas de Auditoria Interna Governamental, Correição, Transparência, Integridade e Controle Social. Por meio dele, torna-se possível identificar avanços, desafios, oportunidades de melhoria e fatores que tenham impactado a execução das atividades planejadas.
+Complementar ao **Plano de Atividades de Controle Interno (PACI)**, o RACI permite avaliar a execução do planejamento, evidenciar resultados alcançados e subsidiar o aprimoramento contínuo das ações de controle.
 
-Sua elaboração é de responsabilidade das Controladorias Setoriais e Seccionais, que devem registrar de forma clara e consistente as ações executadas durante o período, assegurando a compatibilidade das informações apresentadas com os registros efetuados nos sistemas corporativos utilizados pela CGE. O relatório deve refletir fielmente a atuação da unidade, contemplando tanto as atividades previstas no planejamento anual quanto as demandas extraordinárias surgidas ao longo do exercício.
+---
 
-A estrutura do Raci contempla informações sobre os trabalhos de controle interno realizados, concluídos, não concluídos ou não executados, bem como a justificativa para eventuais alterações no planejamento original. O documento também registra ações extraordinárias não previstas no Paci, fatos relevantes que tenham influenciado a atuação da unidade, ações de capacitação realizadas pelos servidores e os resultados decorrentes das recomendações emitidas no exercício, incluindo benefícios gerados para a gestão.
+## 🎯 Finalidade
 
-Com o objetivo de fortalecer o acompanhamento contínuo das atividades, a norma prevê ainda a elaboração do Relatório Parcial de Atividades de Controle Interno (Raci Parcial), documento que consolida a execução das ações desenvolvidas no primeiro semestre e permite o monitoramento tempestivo do cumprimento do planejamento anual.
+O RACI tem como principais objetivos:
 
-Nesse processo, a Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) desempenha papel relevante de coordenação e acompanhamento institucional. Além de disponibilizar modelos e orientações para elaboração do relatório, a Assessoria recebe, acompanha e consolida informações produzidas pelas unidades descentralizadas, subsidiando a CGE na avaliação do desempenho do Sistema de Controle Interno e na identificação de oportunidades de aprimoramento das atividades desenvolvidas.
+- Registrar as atividades realizadas  
+- Avaliar o cumprimento do planejamento (PACI)  
+- Demonstrar resultados e benefícios gerados  
+- Apoiar a tomada de decisão  
+- Fortalecer a transparência e a prestação de contas  
 
-Ao consolidar informações sobre planejamento, execução, resultados e benefícios das ações de controle, o Raci fortalece a transparência, a prestação de contas e a gestão baseada em evidências, contribuindo para o aperfeiçoamento das atividades das Controladorias Setoriais e Seccionais e para o fortalecimento do Sistema de Controle Interno do Poder Executivo do Estado de Minas Gerais.
+---
 
+## 🧭 Importância do RACI
 
-## Legislação
+Mais do que um instrumento de prestação de contas, o RACI constitui uma **ferramenta de gestão e monitoramento**, permitindo:
 
-As diretrizes para elaboração do Relatório de Atividades de Controle Interno estão estabelecidas na [Instrução Normativa CGE/GAB nº 01/2023](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385&marc=).
+- Acompanhar a execução das atividades  
+- Identificar avanços e desafios  
+- Avaliar o desempenho das unidades  
+- Detectar oportunidades de melhoria  
 
+---
 
+## ⚙️ Responsabilidade pela elaboração
+
+A elaboração do RACI é de responsabilidade das:
+
+👉 **Controladorias Setoriais e Seccionais**
+
+As unidades devem:
+
+- Registrar as ações executadas  
+- Garantir clareza e consistência das informações  
+- Manter compatibilidade com sistemas corporativos  
+- Refletir fielmente sua atuação no período  
+
+---
+
+## 📊 Conteúdo do relatório
+
+O RACI contempla informações sobre:
+
+- Trabalhos realizados  
+- Atividades concluídas e não concluídas  
+- Ações não executadas (com justificativa)  
+- Demandas extraordinárias  
+- Fatos relevantes  
+
+Também inclui:
+
+- Capacitações realizadas  
+- Resultados das recomendações emitidas  
+- Benefícios gerados para a gestão  
+
+---
+
+## 🔄 Monitoramento ao longo do exercício
+
+A norma prevê a elaboração do:
+
+👉 **Relatório Parcial de Atividades de Controle Interno (RACI Parcial)**
+
+---
+
+### 📅 Finalidade do RACI Parcial
+
+- Consolidar a execução do primeiro semestre  
+- Permitir acompanhamento tempestivo  
+- Apoiar ajustes no planejamento  
+
+---
+
+## 🤝 Papel da AHCS
+
+A **Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)** exerce papel relevante no processo, sendo responsável por:
+
+- Disponibilizar modelos e orientações  
+- Acompanhar a elaboração dos relatórios  
+- Receber e consolidar informações  
+- Subsidiar a avaliação institucional da CGE  
+
+Sua atuação contribui para:
+
+- Avaliação do desempenho do sistema  
+- Identificação de oportunidades de melhoria  
+- Fortalecimento das atividades de controle  
+
+---
+
+## 🔗 Relação com o PACI
+
+O RACI está diretamente relacionado ao PACI:
+
+### 🔄 Complementaridade
+
+- **PACI** → Planejamento das ações  
+- **RACI** → Execução e avaliação dos resultados  
+
+Essa relação permite:
+
+- Monitorar o cumprimento do planejamento  
+- Avaliar a efetividade das ações  
+- Promover melhoria contínua  
+
+---
+
+## 📌 Contribuições para a gestão pública
+
+O RACI fortalece:
+
+- A transparência institucional  
+- A prestação de contas  
+- A gestão baseada em evidências  
+- A melhoria contínua da gestão pública  
+
+---
+
+## 📜 Legislação
+
+As diretrizes para elaboração do RACI estão previstas na:
+
+📜 **Instrução Normativa CGE/GAB nº 01/2023**  
+🔗 https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385  
+
+---
+
+## 📌 Orientações
+
+!!! note "Importante"
+    O RACI é o principal instrumento de monitoramento das atividades de controle interno ao longo do exercício.
+
+!!! tip "Boa prática"
+    Registre todas as ações executadas de forma clara e consistente, garantindo a rastreabilidade das informações.
+
+!!! warning "Atenção"
+    As informações apresentadas devem estar alinhadas aos registros dos sistemas corporativos e ao planejamento do PACI.
+
+---
