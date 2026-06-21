@@ -144,7 +144,7 @@ A AHCS disponibiliza canais de atendimento para apoiar as Controladorias Setoria
 ## 📩 Canais disponíveis
 
 🔗 **Sistema de atendimento (preferencial):**  
-- https://suportecs.cge.mg.gov.br/
+- [Sistema Suporte CS](https://suportecs.cge.mg.gov.br/)
 
 📧 **E-mail institucional:**  
 - coordenacao@cge.mg.gov.br  
