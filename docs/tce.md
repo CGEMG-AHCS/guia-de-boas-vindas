@@ -154,7 +154,7 @@ A TCE é essencial para:
 
 - [Resolução nº 12/2008 (arts. 245 a 249)](https://www.tce.mg.gov.br/noticia/Detalhe/111189)  
 
-- [nstrução Normativa nº 03/2013](https://www.tce.mg.gov.br/noticia/Detalhe/11116205390)  
+- [Instrução Normativa nº 03/2013](https://www.tce.mg.gov.br/noticia/Detalhe/11116205390)  
 
 - [Decreto nº 46.830/2015](https://www.almg.gov.br/legislacao-mineira/texto/DEC/46830/2015/?cons=1)  
 
