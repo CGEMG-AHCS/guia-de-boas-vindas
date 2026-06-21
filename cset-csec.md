@@ -60,6 +60,7 @@ Na área correcional, as Controladorias:
 - Promovem ações de integridade institucional  
 
 👉 Atuam de forma integrada com a **Corregedoria-Geral da CGE-MG**.
+
 ---
 
 ## 🌐 Transparência e controle social
