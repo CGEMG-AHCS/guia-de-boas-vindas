@@ -77,7 +77,7 @@ Para apoiar a execução da política, a CGE-MG desenvolveu o:
 
 👉 **Sistema Eletrônico de Gestão da PMPI (SisPMPI)**
 
-🔗 https://sispmpi.mg.gov.br/site/login  
+🔗 [SisPMPI](https://sispmpi.mg.gov.br/site/login)  
 
 ---
 
@@ -99,7 +99,7 @@ A utilização do sistema é **obrigatória** para os órgãos e entidades do Po
 O portal da PMPI reúne conteúdos e ferramentas relacionadas à política.
 
 🔗 **Acesso:**  
-- https://pmpi.mg.gov.br/
+- [Portal da PMPI](https://pmpi.mg.gov.br/)
 
 No portal, é possível acessar:
 
