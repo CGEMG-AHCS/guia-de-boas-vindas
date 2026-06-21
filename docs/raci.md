@@ -129,7 +129,7 @@ O RACI fortalece:
 As diretrizes para elaboração do RACI estão previstas na:
 
 📜 **Instrução Normativa CGE/GAB nº 01/2023**  
-🔗 https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385  
+🔗 [Pesquisa Legislativa MG](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385)  
 
 ---
 
