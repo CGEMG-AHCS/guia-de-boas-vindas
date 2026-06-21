@@ -1,40 +1,184 @@
-# CADASTRO DE FORNECEDORES IMPEDIDOS DE LICITAR E CONTRATAR COM A ADMINISTRAÇÃO PÚBLICA ESTADUAL (CAFIMP)
+# Cadastro de Fornecedores Impedidos de Licitar e Contratar (CAFIMP)
+## Registro e controle de fornecedores sancionados
 
-O Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP) é um instrumento de controle instituído pelo Estado de Minas Gerais com a finalidade de registrar e divulgar informações sobre pessoas físicas e jurídicas que estejam impedidas de participar de licitações ou de celebrar contratos com a Administração Pública Estadual em razão da aplicação de sanções administrativas.
+O **Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP)** é um instrumento de controle do Estado de Minas Gerais destinado a registrar e divulgar informações sobre pessoas físicas e jurídicas impedidas de contratar com o Poder Executivo estadual.
 
-Regulamentado pelo Decreto nº 45.902, de 27 de janeiro de 2012, o CAFIMP contribui para o fortalecimento da integridade, da transparência e da segurança das contratações públicas, auxiliando os órgãos e entidades estaduais na verificação da situação dos fornecedores que pretendem contratar com o Estado.
+Esse cadastro contribui para o fortalecimento da **integridade, transparência e segurança das contratações públicas**, auxiliando os órgãos na verificação da regularidade dos fornecedores.
 
-A inscrição no cadastro decorre da aplicação de penalidades restritivas após a conclusão de regular processo administrativo, conduzido com observância aos princípios do contraditório, da ampla defesa e do devido processo legal. Entre as situações que podem ensejar a inscrição estão o descumprimento de obrigações contratuais, a prática de irregularidades em licitações e outras infrações previstas na legislação aplicável.
+---
 
-Compete à Controladoria-Geral do Estado analisar os processos encaminhados pelos órgãos e entidades estaduais e promover a inclusão dos fornecedores no cadastro, quando constatado o atendimento dos requisitos legais. Nesse contexto, as Controladorias Setoriais e Seccionais atuam no apoio e na orientação quanto à adequada instrução dos processos e ao cumprimento dos procedimentos estabelecidos.
+## 🎯 Finalidade
 
-A consulta ao CAFIMP é utilizada como mecanismo de prevenção e controle nas contratações públicas estaduais, permitindo identificar fornecedores que se encontram temporariamente impedidos de contratar com o Estado.
+O CAFIMP tem como principais objetivos:
 
-A exclusão do cadastro ocorre quando cessam os efeitos da sanção aplicada ou nas demais hipóteses previstas na legislação, restabelecendo-se a possibilidade de participação do fornecedor em licitações e contratações públicas estaduais.
+- Registrar fornecedores sancionados  
+- Apoiar a tomada de decisão nas contratações públicas  
+- Prevenir riscos nas relações contratuais  
+- Fortalecer a integridade e a transparência  
+- Garantir maior segurança jurídica nas licitações  
 
+---
 
-## Processo Administrativo Punitivo
+## 🧭 Funcionamento do cadastro
 
-O Processo Administrativo Punitivo é o procedimento utilizado pela Administração Pública para apurar infrações praticadas por fornecedores no âmbito das licitações e dos contratos administrativos, bem como para aplicar as sanções previstas na legislação quando constatada a ocorrência de irregularidades.
+A inclusão no CAFIMP ocorre quando:
 
-Sua instauração ocorre diante de indícios de descumprimento de obrigações contratuais ou de outras condutas passíveis de responsabilização. Durante todo o processo, são assegurados ao fornecedor os direitos ao contraditório, à ampla defesa e ao devido processo legal.
+- Há aplicação de sanção administrativa  
+- O processo administrativo é concluído  
+- São respeitados os princípios do:
 
-Após a análise dos fatos, das provas e das manifestações apresentadas, a autoridade competente poderá aplicar as penalidades cabíveis, observando a gravidade da infração e os princípios da razoabilidade e da proporcionalidade. Entre as sanções previstas estão a advertência, a multa, a suspensão temporária do direito de licitar e contratar e a declaração de inidoneidade.
+  - Contraditório  
+  - Ampla defesa  
+  - Devido processo legal  
 
-Nos casos previstos na legislação, a aplicação de sanções restritivas poderá resultar na inclusão do fornecedor no Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP).
+---
 
-## Normativos e Materiais Instrucionais
+## ⚖️ Situações que podem gerar inclusão
 
-* [Lei nº 13.994, de 18/09/2001](https://www.almg.gov.br/legislacao-mineira/texto/LEI/13994/2001/?cons=1);
-* [Decreto nº 45.902, de 27/01/2012](https://www.almg.gov.br/legislacao-mineira/texto/DEC/45902/2012/?cons=1);
-* [Manual do Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP)](https://compras.mg.gov.br/wp-content/uploads/cafimp_15_07_2015.pdf).
+Entre as hipóteses que podem resultar na inscrição, destacam-se:
 
-## Interlocução institucional
+- Descumprimento de obrigações contratuais  
+- Irregularidades em licitações  
+- Prática de infrações previstas na legislação  
 
-Assessoria Jurídica
+---
 
-Fernanda Paiva Carvalho
+## 🏛️ Competência institucional
 
+Compete à **Controladoria-Geral do Estado (CGE-MG)**:
+
+- Analisar os processos encaminhados  
+- Verificar o atendimento dos requisitos legais  
+- Promover a inclusão no cadastro  
+
+As **Controladorias Setoriais e Seccionais** atuam no:
+
+- Apoio à instrução dos processos  
+- Orientação às unidades  
+- Acompanhamento dos procedimentos  
+
+---
+
+## 🔎 Consulta ao CAFIMP
+
+A consulta ao cadastro é utilizada como ferramenta de:
+
+- Prevenção  
+- Controle  
+- Verificação da situação dos fornecedores  
+
+👉 Permite identificar fornecedores impedidos de contratar com o Estado.
+
+---
+
+## 🔄 Exclusão do cadastro
+
+A exclusão ocorre quando:
+
+- Cessam os efeitos da sanção aplicada  
+- São atendidas as condições legais  
+
+Após a exclusão, o fornecedor volta a poder participar de:
+
+- Licitações  
+- Contratações públicas  
+
+---
+
+# Processo Administrativo Punitivo  
+## Apuração e aplicação de sanções
+
+O **Processo Administrativo Punitivo** é o procedimento utilizado para apurar infrações cometidas por fornecedores no âmbito das licitações e contratos administrativos.
+
+---
+
+## 🎯 Finalidade
+
+O processo tem como objetivos:
+
+- Apurar irregularidades  
+- Garantir o devido processo legal  
+- Aplicar as sanções cabíveis  
+- Proteger o interesse público  
+
+---
+
+## ⚙️ Etapas do processo
+
+### 🔍 Instauração
+
+- Ocorre a partir de indícios de irregularidade  
+- Pode envolver descumprimento contratual ou outras infrações  
+
+---
+
+### 📄 Instrução
+
+- Coleta de provas  
+- Manifestação do fornecedor  
+- Garantia do contraditório e ampla defesa  
+
+---
+
+### ✅ Decisão
+
+Após a análise, a autoridade competente poderá aplicar penalidades, tais como:
+
+- Advertência  
+- Multa  
+- Suspensão temporária  
+- Declaração de inidoneidade  
+
+---
+
+## 🔗 Relação com o CAFIMP
+
+Nos casos previstos na legislação, a aplicação de sanções poderá resultar na:
+
+👉 **Inclusão do fornecedor no CAFIMP**
+
+---
+
+## 📜 Normativos e materiais
+
+🔗 **Referências principais:**
+
+- Lei nº 13.994/2001:  
+  https://www.almg.gov.br/legislacao-mineira/texto/LEI/13994/2001/?cons=1  
+
+- Decreto nº 45.902/2012:  
+  https://www.almg.gov.br/legislacao-mineira/texto/DEC/45902/2012/?cons=1  
+
+📘 **Material de apoio:**
+
+- Manual CAFIMP:  
+  https://compras.mg.gov.br/wp-content/uploads/cafimp_15_07_2015.pdf  
+
+---
+
+## 📩 Interlocução institucional
+
+Para dúvidas e orientações:
+
+👤 **Assessoria Jurídica**  
+- Responsável: Fernanda Paiva Carvalho  
+- Telefone: (31) 3915-8995  
+- E-mail: fernanda.carvalho@cge.mg.gov.br  
+
+---
+
+## 📌 Orientações
+
+!!! note "Importante"
+    O CAFIMP é ferramenta essencial para garantir a integridade e a segurança das contratações públicas.
+
+!!! tip "Boa prática"
+    Consulte o cadastro previamente à formalização de contratos e processos licitatórios.
+
+!!! warning "Atenção"
+    A inclusão no CAFIMP depende de processo administrativo regular, com observância aos princípios legais.
+
+---
 Telefone: (31) 3915-8995
 
 Endereço Eletrônico: fernanda.carvalho@cge.mg.gov.br
