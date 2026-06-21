@@ -1,109 +1,222 @@
 
-## DENÚNCIAS 
+# Denúncias
+## Registro, análise e tratamento no âmbito da Administração Pública
 
-## Disposições preliminares
+A denúncia é a comunicação formal apresentada por qualquer pessoa à Administração Pública ou aos órgãos de controle, noticiando a ocorrência de irregularidade, ilegalidade ou indício de desvio na gestão pública.
 
-Denúncia é a comunicação formal apresentada por qualquer pessoa à Administração ou aos órgãos de controle, noticiando a ocorrência de irregularidade, ilegalidade ou indício de desvio na gestão pública, com vistas à apuração e adoção das medidas cabíveis. Conforme a doutrina e normativos dos órgãos de controle, caracteriza-se por conter elementos mínimos de identificação do fato e sua materialidade, podendo ser identificada ou anônima, e distinguindo-se de outras manifestações por seu potencial de ensejar procedimentos investigativos e eventual responsabilização.
+Trata-se de instrumento essencial para o **fortalecimento da governança, da integridade e do controle público**, podendo resultar na apuração dos fatos e na adoção das medidas cabíveis.
 
-No âmbito do tratamento institucional, a denúncia constitui insumo relevante para a governança e, após triagem e análise preliminar, poderá ser encaminhada para apuração específica, sendo analisada no âmbito da correição — quando envolver condutas e eventual responsabilização de agentes — ou da auditoria — quando demandar avaliação de processos, controles internos e riscos —, a depender do objeto noticiado.
+---
 
-Nesse contexto, as controladorias setoriais e seccionais desempenham papel essencial na análise preliminar e no adequado encaminhamento das denúncias. Como integrantes do sistema de controle interno, são responsáveis pela apuração das manifestações no âmbito dos respectivos órgãos ou entidades em que atuam, competindo-lhes, ainda, avaliar e definir o instrumento mais adequado para a investigação dos fatos, tais como atividade de auditoria, apuração preliminar correcional, sindicância, entre outros.
+## 🎯 Finalidade
 
-No âmbito do Poder Executivo Estadual de Minas Gerais:
+A denúncia tem como objetivos:
 
-- A Ouvidoria-Geral do Estado (OGE) é responsável pelo recebimento das denúncias e pela análise prévia de plausabilidade;
-  
-- A Controladoria-Geral do Estado (CGE) é responsável pela apuração, direta ou indireta, dessas denúncias. A apuração pode ser realizada pela Auditoria-Geral, Corregedoria-Geral ou pelas controladorias setoriais e seccionais, conforme a matéria, o órgão envolvido e a natureza dos fatos denunciados. 
+- Informar irregularidades ou ilegalidades  
+- Possibilitar apuração de fatos relevantes  
+- Contribuir para a responsabilização de agentes  
+- Promover a integridade e o controle da gestão pública  
 
+---
 
-## Tratamento das denúncias no âmbito da CGE e das controladorias setoriais e seccionais 
+## 🧭 Características da denúncia
 
-As diretrizes aplicáveis ao tratamento de denúncias no âmbito da Controladoria-Geral do Estado encontram-se estabelecidas na Instrução Normativa nº 01/2024. Em linhas gerais, destacam-se as seguintes orientações:
+Uma denúncia deve conter:
 
-## Triagem e Risco
+- Identificação mínima dos fatos  
+- Indícios de materialidade  
+- Informações que permitam análise preliminar  
 
-**Porta de entrada** – As denúncias provenientes da OGE são, em regra, recebidas pelas controladorias setoriais, seccionais ou estatais, quando tratam de matérias ou envolvem servidores de seus respectivos órgãos e entidades, cabendo a essas unidades a apuração. Nos casos em que se enquadrem nos critérios de relevância, maior complexidade, envolvimento de autoridades, múltiplos órgãos ou impossibilidade de apuração no órgão de origem, as denúncias são direcionadas à AHCS/CGE, conforme definição de competência e fluxo estabelecida.
- 
+Pode ser:
 
-**Distribuição** – As denúncias recebidas pelas controladorias setoriais, seccionais ou estatais são encaminhadas para apuração conforme a natureza de seu objeto, podendo ser tratadas tanto pela área de correição quanto pela área de auditoria. Nos casos que envolvam responsabilidade disciplinar ou indícios de atos ilícitos, a apuração compete à área de correição; por sua vez, quando se referirem a falhas em processos, procedimentos ou controles internos, a apuração será conduzida pela área de auditoria.
+- **Identificada**  
+- **Anônima**  
 
-Quando recebida pela AHCS, a denúncia é encaminhada à unidade de apuração competente, principalmente à Corregedoria-Geral (COGE), se envolver responsabilidade disciplinar ou atos ilícitos, ou à Auditoria-Geral (AUGE), caso trate de falhas em processos e controles.
+Distingue-se de outras manifestações por seu potencial de gerar **procedimentos investigativos e responsabilizações**.
 
-As unidades devem atuar de forma coordenada, a fim de evitar sobreposição de atuações, podendo, conforme a relevância e as especificidades do caso, redistribuir demandas às controladorias setoriais ou seccionais, bem como promover encaminhamentos complementares a instâncias específicas, quando cabível.
+---
 
+## 🏛️ Fluxo institucional no Estado de Minas Gerais
 
-**Avaliação de Riscos** – A avaliação de riscos da denúncia deve ser realizada imediatamente após o seu recebimento, por meio da matriz de Criticidade x Detalhamento (probabilidade x impacto). Denúncias classificadas como alto ou extremo risco têm apuração prioritária, enquanto as de baixo ou médio risco podem ser tratadas de forma subsidiária, como inclusão em trabalhos, encaminhamento à gestão ou uso como insumo para ações futuras.
+No âmbito do Poder Executivo Estadual:
 
-## Execução e Conclusão
+### 📥 Recebimento
 
-A apuração de denúncias é realizada conforme as competências e capacidade técnica das unidades de apuração, orientada pela avaliação de riscos e por critérios específicos definidos internamente. Deve observar, ainda, normativos que tratam da priorização de procedimentos disciplinares e das orientações técnicas de auditoria interna governamental.
+- Realizado pela **Ouvidoria-Geral do Estado (OGE)**  
+- Responsável pela análise inicial de plausibilidade  
 
-**Análise preliminar** – Verificação inicial da suficiência e consistência das informações para decidir sobre a instauração de procedimentos; caso não haja indícios suficientes, a denúncia pode ser arquivada de forma fundamentada.
+---
 
-**Execução** – Realização dos procedimentos de auditoria ou correcionais adequados para apurar a existência de ilegalidades ou irregularidades nos fatos denunciados.
+### 🔎 Apuração
 
-**Resposta conclusiva** – Finalização da apuração com envio à OGE de resultado conclusivo, podendo ser pelo arquivamento ou pela confirmação e apuração dos fatos.
+- De responsabilidade da **Controladoria-Geral do Estado (CGE-MG)**  
+- Pode ser realizada por:
 
+  - Auditoria-Geral  
+  - Corregedoria-Geral  
+  - Controladorias Setoriais e Seccionais  
 
-## Normativos e Materiais Instrucionais
+👉 A definição depende da natureza da denúncia.
 
-- [Lei nº 869/1952 - Estatuto dos Funcionários Públicos Civis do Estado de Minas Gerais;](https://www.almg.gov.br/legislacao-mineira/texto/LEI/869/1952/)
-  
-- [Lei nº 14.184/2002 - dispõe sobre processo administrativo no âmbito da Administração Pública Estadual;](https://www.almg.gov.br/legislacao-mineira/texto/LEI/14184/2002/?cons=1)
+---
 
-- [Decreto nº 47.528/2018 - dispõe sobre a prevenção e a punição do assédio moral na administração pública estadual;](https://www.almg.gov.br/legislacao-mineira/DEC/47528/2018/)
+## ⚙️ Papel das Controladorias
 
-- [Resolução Conjunta OGE/SEPLAG/CGE nº 01/2022 - estabelece procedimentos para o acolhimento, o registro, o tratamento e a apuração de denúncia sobre a prática deassédio moral;](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=199642&marc=)
+As **Controladorias Setoriais e Seccionais** desempenham papel essencial na:
 
-- [Resolução Conjunta OGE/CGE nº 1/2022 - dispõe sobre a adoção de procedimentos entre a Ouvidoria-Geral do Estado e a Controladoria-Geral do Estado para o encaminhamento de denúncias;](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=198898&marc=)
+- Análise preliminar  
+- Definição do instrumento de apuração  
+- Execução das atividades investigativas  
 
-- [Instrução Normativa CGE nº1/2024 - dispõe sobre as diretrizes de tratamento de denúncias no âmbito da Controladoria-Geral do Estado;](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=210582&marc=)
+Podendo utilizar:
 
-- [Manual de Apuração de Ilícitos Administrativos do Poder Executivo do Estado de Minas Gerais;](https://conrege.mg.gov.br/publicacoes/sumario-manual-digital)
+- Auditoria  
+- Apuração preliminar  
+- Sindicância  
+- Outros instrumentos adequados  
 
-- [Manuais e Cartilhas.](https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas)
+---
 
+# Tratamento das denúncias  
+## Diretrizes e fluxo de atuação
 
-## Ferramentas de apoio
+O tratamento das denúncias segue as diretrizes da **Instrução Normativa CGE nº 01/2024**.
 
-Além dos normativos e materiais instrucionais já citados, as unidades responsáveis pela apuração das denúncias poderão dispor de instrumentos disponibilizados pela Corregedoria-Geral no site do Conselho de Corregedorias de Minas Gerais [CONREGE](https://conrege.mg.gov.br/#), no menu "Corregedorias / Corregedoria-Geral". São elas:
+---
 
-I - [Calculadora de prazo prescricional](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/calculadora-de-prazo-prescricional)
+## 🔎 Triagem e classificação de risco
 
-II - [Calculadora de Dosimetria de Sanções Disciplinares](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/calculadora-de-dosimetria-de-sancoes-disciplinares)
+### 📥 Porta de entrada
 
-III - [SAC - Sistema de Admissibilidade Correcional](https://conrege.mg.gov.br/corregedorias/corregedoria-geral/ferramentas/sistema-de-admissibilidade-correcional)
+As denúncias são, em regra:
 
+- Encaminhadas às Controladorias dos respectivos órgãos  
 
-## Interlocução institucional 
+Podem ser direcionadas à **AHCS/CGE** quando envolverem:
 
-No âmbito da Auditoria-Geral (AUGE), os assuntos referentes à apuração de denúncias poderão ser tratados no Núcleo de Desenvolvimento da Capacidade de Auditoria Interna (NDCA):
+- Alta relevância  
+- Maior complexidade  
+- Autoridades  
+- Múltiplos órgãos  
 
+---
 
-Júnia Maria Pinheiro de Oliveira
+### 🔄 Distribuição
 
-Telefone: (31) 3915-8907
+As denúncias são tratadas conforme seu objeto:
 
-Endereço Eletrônico: junia.pinheiro@cge.mg.gov.br
+- **Correição:** quando envolvem responsabilidade disciplinar  
+- **Auditoria:** quando envolvem processos e controles  
 
+Quando recebidas pela AHCS:
 
-\
-No âmbito da Corregedoria-Geral (COGE), a unidade responsável pela apuração de denúncias é a Superintendência Central de Análise e Supervisão Correcional (SCASC): 
+- Encaminhadas à **COGE** ou **AUGE**, conforme o caso  
 
+---
 
-Raquel de Oliveira Damázio Prudêncio
+### 📊 Avaliação de risco
 
-Telefone: (31) 3915-8996
+Deve ser realizada após o recebimento, com base na matriz:
 
-Endereço Eletrônico: raquel.damazio@cge.mg.gov.br 
+👉 **Criticidade × Detalhamento**
 
+Classificação:
 
-## Disposições finais
+- Alto ou extremo risco → prioridade máxima  
+- Médio ou baixo risco → tratamento complementar  
 
-As unidades envolvidas no tratamento de denúncias deverão observar os procedimentos e medidas de proteção à identidade do denunciante de ilícito ou irregularidades praticados contra órgãos e entidades da Administração pública direta, autárquica e fundacional do Poder Executivo, conforme o disposto no Decreto nº 48.582, de 3 de março de 2023.
+---
 
-As denúncias recebidas diretamente pela CGE serão encaminhadas à OGE, órgão competente para receber, analisar, encaminhar e acompanhar, até a decisão administrativa final, as manifestações apresentadas pelos cidadãos e usuários dos serviços públicos.
+## ⚙️ Execução da apuração
 
-As denúncias que versam sobre assédio moral serão acolhidas, registradas e apuradas de acordo com as disposições consignadas no Decreto nº 47.528/2018.
+### 🔍 Análise preliminar
 
+- Verificação da consistência das informações  
+- Possibilidade de arquivamento fundamentado  
 
+---
+
+### 🛠️ Execução
+
+- Realização de procedimentos de auditoria ou correição  
+- Apuração de irregularidades  
+
+---
+
+### ✅ Conclusão
+
+- Elaboração de resposta conclusiva  
+- Encaminhamento à OGE  
+- Possíveis resultados:
+
+  - Arquivamento  
+  - Confirmação de irregularidades  
+
+---
+
+## 📚 Normativos e materiais
+
+🔗 **Principais referências:**
+
+- Lei nº 869/1952: https://www.almg.gov.br/legislacao-mineira/texto/LEI/869/1952/  
+- Lei nº 14.184/2002: https://www.almg.gov.br/legislacao-mineira/texto/LEI/14184/2002/?cons=1  
+- Decreto nº 47.528/2018: https://www.almg.gov.br/legislacao-mineira/DEC/47528/2018/  
+- IN CGE nº 1/2024: https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=210582  
+
+📘 **Materiais de apoio:**
+
+- Manual de ilícitos: https://conrege.mg.gov.br/publicacoes/sumario-manual-digital  
+- Manuais e cartilhas: https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas  
+
+---
+
+## 🧰 Ferramentas de apoio
+
+Disponíveis no portal CONREGE:
+
+- Calculadora de prazo prescricional  
+- Calculadora de sanções disciplinares  
+- SAC – Sistema de Admissibilidade Correcional  
+
+🔗 Acesso: https://conrege.mg.gov.br/
+
+---
+
+## 📩 Interlocução institucional
+
+### Auditoria-Geral (AUGE)
+
+- Contato: junia.pinheiro@cge.mg.gov.br  
+- Telefone: (31) 3915-8907  
+
+---
+
+### Corregedoria-Geral (COGE)
+
+- Contato: raquel.damazio@cge.mg.gov.br  
+- Telefone: (31) 3915-8996  
+
+---
+
+## 📌 Disposições finais
+
+As unidades devem observar:
+
+- Proteção da identidade do denunciante  
+- Procedimentos legais aplicáveis  
+- Normas sobre apuração de assédio moral  
+
+---
+
+## 📌 Orientações
+
+!!! note "Importante"
+    A denúncia é um instrumento fundamental para o fortalecimento da integridade e do controle da gestão pública.
+
+!!! tip "Boa prática"
+    A avaliação adequada do risco e do objeto da denúncia contribui para maior eficiência na apuração.
+
+!!! warning "Atenção"
+    O tratamento das denúncias deve respeitar rigorosamente os princípios legais e os procedimentos normativos estabelecidos.
+
+---
