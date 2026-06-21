@@ -138,7 +138,7 @@ Esse reconhecimento evidencia o avanço institucional e a qualidade da atividade
 O conjunto de normativos, manuais e orientações técnicas encontra-se disponível no portal institucional da CGE-MG.
 
 🔗 **Acesso:**  
-- https://www.cge.mg.gov.br/
+- [Portal institucional](https://www.cge.mg.gov.br/)
 
 👉 Consulte a seção **Auditoria Interna Governamental** para acessar conteúdos, documentos e instrumentos de apoio.
 
