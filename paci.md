@@ -105,4 +105,58 @@ Além disso:
 
 O plano contempla:
 
+- Ações previstas para o exercício  
+- Estimativa de recursos  
+- Distribuição da capacidade de trabalho  
+- Definição de prioridades  
 
+Também inclui:
+
+- Atividades de gestão da unidade  
+- Capacitação de servidores  
+- Demandas recorrentes  
+
+---
+
+## 🔄 Relação com o RACI
+
+Ao final do exercício, a execução do PACI é registrada no:
+
+👉 **Relatório de Atividades de Controle Interno (RACI)**
+
+---
+
+### 🔗 Complementaridade
+
+- **PACI** → Planejamento  
+- **RACI** → Monitoramento e prestação de contas  
+
+Esses instrumentos:
+
+- Fortalecem a atuação das Controladorias  
+- Permitem avaliar resultados  
+- Contribuem para a melhoria contínua  
+
+---
+
+## 📜 Legislação
+
+As diretrizes do PACI estão previstas na:
+
+📜 **Instrução Normativa CGE/GAB nº 01/2023**  
+🔗 https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385  
+
+---
+
+## 📌 Orientações
+
+!!! note "Importante"
+    O PACI é o principal instrumento de organização das atividades de controle interno ao longo do exercício.
+
+!!! tip "Boa prática"
+    O planejamento deve ser orientado por riscos e priorizar ações que gerem maior valor para a gestão pública.
+
+!!! warning "Atenção"
+    A elaboração do PACI deve observar as diretrizes institucionais e os normativos vigentes da CGE-MG.
+
+---
