@@ -137,14 +137,11 @@ O processo pode resultar em:
 
 🔗 **Normativos principais:**
 
-- Lei nº 12.846/2013:  
-  https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm  
+- [Lei nº 12.846/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm)  
 
-- Decreto Estadual nº 48.821/2024:  
-  https://www.almg.gov.br/legislacao-mineira/texto/DEC/48821/2024/  
+- [Decreto Estadual nº 48.821/2024](https://www.almg.gov.br/legislacao-mineira/texto/DEC/48821/2024/)  
 
-- Resolução Conjunta CGE/AGE nº 5/2024:  
-  https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=213015  
+- [Resolução Conjunta CGE/AGE nº 5/2024](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=213015)  
 
 ---
 
@@ -161,7 +158,7 @@ Para dúvidas ou encaminhamento de propostas:
 
 Para conhecer acordos já celebrados e outras informações:
 
-🔗 https://cge.mg.gov.br/projetos-especiais/acordo-de-leniencia  
+🔗 [Portal CGE - Projetos Especiais](https://cge.mg.gov.br/projetos-especiais/acordo-de-leniencia)  
 
 ---
 
