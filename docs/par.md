@@ -1,46 +1,182 @@
-# PROCESSO ADMINISTRATIVO DE RESPONSABILIZAÇÃO DE PESSOAS JURÍDICAS (PAR)
+# Processo Administrativo de Responsabilização (PAR)
+## Apuração de atos lesivos praticados por pessoas jurídicas
 
-O Processo Administrativo de Responsabilização de Pessoas Jurídicas (PAR) é o instrumento por meio do qual a Administração Pública apura e responsabiliza empresas e demais pessoas jurídicas pela prática de atos lesivos contra a administração pública, nacional ou estrangeira, nos termos da Lei Federal nº 12.846, de 2013, conhecida como Lei Anticorrupção.
+O **Processo Administrativo de Responsabilização de Pessoas Jurídicas (PAR)** é o instrumento utilizado pela Administração Pública para apurar e responsabilizar empresas pela prática de atos lesivos contra a administração pública, nacional ou estrangeira.
 
-No âmbito do Poder Executivo do Estado de Minas Gerais, o PAR é regulamentado pelo Decreto Estadual nº 48.821, de 2024, que estabelece os procedimentos para apuração das infrações, a aplicação das sanções cabíveis e as garantias processuais asseguradas às pessoas jurídicas investigadas.
+O procedimento está previsto na **Lei Federal nº 12.846/2013 (Lei Anticorrupção)** e regulamentado, no âmbito estadual, pelo **Decreto nº 48.821/2024**.
 
-A responsabilização administrativa da pessoa jurídica é independente da responsabilização individual de seus dirigentes, administradores ou demais agentes envolvidos, bem como de eventuais responsabilizações nas esferas civil e judicial. Além disso, o PAR pode ser conduzido de forma articulada com procedimentos destinados à apuração de infrações previstas na legislação de licitações e contratos administrativos, promovendo maior eficiência e racionalidade na atuação estatal.
+---
 
-O processo tem início a partir da identificação de indícios da prática de ato lesivo, podendo ser precedido de análises preliminares ou investigações destinadas à verificação da autoria e da materialidade dos fatos. Constatados elementos suficientes para a apuração, é instaurado formalmente o Processo Administrativo de Responsabilização por meio de portaria da autoridade competente, com a designação de comissão processante responsável pela condução dos trabalhos.
+## 🎯 Finalidade
 
-A comissão processante atua com independência técnica, imparcialidade e observância aos princípios do contraditório e da ampla defesa, assegurando à pessoa jurídica o direito de conhecer as acusações formuladas, apresentar defesa, produzir provas e se manifestar sobre os elementos constantes dos autos. Durante a instrução processual, podem ser realizadas diligências, análises documentais, oitivas e demais medidas necessárias à adequada apuração dos fatos.
+O PAR tem como principais objetivos:
 
-Concluída a fase de instrução, a comissão elabora relatório final contendo a análise das provas produzidas, o exame dos argumentos apresentados pela defesa e manifestação conclusiva quanto à ocorrência da infração e à eventual aplicação de sanções. O processo segue, então, para análise jurídica e decisão da autoridade competente.
+- Apurar atos ilícitos praticados por pessoas jurídicas  
+- Responsabilizar empresas por danos à Administração Pública  
+- Garantir a observância da legislação anticorrupção  
+- Promover a integridade nas relações público-privadas  
+- Proteger o interesse público  
 
-Entre as sanções previstas na Lei Anticorrupção destacam-se a aplicação de multa administrativa e a publicação extraordinária da decisão condenatória. Dependendo das circunstâncias do caso concreto, também podem ser aplicadas sanções previstas na legislação de licitações e contratos administrativos, observadas as garantias legais e os critérios de dosimetria estabelecidos na legislação.
+---
 
-O Decreto Estadual nº 48.821/2024 também prevê mecanismos voltados à promoção da colaboração e da integridade corporativa, como a celebração de acordos de leniência e a consideração da existência e efetividade de programas de integridade na definição das sanções aplicáveis. Tais instrumentos reforçam o caráter preventivo da legislação e estimulam a adoção de práticas de governança e conformidade pelas organizações que se relacionam com o poder público.
+## 🧭 Características do processo
 
-No âmbito da Controladoria-Geral do Estado de Minas Gerais, a condução, supervisão e orientação das atividades relacionadas à responsabilização de pessoas jurídicas são exercidas pela Corregedoria-Geral, por intermédio da Superintendência Central de Responsabilização de Pessoas Jurídicas, unidade especializada responsável por promover a aplicação da Lei Anticorrupção, fortalecer os mecanismos de integridade e contribuir para a prevenção e o combate à corrupção no Estado.
+A responsabilização da pessoa jurídica:
 
-Dessa forma, o Processo Administrativo de Responsabilização representa importante instrumento de proteção do interesse público, de fortalecimento da integridade nas relações entre o setor público e o setor privado e de promoção de um ambiente institucional mais ético, transparente e íntegro.
+- É **independente** da responsabilização de seus dirigentes  
+- Pode ocorrer de forma simultânea às esferas civil e judicial  
+- Pode ser articulada com processos de licitações e contratos  
 
+O PAR pode ser precedido por:
 
-# Normativos e Materiais Instrucionais
+- Análises preliminares  
+- Investigações administrativas  
 
-* [Lei Federal nº 12.846, de 2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm);
+---
 
-* [Decreto estadual nº 48.821, de 13 de maio de 2024](https://www.almg.gov.br/legislacao-mineira/texto/DEC/48821/2024/?cons=1);
+## ⚙️ Como funciona o PAR
 
-* [Manual de Apuração de Ilícitos Administrativos do Poder Executivo do Estado de Minas Gerais](https://www.conrege.mg.gov.br/publicacoes/sumario-manual-digital);
+O processo segue etapas estruturadas para garantir a adequada apuração dos fatos.
 
-* [Modelos de Atos (Anexo do Manual de Apuração de Ilícitos Administrativos)](https://www.conrege.mg.gov.br/images/2023/Manuais%20e%20Cartilhas/Modelo%20de%20Atos%20-%202023.pdf). 
-  
- 
+---
 
-# Interlocução institucional
+### 📥 1. Instauração
 
-Superintendência Central de Responsabilização de Pessoas Jurídicas
+- O processo se inicia com a identificação de indícios de irregularidade  
+- É formalizado por meio de **portaria da autoridade competente**  
+- É designada uma **comissão processante**  
 
-Helton José de Almeida Souza
+---
 
-Telefone: (31) 3915-8978
+### 🔍 2. Instrução processual
 
-Endereço Eletrônico: helton.almeida@cge.mg.gov.br
+A comissão processante conduz a apuração com:
 
+- Independência técnica  
+- Imparcialidade  
+- Observância do contraditório e ampla defesa  
+
+Durante essa fase, podem ser realizadas:
+
+- Análises documentais  
+- Diligências  
+- Oitivas  
+- Produção de provas  
+
+---
+
+### 📄 3. Relatório final
+
+Ao término da instrução:
+
+- A comissão elabora relatório conclusivo  
+- Analisa provas e argumentos da defesa  
+- Indica eventual responsabilização  
+
+---
+
+### ✅ 4. Decisão
+
+O processo é encaminhado para:
+
+- Análise jurídica  
+- Decisão da autoridade competente  
+
+---
+
+## ⚖️ Sanções aplicáveis
+
+Entre as sanções previstas na Lei Anticorrupção, destacam-se:
+
+- Multa administrativa  
+- Publicação extraordinária da decisão condenatória  
+
+Também podem ser aplicadas sanções previstas em:
+
+- Legislação de licitações e contratos  
+
+---
+
+## 🧩 Instrumentos complementares
+
+O PAR pode envolver mecanismos que incentivam a integridade, como:
+
+- **Acordo de Leniência**  
+- Avaliação de programas de integridade  
+
+Esses instrumentos contribuem para:
+
+- Redução de sanções  
+- Promoção da governança corporativa  
+- Prevenção de novos ilícitos  
+
+---
+
+## 🏛️ Competência institucional
+
+No âmbito da CGE-MG, a condução e supervisão do PAR são exercidas pela:
+
+👉 **Corregedoria-Geral**
+
+Por meio da:
+
+👉 **Superintendência Central de Responsabilização de Pessoas Jurídicas**
+
+---
+
+## 📌 Importância institucional
+
+O PAR é um instrumento essencial para:
+
+- Combater a corrupção  
+- Proteger o erário  
+- Promover a integridade institucional  
+- Fortalecer a relação entre setor público e privado  
+
+---
+
+## 📜 Normativos e materiais
+
+🔗 **Referências principais:**
+
+- Lei nº 12.846/2013:  
+  https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm  
+
+- Decreto nº 48.821/2024:  
+  https://www.almg.gov.br/legislacao-mineira/texto/DEC/48821/2024/?cons=1  
+
+📘 **Materiais de apoio:**
+
+- Manual de Apuração de Ilícitos:  
+  https://www.conrege.mg.gov.br/publicacoes/sumario-manual-digital  
+
+- Modelos de Atos:  
+  https://www.conrege.mg.gov.br/images/2023/Manuais%20e%20Cartilhas/Modelo%20de%20Atos%20-%202023.pdf  
+
+---
+
+## 📩 Interlocução institucional
+
+Para orientações e esclarecimentos:
+
+🏢 **Superintendência Central de Responsabilização de Pessoas Jurídicas**  
+
+👤 Responsável: Helton José de Almeida Souza  
+📞 Telefone: (31) 3915-8978  
+📧 E-mail: helton.almeida@cge.mg.gov.br  
+
+---
+
+## 📌 Orientações
+
+!!! note "Importante"
+    O PAR é o principal instrumento para responsabilização de pessoas jurídicas por atos lesivos contra a Administração Pública.
+
+!!! tip "Boa prática"
+    A condução do processo deve observar rigorosamente os princípios do contraditório, ampla defesa e devido processo legal.
+
+!!! warning "Atenção"
+    A correta instrução do processo é essencial para garantir a validade das decisões e a aplicação adequada das sanções.
+
+---
 
