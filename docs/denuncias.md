@@ -45,15 +45,15 @@ No âmbito do Poder Executivo Estadual:
 - Realizado pela **Ouvidoria-Geral do Estado (OGE)**  
 - Responsável pela análise inicial de plausibilidade  
 
-🔗 **Registrar denúncia:**  
-https://www.ouvidoriageral.mg.gov.br/registre-ou-consulte-sua-manifestacao  
+🔗 **Registrar denúncia:** 👉 [CLIQUE AQUI](https://chatbot.ouvidoriageral.mg.gov.br)
 
+ 
+ 
 ### 📂 Classificação por tema
 
 As denúncias podem ser analisadas por ouvidorias temáticas especializadas, conforme o assunto informado.
 
-👉 Para conhecer as áreas temáticas e suas formas de atuação, acesse:  
-➡️ ./ouvidorias-tematicas.md
+👉 Para conhecer as áreas temáticas e suas formas de atuação, acesse: [Ouvidorias Temáticas](https://github.com/CGEMG-AHCS/guia-de-boas-vindas/blob/main/ouvidorias-tematicas.md)
 
 💡 Não é necessário identificar previamente a ouvidoria temática — o direcionamento é realizado automaticamente pela OGE‑MG.
 
