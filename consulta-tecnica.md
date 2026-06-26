@@ -93,7 +93,7 @@ A Consulta Técnica constitui importante instrumento para:
 Para mais informações, consulte:
 
 📜 **Resolução CGE nº 26/2021**  
-🔗 https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=196898
+🔗 [Pesquisa Legislativa MG](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=196898)
 
 ---
 
