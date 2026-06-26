@@ -45,6 +45,18 @@ No âmbito do Poder Executivo Estadual:
 - Realizado pela **Ouvidoria-Geral do Estado (OGE)**  
 - Responsável pela análise inicial de plausibilidade  
 
+🔗 **Registrar denúncia:** 👉 [CLIQUE AQUI](https://chatbot.ouvidoriageral.mg.gov.br)
+
+ 
+ 
+### 📂 Classificação por tema
+
+As denúncias podem ser analisadas por ouvidorias temáticas especializadas, conforme o assunto informado.
+
+👉 Para conhecer as áreas temáticas e suas formas de atuação, acesse: [Ouvidorias Temáticas](https://github.com/CGEMG-AHCS/guia-de-boas-vindas/blob/main/ouvidorias-tematicas.md)
+
+💡 Não é necessário identificar previamente a ouvidoria temática — o direcionamento é realizado automaticamente pela OGE‑MG.
+
 ---
 
 ### 🔎 Apuração
@@ -146,7 +158,7 @@ Classificação:
 ### ✅ Conclusão
 
 - Elaboração de resposta conclusiva  
-- Encaminhamento à OGE  
+- Encaminhamento à autoridade competente e à OGE  
 - Possíveis resultados:
 
   - Arquivamento  
@@ -158,15 +170,15 @@ Classificação:
 
 🔗 **Principais referências:**
 
-- Lei nº 869/1952: https://www.almg.gov.br/legislacao-mineira/texto/LEI/869/1952/  
-- Lei nº 14.184/2002: https://www.almg.gov.br/legislacao-mineira/texto/LEI/14184/2002/?cons=1  
-- Decreto nº 47.528/2018: https://www.almg.gov.br/legislacao-mineira/DEC/47528/2018/  
-- IN CGE nº 1/2024: https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=210582  
+- [Lei nº 869/1952](https://www.almg.gov.br/legislacao-mineira/texto/LEI/869/1952/)  
+- [Lei nº 14.184/2002](https://www.almg.gov.br/legislacao-mineira/texto/LEI/14184/2002/?cons=1)  
+- [Decreto nº 47.528/2018](https://www.almg.gov.br/legislacao-mineira/DEC/47528/2018/)  
+- [IN CGE nº 1/2024](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=210582)  
 
 📘 **Materiais de apoio:**
 
-- Manual de ilícitos: https://conrege.mg.gov.br/publicacoes/sumario-manual-digital  
-- Manuais e cartilhas: https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas  
+- [Manual de ilícitos](https://conrege.mg.gov.br/publicacoes/sumario-manual-digital)  
+- [Manuais e cartilhas](https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas)  
 
 ---
 
@@ -178,7 +190,7 @@ Disponíveis no portal CONREGE:
 - Calculadora de sanções disciplinares  
 - SAC – Sistema de Admissibilidade Correcional  
 
-🔗 Acesso: https://conrege.mg.gov.br/
+🔗 Acesso: [Portal CONREGE](https://conrege.mg.gov.br/)
 
 ---
 
