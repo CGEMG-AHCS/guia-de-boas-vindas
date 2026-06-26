@@ -139,19 +139,15 @@ O PAR é um instrumento essencial para:
 
 🔗 **Referências principais:**
 
-- Lei nº 12.846/2013:  
-  https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm  
+- [Lei nº 12.846/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm)  
 
-- Decreto nº 48.821/2024:  
-  https://www.almg.gov.br/legislacao-mineira/texto/DEC/48821/2024/?cons=1  
+- [Decreto nº 48.821/2024](https://www.almg.gov.br/legislacao-mineira/texto/DEC/48821/2024/?cons=1)
 
 📘 **Materiais de apoio:**
 
-- Manual de Apuração de Ilícitos:  
-  https://www.conrege.mg.gov.br/publicacoes/sumario-manual-digital  
+- [Manual de Apuração de Ilícitos](https://www.conrege.mg.gov.br/publicacoes/sumario-manual-digital)  
 
-- Modelos de Atos:  
-  https://www.conrege.mg.gov.br/images/2023/Manuais%20e%20Cartilhas/Modelo%20de%20Atos%20-%202023.pdf  
+- [Modelos de Atos](https://www.conrege.mg.gov.br/images/2023/Manuais%20e%20Cartilhas/Modelo%20de%20Atos%20-%202023.pdf)  
 
 ---
 
