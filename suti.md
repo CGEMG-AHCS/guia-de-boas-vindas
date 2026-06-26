@@ -118,7 +118,7 @@ A política tem como objetivos principais:
 O portal da PMPI reúne conteúdos e ferramentas de apoio à implementação da política.
 
 🔗 **Acesso:**  
-- https://pmpi.mg.gov.br/
+- [Portal da PMPI](https://pmpi.mg.gov.br/)
 
 ---
 
