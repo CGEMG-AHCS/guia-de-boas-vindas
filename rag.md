@@ -128,26 +128,19 @@ A divulgação do relatório segue as diretrizes da:
 
 🔗 **Principais normativos:**
 
-- Constituição Federal (art. 71):  
-  https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm  
+- [Constituição Federal (art. 71)](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)  
 
-- Constituição Estadual (art. 76):  
-  https://www.almg.gov.br/legislacao-mineira/texto/CON/1989/1989/  
+- [Constituição Estadual (art. 76)](https://www.almg.gov.br/legislacao-mineira/texto/CON/1989/1989/)
 
-- Lei de Responsabilidade Fiscal (LC nº 101/2000):  
-  https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm  
+- [Lei de Responsabilidade Fiscal (LC nº 101/2000)](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm)  
 
-- Lei Orgânica do TCEMG (LC nº 102/2008):  
-  https://www.almg.gov.br/legislacao-mineira/texto/LCP/102/2008/  
+- [Lei Orgânica do TCEMG (LC nº 102/2008)](https://www.almg.gov.br/legislacao-mineira/texto/LCP/102/2008/)  
 
-- Instrução Normativa TCEMG nº 14/2011:  
-  https://www.tce.mg.gov.br/projetocontas/atos/IN-14-11.pdf  
+- [Instrução Normativa TCEMG nº 14/2011](https://www.tce.mg.gov.br/projetocontas/atos/IN-14-11.pdf)  
 
-- Lei de Acesso à Informação (Lei nº 12.527/2011):  
-  https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm  
+- [Lei de Acesso à Informação (Lei nº 12.527/2011)](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)  
 
-- Decreto Estadual nº 45.969/2012:  
-  https://www.almg.gov.br/legislacao-mineira/DEC/45969/2012/  
+- [Decreto Estadual nº 45.969/2012](https://www.almg.gov.br/legislacao-mineira/DEC/45969/2012/)  
 
 ---
 
