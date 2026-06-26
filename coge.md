@@ -146,7 +146,7 @@ No âmbito do Conselho, a Corregedoria-Geral exerce papel estratégico de:
 O portal oficial do Conselho reúne conteúdos técnicos e normativos relevantes.
 
 🔗 **Acesso:**  
-- https://conrege.mg.gov.br/
+- [Portal CONREGE](https://conrege.mg.gov.br/)
 
 ---
 
@@ -154,16 +154,16 @@ O portal oficial do Conselho reúne conteúdos técnicos e normativos relevantes
 
 Acesse os principais conteúdos disponíveis:
 
-- Legislação Geral: https://conrege.mg.gov.br/legislacoes/legislacao-geral  
-- Legislação Específica: https://conrege.mg.gov.br/legislacoes/legislacao-especifica  
-- Deliberações e Resoluções: https://conrege.mg.gov.br/legislacoes/deliberacoes-e-resolucoes  
-- Súmulas Administrativas: https://conrege.mg.gov.br/legislacoes/sumulas-administrativas  
-- Jurisprudência: https://conrege.mg.gov.br/legislacoes/jurisprudencia  
-- Pesquisa Legislativa: https://conrege.mg.gov.br/legislacoes/pesquisa-legislativa  
-- Perguntas e Respostas: https://conrege.mg.gov.br/legislacoes/perguntas-e-respostas  
-- Manuais e Cartilhas: https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas  
-- Artigos e Periódicos: https://conrege.mg.gov.br/publicacoes/artigos-e-periodicos  
-- Manual Digital: https://conrege.mg.gov.br/publicacoes/sumario-manual-digital  
+- [Legislação Geral](https://conrege.mg.gov.br/legislacoes/legislacao-geral)  
+- [Legislação Específica](https://conrege.mg.gov.br/legislacoes/legislacao-especifica)  
+- [Deliberações e Resoluções](https://conrege.mg.gov.br/legislacoes/deliberacoes-e-resolucoes)  
+- [Súmulas Administrativas](https://conrege.mg.gov.br/legislacoes/sumulas-administrativas)  
+- [Jurisprudência](https://conrege.mg.gov.br/legislacoes/jurisprudencia)  
+- [Pesquisa Legislativa](https://conrege.mg.gov.br/legislacoes/pesquisa-legislativa)  
+- [Perguntas e Respostas](https://conrege.mg.gov.br/legislacoes/perguntas-e-respostas)  
+- [Manuais e Cartilhas](https://conrege.mg.gov.br/publicacoes/manuais-e-cartilhas)  
+- [Artigos e Periódicos](https://conrege.mg.gov.br/publicacoes/artigos-e-periodicos)  
+- [Manual Digital](https://conrege.mg.gov.br/publicacoes/sumario-manual-digital)  
 
 ---
 
@@ -179,7 +179,4 @@ Acesse os principais conteúdos disponíveis:
     A condução de processos correcionais deve observar rigorosamente os princípios legais e as garantias processuais.
 
 ---
-
-
-
 
