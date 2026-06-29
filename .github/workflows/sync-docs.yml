@@ -1,0 +1,47 @@
+name: Sync incremental de docs
+
+on:
+  push:
+    paths:
+      - '**.md'
+    paths-ignore:
+      - 'docs/**'
+
+jobs:
+  sync:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+
+      - name: Configurar Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Detectar arquivos modificados
+        id: changed
+        run: |
+          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.md$' || true)
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+
+      - name: Atualizar apenas arquivos modificados
+        run: |
+          mkdir -p docs
+
+          for file in ${{ steps.changed.outputs.files }}; do
+            if [ -f "$file" ]; then
+              mkdir -p docs/$(dirname "$file")
+              cp "$file" docs/"$file"
+            fi
+          done
+
+      - name: Commit e push
+        run: |
+          git add docs/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Sync incremental docs"
+          git push
