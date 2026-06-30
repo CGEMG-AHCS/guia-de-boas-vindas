@@ -1,47 +1,67 @@
-name: Sync incremental de docs
+name: Sync Docs
 
 on:
   push:
     paths:
-      - '**.md'
-    paths-ignore:
-      - 'docs/**'
+      - '**/*.md'
+      - '*.md'
+
+permissions:
+  contents: write
 
 jobs:
   sync:
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
+    # Evita loop quando o próprio workflow faz commit
+    if: github.actor != 'github-actions[bot]'
+
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Configurar Git
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Detectar arquivos modificados
+      - name: Identificar arquivos Markdown alterados
         id: changed
         run: |
-          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.md$' || true)
-          echo "files=$FILES" >> $GITHUB_OUTPUT
+          git diff --name-only HEAD~1 HEAD | grep '\.md$' > changed_files.txt || true
 
-      - name: Atualizar apenas arquivos modificados
+          echo "Arquivos alterados:"
+          cat changed_files.txt || true
+
+      - name: Atualizar docs
         run: |
           mkdir -p docs
 
-          for file in ${{ steps.changed.outputs.files }}; do
-            if [ -f "$file" ]; then
-              mkdir -p docs/$(dirname "$file")
-              cp "$file" docs/"$file"
-            fi
-          done
+          while read file; do
 
-      - name: Commit e push
+            # Ignora arquivos dentro de docs
+            if [[ "$file" == docs/* ]]; then
+              continue
+            fi
+
+            if [ -f "$file" ]; then
+              mkdir -p "docs/$(dirname "$file")"
+              cp "$file" "docs/$file"
+              echo "Copiado: $file"
+            fi
+
+          done < changed_files.txt
+
+      - name: Commit e Push
         run: |
-          git add docs/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Sync incremental docs"
+          git add docs
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração para enviar."
+            exit 0
+          fi
+
+          git commit -m "Atualização automática da pasta docs"
           git push
