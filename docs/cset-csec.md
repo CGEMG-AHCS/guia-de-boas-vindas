@@ -133,6 +133,28 @@ Responsáveis por:
 
 ---
 
+## 🔗 Painel de Informações das Controladorias
+
+Acesse o painel com informações sobre os responsáveis pelas Controladorias setoriais e seccionais, das estatais e da DPMG, além do controle dos prazos de permanência nos cargos, facilitando a consulta e o acompanhamento das informações institucionais.
+
+O painel está estruturado da seguinte forma:
+
+- Quem é Quem – Titulares e coordenação de NATI e NUCAD;
+- Quem é Quem – Estatais e DPMG;
+- CSEC/CSEC - Titulares, coordenação e outros cargos vinculados à CGE;
+- Controle de prazos de permanência - Titulares das CSEC/CSEC;
+- Controle de prazos de permanência - Coordenação de NUCAD e NATI 
+
+<div align="center">
+
+<a href="https://www.ouvidoriageral.mg.gov.br/ouvidorias-tematicas/ouvidoria-ambiental">
+  <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLIQUE%20AQUI-4CAF50?style=for-the-badge" alt="Clique aqui para acessar a Ouvidoria Educacional">
+</a>
+
+</div>
+
+---
+
 ## 📌 Orientações
 
 !!! note "Importante"
