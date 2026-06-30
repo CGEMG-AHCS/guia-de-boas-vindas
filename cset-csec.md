@@ -133,9 +133,9 @@ Responsáveis por:
 
 ---
 
-## 🔗 Painel Integrado de Informações das Controladorias
+## 🔗 Painel de Informações das Controladorias
 
-Acesse um painel com dados sobre os responsáveis pelas Controladorias setoriais e seccionais, das estatais e da DPMG, além do controle dos prazos de permanência nos cargos, facilitando a consulta e o acompanhamento das informações institucionais.
+Acesse o painel com dados sobre os responsáveis pelas Controladorias setoriais e seccionais, das estatais e da DPMG, além do controle dos prazos de permanência nos cargos, facilitando a consulta e o acompanhamento das informações institucionais.
 
 O painel está estruturado da seguinte forma:
 
