@@ -145,13 +145,7 @@ O painel está estruturado da seguinte forma:
 - Controle de prazos de permanência - Titulares das CSEC/CSEC;
 - Controle de prazos de permanência - Coordenação de NUCAD e NATI 
 
-<div align="center">
-
-<ahref="https://app.powerbi.com/viewr=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9">
-  <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLIQUE%20AQUI-4CAF50?style=for-the-badge" alt="Clique aqui para acessar a Ouvidoria Educacional">
-</a>
-
-</div>
+[CLIQUE AQUI](https://app.powerbi.com/view?r=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 ---
 
