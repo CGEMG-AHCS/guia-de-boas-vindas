@@ -147,8 +147,8 @@ O painel está estruturado da seguinte forma:
 
 <div align="center">
 
-<a href="(https://app.powerbi.com/viewr=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)">
-  <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLIQUE%20AQUI-4CAF50?style=for-the-badge" alt="Clique aqui para acessar o Painel de Informações das Controladorias">
+<ahref="https://app.powerbi.com/viewr=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9">
+  <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLIQUE%20AQUI-4CAF50?style=for-the-badge" alt="Clique aqui para acessar a Ouvidoria Educacional">
 </a>
 
 </div>
