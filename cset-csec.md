@@ -145,8 +145,6 @@ O painel está estruturado da seguinte forma:
 - Controle de prazos de permanência - Titulares das CSEC/CSEC;
 - Controle de prazos de permanência - Coordenação de NUCAD e NATI 
 
-[CLIQUE AQUI](https://app.powerbi.com/view?r=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
-
 ---
 
 ## 📌 Orientações
