@@ -147,8 +147,8 @@ O painel está estruturado da seguinte forma:
 
 <div align="center">
 
-<a href="https://www.ouvidoriageral.mg.gov.br/ouvidorias-tematicas/ouvidoria-ambiental">
-  <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLIQUE%20AQUI-4CAF50?style=for-the-badge" alt="Clique aqui para acessar a Ouvidoria Educacional">
+<a href="(https://teams.cloud.microsoft/l/message/19:64a2b900ac2a48db83b37361bd321144@thread.v2/1782401142060?context=%7B%22contextType%22%3A%22chat%22%7D)">
+  <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLIQUE%20AQUI-4CAF50?style=for-the-badge" alt="Clique aqui para acessar o Painel de Informações das Controladorias">
 </a>
 
 </div>
