@@ -147,7 +147,7 @@ O painel está estruturado da seguinte forma:
 
 <div align="center">
 
-<a href="(https://teams.cloud.microsoft/l/message/19:64a2b900ac2a48db83b37361bd321144@thread.v2/1782401142060?context=%7B%22contextType%22%3A%22chat%22%7D)">
+<a href="(https://app.powerbi.com/viewr=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)">
   <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLIQUE%20AQUI-4CAF50?style=for-the-badge" alt="Clique aqui para acessar o Painel de Informações das Controladorias">
 </a>
 
